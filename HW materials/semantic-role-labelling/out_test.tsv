@@ -1,8646 +1,8646 @@
-meanwhile	O	O
-,	O	O
-though	O	B-Aspect
-windows	B-Object	O
-8	I-Object	O
-is	O	O
-significantly	O	O
-at	O	O
-greater	B-Predicate	O
-risk	O	O
-(	O	O
-1	O	O
-.	O	O
-73	O	O
-percent	O	O
-)	O	O
-compared	O	O
-to	O	O
-windows	B-Object	O
-8	I-Object	O
-.	O	O
-1	O	O
-,	O	O
-according	O	O
-to	O	O
-redmond	O	O
-'	O	O
-s	O	O
-report	O	O
-,	O	O
-it	O	O
-'	O	O
-s	O	O
-still	O	O
-significantly	O	O
-safer	B-Predicate	O
-than	O	O
-windows	B-Object	B-Predicate
-7	I-Object	O
-,	O	O
-windows	B-Object	O
-xp	I-Object	O
-,	O	O
-or	O	O
-windows	B-Object	O
-vista	I-Object	O
-.	O	O
-
-windows	O	B-Aspect
-7	O	B-Aspect
-is	O	O
-still	O	O
-going	O	O
-strong	O	O
-even	O	O
-though	O	O
-the	O	O
-day	O	O
-was	O	O
-about	O	O
-windows	B-Object	B-Predicate
-8	I-Object	O
-,	O	O
-microsoft	O	O
-announced	O	O
-it	O	O
-'	O	O
-s	O	O
-approaching	O	O
-450	O	O
-million	O	O
-copies	O	O
-of	O	O
-windows	O	O
-7	O	O
-sold	O	O
-thus	O	O
-far	O	B-Aspect
-,	O	O
-with	O	O
-windows	B-Object	O
-7	I-Object	O
-consumer	B-Aspect	O
-usage	I-Aspect	O
-coming	O	O
-in	O	O
-greater	B-Predicate	O
-than	O	O
-windows	B-Object	B-Predicate
-xp	I-Object	I-Aspect
-.	O	I-Aspect
-
-i	O	O
-have	O	O
-tried	O	O
-windows	B-Object	O
-8	I-Object	O
-and	O	O
-it	O	O
-'	O	O
-s	O	O
-lighter	B-Predicate	O
-than	O	O
-windows	B-Object	O
-xp	I-Object	O
-.	O	O
-
-moreover	O	O
-,	O	O
-windows	B-Object	O
-8	I-Object	O
-is	O	O
-even	O	O
-lighter	B-Predicate	O
-on	O	O
-your	O	O
-resources	B-Aspect	O
-than	O	O
-windows	B-Object	B-Predicate
-7	I-Object	O
-(	O	O
-but	O	O
-heavier	B-Predicate	O
-than	O	O
-windows	B-Object	O
-xp	I-Object	O
-,	O	O
-of	O	O
-course	O	O
-).	O	O
-
-that	O	O
-means	O	O
-that	O	O
-for	O	O
-most	O	O
-consumers	O	O
-,	O	O
-choosing	B-Aspect	O
-a	O	O
-windows	B-Object	O
-8	I-Object	O
-product	O	O
-edition	O	O
-is	O	O
-simpler	B-Predicate	O
-than	O	O
-it	O	O
-'	O	O
-s	O	O
-been	O	O
-since	O	O
-october	O	O
-2001	O	O
-,	O	O
-when	O	O
-microsoft	O	B-Object
-released	O	O
-windows	B-Object	B-Predicate
-xp	I-Object	O
-in	O	O
-two	O	O
-flavors	O	O
-,	O	O
-windows	B-Object	O
-xp	I-Object	O
-home	O	O
-edition	O	O
-and	O	O
-windows	B-Object	O
-xp	I-Object	O
-professional	O	O
-edition	O	O
-.	O	O
-
-whatever	O	O
-the	O	O
-case	O	O
-,	O	O
-enterprises	O	O
-in	O	O
-general	O	O
-will	O	O
-find	O	O
-that	O	O
-upgrading	B-Aspect	O
-from	O	O
-windows	B-Object	B-Predicate
-7	I-Object	O
-to	O	O
-windows	B-Object	B-Predicate
-8	I-Object	O
-will	O	O
-be	O	O
-significantly	O	O
-simpler	B-Predicate	O
-and	O	O
-less	B-Predicate	B-Object
-expensive	I-Predicate	B-Aspect
-than	O	O
-upgrading	B-Aspect	B-Predicate
-from	O	B-Aspect
-windows	B-Object	B-Aspect
-xp	I-Object	I-Aspect
-to	O	I-Aspect
-windows	O	I-Aspect
-7	O	I-Aspect
-,	O	I-Aspect
-he	O	O
-said	O	O
-.	O	O
-
-windows	B-Object	O
-8	I-Object	O
-is	O	O
-21	O	O
-times	O	O
-and	O	O
-6	O	O
-times	O	O
-safer	B-Predicate	B-Aspect
-than	O	O
-windows	B-Object	B-Predicate
-xp	I-Object	I-Aspect
-and	O	O
-windows	B-Object	O
-7	I-Object	O
-respectively	O	O
-.	O	O
-
-as	O	O
-per	O	O
-microsoft	O	B-Object
-claims	O	O
-,	O	O
-windows	B-Object	O
-8	I-Object	O
-is	O	O
-6	O	O
-times	O	O
-safer	B-Predicate	B-Object
-than	O	O
-windows	B-Object	B-Predicate
-and	O	O
-21	O	O
-times	O	O
-safer	B-Predicate	B-Aspect
-than	O	O
-windows	B-Object	B-Predicate
-xp	I-Object	I-Aspect
-from	O	O
-a	O	I-Aspect
-virus	O	O
-infection	O	O
-perspective	O	O
-.	O	O
-
-the	O	O
-most	O	O
-secure	O	O
-os	O	O
-ever	O	O
-made	O	B-Object
-:	O	O
-according	O	O
-to	O	O
-microsoft	O	B-Aspect
-,	O	O
-windows	B-Object	O
-8	I-Object	O
-is	O	O
-21	O	O
-times	O	O
-safer	B-Predicate	B-Aspect
-than	O	O
-windows	B-Object	B-Predicate
-xp	I-Object	I-Aspect
-,	O	I-Aspect
-and	O	O
-6	O	O
-times	O	O
-safer	B-Predicate	B-Object
-than	O	O
-windows	B-Object	B-Predicate
-7	I-Object	O
-,	O	O
-from	O	O
-a	O	O
-malware	B-Aspect	O
-infection	I-Aspect	O
-perspective	O	O
-.	O	O
-
-however	O	O
-,	O	O
-we	O	O
-'	O	O
-re	O	O
-sure	O	O
-at	O	O
-least	O	O
-on	O	O
-one	O	O
-point	O	O
-now	O	O
-that	O	O
-the	O	O
-new	O	O
-windows	B-Object	B-Predicate
-8	I-Object	O
-password	O	O
-features	O	O
-won	O	B-Object
-'	O	O
-t	O	O
-make	O	O
-windows	B-Object	O
-8	I-Object	O
-password	O	O
-safer	B-Predicate	B-Aspect
-than	O	O
-the	O	O
-traditional	O	O
-text	O	O
-password	O	O
-in	O	O
-windows	B-Object	O
-xp	I-Object	O
-.	O	O
-
-but	O	O
-that	O	O
-aside	O	B-Aspect
-,	O	O
-windows	B-Object	O
-10	I-Object	O
-is	O	O
-still	O	O
-easier	B-Predicate	O
-to	O	O
-navigate	O	O
-than	O	B-Predicate
-mac	B-Object	I-Predicate
-os	I-Object	I-Aspect
-x	I-Object	O
-and	O	O
-windows	B-Object	O
-8	I-Object	O
-,	O	O
-has	O	O
-better	B-Predicate	O
-access	B-Aspect	O
-to	I-Aspect	O
-files	I-Aspect	O
-than	O	B-Object
-in	O	O
-android	B-Object	B-Aspect
-,	O	I-Aspect
-and	O	O
-is	O	O
-faster	B-Predicate	O
-,	O	O
-more	B-Predicate	O
-flexible	I-Predicate	O
-and	O	O
-more	B-Predicate	O
-capable	I-Predicate	O
-than	O	O
-windows	B-Object	O
-xp	I-Object	O
-and	O	O
-the	O	O
-home	O	O
-and	O	O
-enterprise	B-Object	O
-editions	I-Object	O
-of	O	O
-windows	O	O
-7	O	O
-.	O	O
-
-actually	O	O
-,	O	O
-from	O	O
-things	O	O
-i	O	O
-'	O	O
-ve	O	O
-seen	O	O
-,	O	O
-windows	B-Object	O
-8	I-Object	O
-requires	O	O
-less	B-Predicate	O
-of	O	O
-the	O	O
-hardware	B-Aspect	O
-than	O	B-Object
-windows	B-Object	B-Predicate
-7	I-Object	O
-(	O	O
-runs	O	O
-faster	B-Predicate	B-Predicate
-/	O	O
-leaner	B-Predicate	O
-than	O	O
-windows	B-Object	O
-7	I-Object	O
-on	O	O
-the	O	O
-same	O	O
-hardware	O	O
-)	O	O
-and	O	O
-windows	B-Object	B-Predicate
-7	I-Object	O
-runs	O	B-Object
-as	B-Predicate	O
-good	I-Predicate	O
-as	I-Predicate	O
-(	O	O
-or	O	O
-better	B-Predicate	O
-than	O	O
-)	O	O
-windows	B-Object	B-Predicate
-xp	I-Object	B-Predicate
-.	O	O
-
-firstly	O	O
-,	O	O
-windows	B-Object	O
-8	I-Object	O
-runs	O	O
-faster	B-Predicate	O
-than	O	O
-windows	B-Object	B-Predicate
-xp	I-Object	I-Aspect
-absolutely	O	I-Aspect
-.	O	I-Aspect
-
-windows	B-Object	O
-8	I-Object	O
-is	O	O
-faster	B-Predicate	O
-than	O	O
-windows	B-Object	O
-xp	I-Object	O
-or	O	O
-windows	B-Object	B-Predicate
-7	I-Object	O
-.	O	O
-
-this	O	O
-makes	O	O
-windows	B-Object	O
-8	I-Object	O
-sales	B-Aspect	O
-34	O	O
-%	O	O
-better	B-Predicate	O
-than	O	O
-windows	B-Object	B-Predicate
-vista	I-Object	O
-,	O	O
-and	O	O
-about	O	O
-15	O	O
-%	O	O
-higher	B-Predicate	O
-than	O	O
-windows	B-Object	O
-xp	I-Object	O
-.	O	O
-
-"	O	O
-but	O	O
-windows	B-Object	O
-xp	I-Object	O
-systems	O	O
-had	O	O
-an	O	O
-infection	B-Aspect	O
-rate	I-Aspect	O
-that	O	O
-was	O	O
-six	O	O
-times	O	O
-higher	B-Predicate	O
-than	O	O
-windows	B-Object	B-Predicate
-8	I-Object	O
-."	O	O
-
-the	O	O
-malware	B-Aspect	O
-infection	I-Aspect	B-Object
-rate	O	O
-for	O	B-Object
-windows	B-Object	O
-xp	I-Object	O
-is	O	O
-already	O	O
-almost	O	O
-six	O	O
-times	O	O
-higher	B-Predicate	O
-than	O	O
-windows	B-Object	B-Predicate
-8	I-Object	O
-systems	O	B-Object
-.	O	O
-
-windows	B-Object	O
-8	I-Object	O
-devices	O	O
-also	O	O
-come	O	O
-in	O	O
-more	O	B-Predicate
-form	O	O
-factors	O	O
-,	O	O
-so	O	O
-you	O	O
-could	O	B-Object
-find	O	O
-that	O	O
-a	O	O
-windows	B-Object	O
-8	I-Object	O
-tablet	O	O
-with	O	O
-touch	O	O
-is	O	O
-far	O	O
-easier	B-Predicate	O
-to	O	O
-use	O	O
-than	O	O
-your	O	I-Aspect
-old	O	I-Aspect
-windows	B-Object	I-Aspect
-xp	I-Object	I-Aspect
-machine	O	I-Aspect
-.	O	O
-
-the	O	O
-touch	O	O
--	O	O
-friendly	O	O
-windows	B-Object	O
-8	I-Object	O
-software	O	O
-is	O	O
-much	O	O
-better	B-Predicate	O
-at	O	O
-juggling	B-Aspect	O
-work	I-Aspect	O
-and	O	O
-play	B-Aspect	O
-than	O	B-Predicate
-windows	B-Object	B-Predicate
-xp	I-Object	I-Aspect
-tablet	O	I-Aspect
-pc	O	O
-edition	O	O
-.	O	O
-
-i	O	O
-'	O	B-Aspect
-d	O	B-Aspect
-suggest	O	B-Aspect
-windows	B-Object	I-Aspect
-8	I-Object	O
-as	O	O
-it	O	O
-'	O	O
-s	O	O
-build	O	O
-with	O	O
-touch	O	O
-in	O	O
-mind	O	O
-,	O	O
-and	O	O
-it	O	O
-'	O	O
-s	O	O
-much	O	O
-better	B-Predicate	O
-than	O	O
-windows	B-Object	O
-7	I-Object	O
-and	O	O
-windows	B-Object	O
-xp	I-Object	O
-when	O	O
-using	O	O
-a	O	O
-touch	O	O
-interface	O	O
-.	O	O
-
-actually	O	O
-for	O	O
-many	O	O
-windows	B-Object	B-Predicate
-xp	I-Object	O
-users	O	O
-it	O	O
-is	O	O
-easier	B-Predicate	O
-to	O	O
-migrate	O	O
-to	O	B-Predicate
-linux	O	O
-mint	O	O
-than	O	O
-to	O	O
-windows	B-Object	B-Predicate
-8	I-Object	O
-.	O	O
-
-if	O	B-Object
-you	O	O
-'	O	B-Object
-re	O	O
-accustomed	O	O
-to	O	O
-the	O	O
-windows	B-Object	B-Predicate
-xp	I-Object	O
-layout	O	O
-and	O	O
-style	O	O
-,	O	O
-upgrading	B-Aspect	O
-to	O	O
-windows	O	O
-7	O	O
-might	O	O
-be	O	O
-a	O	I-Aspect
-better	B-Predicate	O
-choice	O	O
-than	O	B-Object
-windows	B-Object	B-Predicate
-8	I-Object	O
-,	O	O
-martini	O	O
-said	O	O
-.	O	O
-
-perhaps	O	B-Object
-it	O	O
-is	O	O
-little	O	O
-wonder	O	O
-that	O	O
-windows	B-Object	O
-xp	I-Object	O
-usage	B-Aspect	O
-continues	O	O
-to	O	O
-grow	O	O
-faster	B-Predicate	O
-than	O	O
-that	O	O
-of	O	O
-windows	B-Object	O
-8	I-Object	O
-.	O	O
-x	O	O
-.	O	O
-
-it	O	O
-is	O	O
-also	O	O
-similar	O	O
-in	O	O
-usability	O	O
-to	O	O
-windows	B-Object	O
-xp	I-Object	O
-,	O	O
-ensuring	O	O
-that	O	O
-the	O	O
-learning	B-Aspect	O
-curve	I-Aspect	O
-for	O	O
-new	O	O
-users	O	O
-is	O	O
-relatively	O	O
-smoother	B-Predicate	O
-than	O	O
-migrating	B-Aspect	O
-to	O	O
-windows	B-Object	B-Predicate
-8	I-Object	O
-.	O	O
-
-in	O	O
-my	O	O
-opinion	O	B-Object
-,	O	O
-transitioning	B-Aspect	O
-from	O	O
-windows	B-Object	B-Predicate
-xp	I-Object	I-Aspect
-or	O	I-Aspect
-windows	B-Object	I-Aspect
-7	I-Object	O
-to	O	O
-linux	O	O
-mint	O	O
-or	O	O
-ubuntu	O	B-Predicate
-will	O	O
-be	O	O
-much	O	O
-easier	B-Predicate	O
-than	O	O
-transitioning	B-Aspect	O
-to	O	O
-windows	B-Object	B-Predicate
-8	I-Object	O
-or	O	O
-8	O	O
-.	O	O
-1	O	O
-.	O	O
-
-[	O	O
-the	O	O
-]	O	O
-start	O	O
-button	O	O
-has	O	B-Aspect
-gone	O	O
-,	O	O
-all	O	O
-the	O	O
-basic	O	O
-functions	O	O
-have	O	O
-changed	O	O
-,	O	O
-he	O	O
-said	O	O
-,	O	O
-noting	O	O
-that	O	O
-migrating	B-Aspect	O
-from	O	O
-windows	B-Object	O
-xp	I-Object	O
-to	O	O
-windows	O	O
-7	O	O
-would	O	O
-be	O	O
-easier	B-Predicate	O
-than	O	O
-to	O	O
-windows	B-Object	O
-8	I-Object	O
-.	O	O
-
-the	O	O
-return	O	O
-of	O	O
-the	O	O
-start	O	O
-menu	O	O
-will	O	O
-be	O	O
-a	O	B-Aspect
-welcome	O	O
-change	O	O
-for	O	O
-users	O	O
-who	O	O
-were	O	O
-used	O	O
-to	O	O
-windows	B-Object	B-Predicate
-xp	I-Object	B-Predicate
-/	O	O
-vista	B-Object	O
-/	O	O
-7	B-Object	O
-,	O	O
-and	O	O
-may	O	O
-make	O	O
-windows	B-Object	O
-10	I-Object	O
-a	O	O
-bit	O	O
-easier	B-Predicate	O
-to	O	O
-transition	B-Aspect	O
-to	O	O
-than	O	B-Predicate
-windows	B-Object	B-Predicate
-8	I-Object	O
-was	O	O
-.	O	O
-
-windows	B-Object	O
-xp	I-Object	O
-share	O	O
-drops	B-Aspect	O
-while	O	O
-windows	B-Object	O
-8	I-Object	O
-and	O	O
-windows	B-Object	O
-8	I-Object	O
-.	O	O
-1	O	O
-see	O	O
-a	O	O
-combined	O	O
-share	O	O
-of	O	O
-11	O	O
-.	O	O
-3	O	O
-%	O	O
-
-windows	B-Object	O
-8	I-Object	O
-.	O	O
-x	O	O
-gains	O	O
-usage	B-Aspect	O
-share	I-Aspect	O
-at	O	O
-the	O	B-Aspect
-expense	O	O
-of	O	O
-windows	B-Object	O
-xp	I-Object	O
-.	O	O
-
-by	O	O
-the	O	O
-way	O	O
-,	O	O
-windows	B-Object	O
-xp	I-Object	O
-has	O	O
-80	O	O
-%	O	O
-more	B-Predicate	O
-market	B-Aspect	O
-share	I-Aspect	O
-than	O	O
-windows	B-Object	B-Predicate
-8	I-Object	O
-.	O	O
-
-certainly	O	B-Predicate
-,	O	O
-missouri	B-Object	O
-makes	O	O
-much	O	O
-more	B-Predicate	O
-sense	B-Aspect	O
-than	O	I-Aspect
-south	O	I-Aspect
-carolina	B-Object	I-Aspect
-as	O	O
-the	O	O
-razorbacks	O	O
-'	O	B-Aspect
-permanent	O	O
-cross	O	O
--	O	O
-division	O	O
-rival	O	O
-.	O	O
-
-colorado	O	O
-(	O	O
-denver	O	O
-)	O	O
-and	O	O
-missouri	B-Object	O
-show	O	I-Aspect
-equal	B-Predicate	O
-or	O	O
-better	B-Predicate	I-Aspect
-than	O	I-Aspect
-average	O	O
-performance	B-Aspect	O
-on	O	O
-naep	O	O
-and	O	O
-positive	O	O
-charter	O	O
-school	O	O
-effects	O	O
-.	O	O
-16	O	O
-arkansas	B-Object	O
-,	O	O
-california	B-Object	O
-,	O	O
-georgia	B-Object	O
-,	O	O
-illinois	B-Object	O
-(	I-Object	O
-chicago	I-Object	O
-),	I-Object	O
-louisiana	I-Object	O
-and	O	O
-north	B-Object	B-Object
-carolina	I-Object	O
-all	O	O
-score	O	O
-lower	B-Predicate	O
-than	O	O
-the	O	O
-naep	O	O
-average	O	O
-but	O	O
-still	O	O
-have	O	O
-positive	O	O
-charter	O	O
-growth	O	O
-.	O	O
-
-for	O	B-Aspect
-example	O	B-Aspect
-,	O	O
-colorado	B-Object	B-Aspect
-,	O	O
-missouri	B-Object	O
-,	O	O
-ohio	B-Object	O
-and	O	O
-florida	B-Object	O
-all	O	O
-show	O	O
-obama	O	O
-leads	B-Aspect	O
-that	O	O
-are	O	O
-greater	B-Predicate	O
-than	O	O
-his	O	O
-lead	O	O
-at	O	O
-the	O	O
-national	O	O
-level	O	O
-,	O	O
-while	O	O
-north	B-Object	O
-carolina	I-Object	O
-and	O	O
-nevada	B-Object	O
-show	O	O
-closer	B-Predicate	O
-races	O	O
--	O	O
-gaps	O	O
-of	O	O
-about	O	O
-four	O	O
-percentage	O	O
-points	O	O
-.	O	O
-
-the	O	O
-addition	O	O
-of	O	O
-general	O	O
-clark	O	O
-into	O	O
-the	O	O
-presidential	O	O
-campaign	O	O
-could	O	O
-shake	O	O
-up	O	O
-a	O	B-Aspect
-race	O	O
-that	O	O
-has	O	O
-remained	O	O
-fairly	O	O
-static	O	O
-for	O	B-Object
-months	O	O
-,	O	O
-with	O	O
-dr	O	O
-.	O	O
-dean	O	O
-,	O	O
-mr	O	O
-.	O	O
-kerry	O	O
-and	O	O
-representative	O	O
-richard	O	O
-a	O	O
-.	O	O
-gephardt	O	O
-of	O	O
-missouri	B-Object	O
-showing	O	O
-greater	B-Predicate	O
-traction	B-Aspect	O
-than	O	O
-the	O	O
-others	O	O
-running	O	O
-:	O	O
-senators	O	O
-bob	O	O
-graham	B-Object	B-Object
-of	O	O
-florida	O	O
-,	O	O
-joseph	O	O
-i	O	O
-.	O	O
-lieberman	B-Object	O
-of	O	O
-connecticut	O	O
-,	O	O
-john	O	O
-edwards	B-Object	O
-of	O	O
-north	O	O
-carolina	B-Object	O
-,	O	O
-representative	O	O
-dennis	O	O
-j	O	O
-.	O	O
-kucinich	B-Object	O
-of	O	O
-ohio	O	O
-,	O	O
-former	O	O
-senator	O	O
-carol	O	O
-moseley	O	O
-braun	B-Object	O
-of	O	O
-illinois	O	O
-and	O	O
-the	O	O
-rev	O	O
-.	O	O
-al	O	O
-sharpton	B-Object	O
-.	O	O
-
-but	O	O
-the	O	O
-deciding	O	O
-factor	O	O
-could	O	B-Predicate
-be	O	O
-snyder	O	O
-'	O	O
-s	O	O
-commitment	O	O
-to	O	O
-his	O	O
-players	O	O
-and	O	O
-to	O	O
-the	O	O
-fact	O	O
-missouri	B-Object	O
-is	O	O
-a	O	O
-better	B-Predicate	O
-basketball	O	O
-job	B-Aspect	O
-than	O	O
-south	O	O
-carolina	B-Object	O
-.	O	O
-
-the	O	O
-vols	O	O
-take	O	O
-on	O	O
-missouri	B-Object	O
-this	O	O
-week	O	O
-,	O	O
-speaking	O	O
-of	O	O
-which	O	O
-,	O	O
-there	O	O
-were	O	O
-better	B-Predicate	O
-tv	B-Aspect	O
-ratings	I-Aspect	O
-for	O	O
-the	O	O
-missouri	B-Object	O
--	O	O
-south	O	O
-carolina	B-Object	O
-game	O	O
-in	O	O
-knoxville	O	O
-than	O	B-Object
-there	O	O
-were	O	O
-in	O	O
-st	B-Object	O
-.	I-Object	O
-louis	I-Object	O
-which	O	O
-may	O	O
-speak	O	B-Predicate
-to	O	B-Aspect
-the	O	I-Aspect
-culture	O	I-Aspect
-of	O	O
-college	O	O
-football	O	O
-in	O	O
-the	O	O
-south	O	O
-.	O	O
-
-for	O	B-Aspect
-instance	O	I-Aspect
-,	O	O
-california	B-Object	O
-blacks	O	O
-have	O	O
-lighter	B-Predicate	O
-skin	B-Aspect	O
-than	O	O
-georgia	B-Object	B-Object
-blacks	O	O
-and	O	O
-test	O	O
-out	O	O
-higher	O	O
-in	O	O
-i	O	O
-.	O	O
-q	O	O
-.	O	O
-again	O	O
-,	O	O
-the	O	O
-student	O	O
-must	O	O
-handle	O	O
-such	O	O
-small	O	O
-annoyances	O	O
-in	O	O
-a	O	O
-way	O	O
-that	O	O
-will	O	O
-least	O	O
-impact	O	B-Aspect
-the	O	O
-validity	O	O
-of	O	O
-his	O	O
-research	O	O
-and	O	O
-his	O	O
-conclusions	O	O
-.	O	O
-
-georgia	B-Object	O
-tech	O	O
-'	O	O
-s	O	O
-participation	B-Aspect	B-Aspect
-was	O	O
-more	O	O
-than	O	O
-250	O	O
-%	O	O
-greater	B-Predicate	O
-than	O	O
-the	O	O
-next	O	O
-most	O	O
-active	O	O
-school	O	O
--	O	O
-university	O	O
-of	O	O
-california	B-Object	O
-,	O	O
-davis	O	O
-.	O	O
-
-1	O	O
-.	O	O
-5	O	O
--	O	O
-2	O	O
-.	O	O
-0	O	O
-%:	O	O
-alabama	O	O
-,	O	O
-georgia	B-Object	O
-,	O	O
-idaho	B-Object	O
-,	O	O
-illinois	B-Object	O
-,	O	O
-michigan	B-Object	O
-,	O	O
-north	O	O
-carolina	B-Object	O
-,	O	O
-greater	B-Predicate	O
-than	O	O
-2	O	O
-.	O	O
-0	O	O
-%:	O	O
-california	B-Object	O
-,	O	O
-florida	B-Object	O
-,	O	O
-nevada	B-Object	O
-,	O	O
-rhode	B-Object	O
-island	O	O
-.	O	O
-
-the	O	O
-burden	B-Aspect	O
-of	O	O
-litigating	O	B-Object
-in	O	O
-iowa	B-Object	O
-on	O	O
-prideco	O	O
-,	O	O
-a	O	O
-california	B-Object	O
-partnership	O	O
-,	O	O
-is	O	O
-no	B-Predicate	O
-greater	I-Predicate	O
-than	O	O
-would	O	O
-be	O	O
-the	O	O
-burden	B-Aspect	O
-of	O	O
-litigating	O	B-Object
-in	O	O
-georgia	B-Object	O
-.	O	O
-
-3	O	O
-in	O	O
-the	O	O
-southeastern	O	O
-united	O	O
-states	O	O
-(	O	O
-north	O	O
-carolina	B-Object	O
-,	O	O
-georgia	B-Object	O
-,	O	O
-and	O	O
-florida	B-Object	O
-),	O	O
-incidence	B-Aspect	O
-of	O	O
-salmonella	O	B-Object
-in	O	O
-surface	O	B-Predicate
-water	O	O
-samples	O	O
-is	O	B-Aspect
-nearly	O	I-Aspect
-an	O	O
-order	O	O
-of	O	O
-magnitude	O	O
-greater	B-Predicate	O
-than	O	O
-in	O	O
-california	B-Object	O
-.	O	O
-
-the	O	O
-roads	B-Aspect	O
-in	O	O
-georgia	B-Object	O
-must	O	O
-be	O	O
-smoother	B-Predicate	O
-than	O	B-Aspect
-those	O	I-Aspect
-in	O	O
-california	B-Object	O
-.	O	O
-
-screen	O	O
-gems	O	O
-considered	O	O
-filming	O	O
-in	O	O
-georgia	B-Object	O
-,	O	O
-where	O	O
-harvey	O	O
-is	O	O
-based	O	O
-and	O	O
-which	O	O
-offers	O	O
-a	O	B-Aspect
-richer	B-Predicate	O
-film	B-Aspect	O
-tax	I-Aspect	O
-credit	I-Aspect	O
-than	O	B-Object
-california	B-Object	B-Aspect
-.	O	I-Aspect
-
-california	B-Object	O
-peaches	B-Aspect	O
-are	O	O
-better	B-Predicate	O
-than	O	O
-no	O	B-Aspect
-peaches	O	O
-but	O	O
-georgia	B-Object	O
-or	O	O
-south	O	I-Aspect
-carolina	B-Object	O
-peaches	O	O
-rule	O	O
-.	O	O
-
-woods	O	O
-always	O	O
-got	O	B-Object
-a	O	O
-hood	O	O
-pass	O	O
-from	O	O
-my	O	O
-friends	O	B-Aspect
-because	O	I-Aspect
-he	O	O
-grew	O	B-Predicate
-up	O	B-Aspect
-in	O	O
-california	B-Object	O
-around	O	O
-nicer	B-Predicate	O
-white	O	O
-people	B-Aspect	O
-than	O	O
-we	O	I-Aspect
-could	O	B-Aspect
-imagine	O	B-Aspect
-in	O	O
-south	O	O
-georgia	B-Object	B-Object
-.	O	O
-
-southern	O	O
-california	B-Object	O
-finished	O	O
-at	O	O
-19	O	O
--	O	O
-under	O	O
-1	O	O
-,	O	O
-133	O	O
---	O	O
-15	O	O
-strokes	B-Aspect	O
-better	B-Predicate	O
-than	O	O
-the	O	O
-previous	O	O
-tournament	O	O
-mark	O	O
-set	O	O
-by	O	O
-ucla	B-Object	O
-in	O	O
-2004	O	O
---	O	O
-to	O	O
-beat	O	O
-second	O	O
--	O	O
-place	O	O
-duke	O	O
-by	O	O
-21	O	O
-strokes	O	O
-at	O	O
-the	O	O
-university	O	O
-of	O	O
-georgia	B-Object	O
-golf	O	O
-course	O	O
-.	O	O
-
-it	O	O
-so	O	O
-happens	O	O
-that	O	O
-georgia	B-Object	O
-has	O	O
-higher	B-Predicate	O
-single	O	O
-parenthood	B-Aspect	I-Aspect
-levels	O	B-Aspect
-than	O	O
-california	B-Object	O
-.	O	O
-
-georgia	B-Object	O
-has	O	O
-a	O	O
-higher	B-Predicate	O
-percentage	B-Aspect	O
-of	I-Aspect	O
-blacks	I-Aspect	O
-(	O	O
-30	O	O
-.	O	O
-5	O	O
-)	O	O
-than	O	O
-new	B-Object	I-Aspect
-york	I-Object	B-Aspect
-(	O	O
-15	O	O
-.	O	O
-9	O	O
-)	O	O
-or	O	O
-california	B-Object	O
-(	O	O
-6	O	O
-.	O	O
-2	O	O
-).	O	O
-
-in	O	O
-georgia	B-Object	O
-,	O	O
-there	O	O
-was	O	O
-no	O	O
-difference	O	O
-based	O	O
-on	O	O
-disability	O	O
-status	O	O
-,	O	O
-but	O	O
-overall	O	O
-,	O	O
-georgia	B-Object	O
-had	O	O
-a	O	O
-higher	B-Predicate	O
-proportion	O	O
-of	O	O
-disabled	B-Aspect	O
-enrollees	O	B-Aspect
-than	O	O
-california	B-Object	O
-.	O	O
-
-income	B-Aspect	O
-level	I-Aspect	O
-may	O	O
-be	O	O
-higher	B-Predicate	O
-in	O	O
-southern	O	O
-california	B-Object	O
-than	O	O
-in	O	O
-georgia	B-Object	O
-,	O	O
-but	O	O
-that	O	O
-is	O	O
-because	O	O
-the	O	O
-cost	O	O
-of	O	O
-living	O	O
-is	O	O
-higher	O	O
-.	O	O
-
-lopez	O	B-Aspect
-said	O	O
-that	O	O
-southern	O	O
-states	O	O
-such	O	O
-as	O	O
-georgia	B-Object	O
-and	O	O
-north	O	O
-carolina	B-Object	O
-have	O	O
-seen	O	O
-an	O	O
-increase	O	O
-in	O	O
-undocumented	O	O
-immigrants	O	O
-because	O	O
-their	O	O
-economies	B-Aspect	O
-have	O	O
-fared	O	O
-better	B-Predicate	O
-than	O	O
-california	B-Object	B-Aspect
-since	O	I-Aspect
-the	O	O
-1990s	O	O
-.	O	O
-
-i	O	O
-'	O	B-Aspect
-m	O	O
-sure	O	O
-that	O	O
-conservatives	O	O
-will	O	O
-argue	O	O
-that	O	O
-the	O	B-Predicate
-economies	B-Aspect	B-Aspect
-in	O	O
-indiana	B-Object	O
-,	O	O
-missouri	B-Object	O
-,	O	O
-oklahoma	B-Object	O
-and	O	O
-georgia	B-Object	O
-will	O	O
-be	O	O
-ten	O	O
-or	O	O
-fifteen	O	O
-times	O	O
-better	B-Predicate	O
-than	O	O
-those	O	O
-of	O	O
-new	B-Object	B-Predicate
-york	I-Object	O
-,	O	O
-california	B-Object	O
-or	O	O
-illinois	B-Object	O
--	O	O
-and	O	O
-republicans	O	B-Object
-will	O	O
-ride	O	O
-that	O	O
-fact	O	O
-to	O	O
-victory	O	O
-right	O	O
-here	O	B-Predicate
-in	O	O
-illinois	O	O
-in	O	O
-2014	O	O
-!	O	O
-
-a	O	B-Aspect
-100	O	O
-%	O	O
-privately	O	O
-funded	O	O
-project	O	O
-in	O	O
-say	O	O
-georgia	B-Object	O
-would	O	O
-have	O	O
-a	O	B-Aspect
-much	O	O
-easier	B-Predicate	O
-time	O	O
-in	O	O
-review	B-Aspect	O
-and	O	O
-planning	B-Aspect	O
-and	O	O
-cost	B-Aspect	O
-than	O	O
-a	O	I-Aspect
-california	B-Object	O
-publicly	O	O
-funded	O	O
-one	O	O
-.	O	B-Aspect
-
-it	O	O
-is	O	O
-much	O	O
-easier	O	O
-to	O	O
-get	O	O
-a	O	O
-permit	O	O
-in	O	O
-georgia	B-Object	O
-,	O	O
-but	O	O
-you	O	O
-have	O	O
-even	O	O
-fewer	B-Predicate	O
-freedoms	B-Aspect	O
-than	O	B-Predicate
-in	O	O
-california	B-Object	O
-without	O	O
-one	O	O
-.	O	O
-
-and	O	O
-what	O	O
-'	O	B-Aspect
-s	O	O
-happening	O	B-Aspect
-is	O	O
-the	O	O
-growth	O	O
-is	O	O
-spilling	O	O
-over	O	O
-into	O	B-Aspect
-the	O	O
-neighboring	O	O
-states	O	O
-,	O	O
-so	O	O
-that	O	O
-places	O	O
-like	O	O
-nevada	B-Object	O
-and	O	O
-places	O	O
-in	O	O
-georgia	B-Object	B-Object
-are	O	O
-growing	O	O
-at	O	O
-an	O	O
-even	O	O
-faster	B-Predicate	O
-rate	O	O
-than	O	O
-places	B-Aspect	O
-in	O	O
-florida	B-Object	O
-and	O	O
-california	B-Object	O
-.	O	O
-
-also	O	O
-of	O	O
-note	O	O
-,	O	O
-obama	O	O
-does	O	O
-better	B-Predicate	O
-among	O	O
-white	O	O
-voters	O	O
-in	O	O
-arizona	O	O
-,	O	O
-new	B-Object	O
-jersey	I-Object	O
-and	O	O
-california	B-Object	O
-than	O	O
-he	O	O
-does	O	O
-in	O	O
-georgia	B-Object	B-Aspect
-and	O	O
-missouri	B-Object	O
-.	O	O
-
-administrative	O	O
-data	O	O
-from	O	O
-california	B-Object	O
-suggest	O	O
-a	O	O
-slightly	O	O
-higher	B-Predicate	O
-prevalence	B-Aspect	O
-in	O	O
-black	O	O
-than	O	B-Object
-in	O	O
-white	O	O
-children	O	O
-(	O	O
-40	O	O
-),	O	O
-but	O	O
-a	O	O
-previous	O	O
-report	O	O
-from	O	O
-georgia	B-Object	O
-indicated	O	O
-a	O	B-Aspect
-similar	O	O
-prevalence	O	O
-for	O	O
-black	O	O
-and	O	O
-white	O	O
-children	O	O
-(	O	B-Predicate
-1	O	O
-).	O	O
-
-i	O	O
-suspect	O	O
-it	O	O
-'	O	O
-s	O	O
-the	O	O
-reason	O	O
-why	O	O
-southern	O	O
-california	B-Object	O
-roads	B-Aspect	O
-are	O	O
-so	O	O
-much	O	O
-better	B-Predicate	O
-than	O	O
-michigan	B-Object	O
-'	O	I-Aspect
-s	O	O
-.	O	O
-
-if	O	B-Object
-roads	B-Aspect	O
-in	O	O
-michigan	B-Object	O
-are	O	O
-noticeably	O	O
-worse	B-Predicate	O
-than	O	B-Aspect
-california	B-Object	B-Aspect
-,	O	I-Aspect
-then	O	I-Aspect
-off	O	O
--	O	O
-road	O	O
-capable	O	O
-suvs	O	O
-must	O	O
-be	O	O
-mandatory	O	O
-in	O	O
-michigan	B-Object	O
-.	O	O
-
-(	O	O
-in	O	O
-michigan	B-Object	O
-,	O	O
-which	O	O
-has	O	O
-been	O	O
-hit	B-Aspect	O
-even	O	O
-harder	B-Predicate	O
-than	O	O
-california	B-Object	B-Aspect
-,	O	O
-out	O	O
--	O	O
-of	O	O
--	O	O
-state	O	O
-enrollment	O	O
-in	O	O
-the	O	O
-university	O	I-Aspect
-of	O	O
-michigan	B-Object	O
-system	O	O
-is	O	O
-closer	O	O
-to	O	O
-40	O	O
-percent	O	O
-.)	O	I-Aspect
-
-it	O	O
-is	O	O
-in	O	O
-california	B-Object	O
-which	O	O
-has	O	O
-clearly	O	O
-better	B-Predicate	O
-weather	B-Aspect	O
-than	O	O
-michigan	B-Object	O
-.	O	O
-
-(	O	O
-news	O	O
-flash	O	O
-:	O	B-Aspect
-the	O	O
-weather	B-Aspect	O
-in	O	O
-michigan	B-Object	O
-in	O	O
-february	O	O
-is	O	O
-very	O	O
-different	B-Predicate	O
-than	O	B-Object
-the	O	O
-weather	B-Aspect	O
-in	O	O
-california	B-Object	O
-in	O	O
-february	O	O
-.)	O	O
-
-she	O	O
-enjoys	O	O
-pointing	O	O
-out	O	O
-how	O	O
-much	O	O
-nicer	B-Predicate	O
-the	O	O
-weather	B-Aspect	O
-is	O	O
-in	O	O
-california	B-Object	O
-compared	O	O
-to	O	O
-michigan	B-Object	O
-.	O	O
-
-maybe	O	O
-in	O	O
-florida	B-Object	O
-or	O	O
-california	B-Object	O
-that	O	O
-is	O	O
-normal	O	B-Object
-,	O	O
-but	O	O
-in	O	O
-michigan	B-Object	O
-this	O	O
-weather	B-Aspect	O
-is	O	O
-far	O	O
-from	O	O
-normal	B-Predicate	O
-.	O	O
-
-oregon	B-Object	O
-'	O	O
-s	O	O
-two	O	O
-losses	B-Aspect	O
-(	O	O
-lsu	B-Object	O
-and	O	O
-southern	O	O
-california	B-Object	O
-)	O	O
-are	O	O
-better	B-Predicate	O
-losses	B-Aspect	O
-than	O	O
-wisconsin	O	B-Predicate
-'	O	O
-s	O	O
-two	O	O
-losses	B-Aspect	O
-(	O	O
-michigan	B-Object	O
-state	O	O
-and	O	O
-ohio	B-Object	O
-state	O	O
-).	O	O
-
-but	O	O
-once	O	O
-you	O	O
-learn	O	O
-a	O	O
-few	O	O
-tricks	O	O
-and	O	O
-live	O	O
-here	O	B-Aspect
-in	O	O
-southern	O	O
-california	B-Object	O
-by	O	O
-the	O	O
-coast	O	O
-,	O	O
-the	O	O
-chance	B-Aspect	O
-of	O	O
-survival	O	O
-is	O	O
-better	B-Predicate	O
-than	O	O
-say	O	O
-michigan	B-Object	O
-.	O	O
-
-frankie	O	O
-ballard	O	B-Object
-may	O	B-Aspect
-be	O	I-Aspect
-a	O	O
-michigan	B-Object	O
-boy	O	O
-,	O	O
-but	O	O
-there	O	O
-was	O	O
-no	B-Predicate	O
-better	I-Predicate	O
-place	O	O
-than	O	B-Predicate
-southern	O	O
-california	B-Object	B-Aspect
-to	O	O
-film	B-Aspect	O
-the	O	O
-video	O	O
-for	O	O
-his	O	O
-summer	O	O
-anthem	O	O
-,	O	O
-'	O	O
-a	O	O
-buncha	O	O
-girls	O	O
-.'	O	O
-
-maybe	O	O
-not	O	O
-as	O	O
-popular	O	O
-as	O	O
-california	B-Object	O
-or	O	B-Aspect
-florida	O	O
-,	O	I-Aspect
-but	O	O
-sure	O	O
-as	O	O
-hell	O	O
-better	B-Predicate	O
-than	O	O
-the	O	O
-likes	B-Aspect	O
-of	O	O
-michigan	B-Object	O
-,	O	O
-those	O	O
-inbred	O	O
-southern	O	O
-states	O	O
-,	O	O
-including	O	O
-kentucky	B-Object	O
-and	O	O
-those	O	O
-prarie	O	O
-states	O	O
-.	O	O
-
-florida	B-Object	O
-and	O	O
-california	B-Object	O
-are	O	O
-much	O	O
-nicer	B-Predicate	O
-places	O	O
-to	O	O
-spend	O	O
-the	O	B-Aspect
-month	O	I-Object
-of	O	O
-january	O	O
-than	O	O
-new	B-Object	O
-hampshire	I-Object	O
-,	O	O
-michigan	B-Object	O
-,	O	O
-and	O	O
-the	O	O
-other	O	O
-early	O	B-Aspect
-primary	O	O
-states	O	O
-,	O	O
-especially	O	O
-for	O	O
-a	O	O
-candidate	O	O
-whose	O	O
-greatest	O	O
-strength	O	O
-is	O	O
-drawn	O	O
-from	O	O
-the	O	O
-political	O	O
-center	O	O
-.	O	O
-
-traditional	O	O
-growth	O	O
-states	O	O
-such	O	O
-as	O	O
-florida	B-Object	O
-,	O	O
-texas	B-Object	O
-,	O	O
-california	B-Object	O
-,	O	O
-arizona	B-Object	O
-and	O	O
-nevada	B-Object	O
-will	O	O
-continue	O	O
-to	O	O
-attract	O	O
-new	O	O
-residents	O	O
-because	O	O
-they	O	O
-remain	O	O
-better	B-Predicate	O
-places	O	O
-to	O	O
-live	B-Aspect	O
-than	O	O
-idaho	B-Object	O
-,	O	O
-nebraska	B-Object	O
-,	O	O
-michigan	B-Object	O
-and	O	O
-iowa	B-Object	O
-.	O	O
-
-not	O	O
-surprisingly	O	O
-,	O	O
-places	O	B-Aspect
-like	O	O
-california	B-Object	I-Aspect
-have	O	B-Predicate
-become	O	I-Aspect
-more	O	B-Predicate
-attractive	B-Predicate	O
-to	O	O
-talented	O	O
-workers	B-Aspect	O
-than	O	O
-,	O	O
-say	O	O
-,	O	O
-michigan	B-Object	O
-.	O	O
-
-the	O	O
-recognition	B-Aspect	O
-of	O	O
-woman	O	O
-'	O	B-Object
-s	O	O
-rights	O	O
-by	O	O
-michigan	B-Object	O
-is	O	O
-in	O	O
-itself	O	O
-the	O	O
-greatest	O	O
-single	O	O
-victory	O	O
-suffrage	O	O
-has	O	O
-won	O	B-Object
-,	O	O
-on	O	O
-account	O	O
-not	O	O
-only	O	O
-of	O	O
-the	O	O
-population	O	O
-of	O	O
-that	O	O
-state	O	O
-,	O	O
-which	O	O
-is	O	O
-somewhat	O	O
-greater	B-Predicate	O
-than	O	O
-that	O	O
-of	O	O
-california	B-Object	O
-,	O	O
-but	O	O
-chiefly	O	O
-because	O	O
-of	O	O
-the	O	O
-position	O	O
-of	O	O
-michigan	B-Object	O
-geographically	O	O
-.	O	O
-
-north	O	O
-carolina	B-Object	O
-is	O	O
-not	B-Predicate	B-Object
-safer	I-Predicate	I-Aspect
-than	O	I-Aspect
-california	B-Object	O
-.	O	O
-
-or	O	O
-maybe	O	O
-the	O	O
-criminals	B-Aspect	O
-in	O	O
-the	O	O
-southern	O	O
-district	O	O
-of	O	O
-california	B-Object	O
-are	O	O
-just	O	O
-nicer	B-Predicate	O
-human	O	O
-beings	O	O
-,	O	O
-and	O	O
-are	O	O
-therefore	O	O
-25	O	O
-times	O	O
-likelier	B-Predicate	O
-to	O	O
-have	O	B-Predicate
-mitigating	O	O
-qualities	B-Aspect	O
-than	O	O
-the	O	O
-criminals	B-Aspect	O
-in	O	O
-south	O	O
-carolina	B-Object	O
-.	O	O
-
-summer	O	O
-temperatures	B-Aspect	O
-along	O	O
-the	O	O
-california	B-Object	O
-coast	O	O
-are	O	O
-cooler	B-Predicate	O
-than	O	O
-along	O	B-Aspect
-the	O	I-Aspect
-coast	O	O
-of	O	O
-south	O	O
-carolina	B-Object	O
-,	O	O
-due	O	O
-to	O	O
-the	O	O
-influence	O	O
-of	O	O
-:	O	O
-ocean	O	O
-currents	O	O
-.	O	O
-
-gingrich	B-Aspect	O
-,	O	O
-who	O	O
-has	O	O
-fallen	O	O
-back	O	O
-nationally	O	O
-since	O	O
-his	O	O
-win	O	O
-in	O	O
-south	O	O
-carolina	B-Object	O
-last	O	O
-month	O	O
-,	O	O
-looks	O	O
-worse	B-Predicate	B-Object
-to	O	B-Aspect
-california	B-Object	O
-republicans	O	O
-than	O	O
-he	O	O
-once	O	O
-did	O	O
-,	O	O
-according	O	O
-to	O	O
-the	O	O
-poll	O	O
-.	O	O
-
-in	O	O
-north	O	O
-carolina	B-Object	O
-,	O	O
-foreclosures	B-Aspect	O
-move	O	O
-faster	B-Predicate	O
-than	O	O
-in	O	O
-california	B-Object	O
-.	O	O
-
-minnesota	O	O
-chose	O	O
-troy	O	O
-williamson	B-Object	O
-of	O	O
-south	O	O
-carolina	O	O
-,	O	O
-a	O	O
-faster	B-Predicate	O
-wide	O	B-Predicate
-receiver	B-Aspect	O
-than	O	B-Object
-the	O	O
-highly	O	O
-rated	O	O
-but	O	O
-taller	O	O
-mike	O	O
-williams	B-Object	O
-of	O	O
-southern	O	O
-california	O	O
-.	O	O
-
-colorado	B-Object	O
-,	O	O
-north	O	O
-carolina	B-Object	O
-,	O	O
-and	O	O
-texas	B-Object	O
-,	O	O
-the	O	O
-three	O	O
-states	O	O
-which	O	O
-grew	O	B-Aspect
-faster	B-Predicate	O
-than	O	O
-california	B-Object	B-Aspect
-,	O	I-Aspect
-all	O	O
-also	O	O
-had	O	O
-much	O	O
-faster	B-Predicate	O
-increases	B-Aspect	O
-in	O	O
-the	O	O
-growth	O	O
-rate	O	O
-in	O	O
-state	O	O
-and	O	O
-local	O	O
-government	O	O
-spending	B-Aspect	O
-.	O	O
-
-caroline	O	B-Object
-moakley	B-Object	O
-(	O	O
-cary	O	O
-,	O	O
-n	O	O
-.	O	O
-c	O	O
-./	O	O
-north	O	O
-carolina	O	O
-state	O	O
-university	O	O
-at	O	B-Predicate
-raleigh	O	B-Aspect
-)	O	B-Aspect
-was	O	O
-only	O	O
-1	O	O
-.	O	O
-36	O	O
-seconds	O	O
-faster	B-Predicate	O
-than	O	O
-danielle	O	I-Aspect
-haulman	B-Object	O
-(	O	O
-davis	O	O
-,	O	O
-calif	O	O
-./	O	O
-university	O	O
-of	O	O
-california	B-Object	O
--	O	O
-davis	O	O
-)	O	O
-to	O	O
-earn	O	O
-third	O	O
-place	O	O
-.	O	O
-
-you	O	O
-might	O	O
-think	O	O
-that	O	O
-i	O	O
-am	O	B-Predicate
-going	O	O
-to	O	O
-say	O	O
-that	O	O
-california	B-Object	O
-is	O	O
-faster	B-Predicate	O
-paced	O	O
-than	O	O
-south	O	O
-carolina	B-Object	O
-.	O	O
-
-with	O	O
-respect	O	O
-to	O	O
-chronic	O	B-Aspect
-illness	O	O
-north	O	O
-carolina	B-Object	O
-has	O	O
-a	O	O
-rate	O	O
-of	O	O
-74	O	O
-cases	O	O
-per	O	O
-1	O	O
-,	O	O
-000	O	O
-,	O	O
-a	O	O
-little	O	O
-higher	B-Predicate	O
-than	O	O
-massachusetts	B-Object	O
-at	O	O
-68	O	O
-,	O	O
-better	B-Predicate	O
-than	O	O
-ny	B-Object	O
-at	O	O
-77	O	O
-and	O	O
-considerably	O	O
-better	B-Predicate	O
-than	O	O
-california	B-Object	O
-at	O	O
-90	O	O
-.	O	O
-
-latino	O	O
-child	O	O
-poverty	B-Aspect	O
-is	O	O
-much	O	O
-higher	B-Predicate	O
-in	O	O
-north	O	O
-carolina	B-Object	O
-compared	O	O
-to	O	O
-california	B-Object	O
-even	O	O
-though	O	O
-north	O	O
-carolina	B-Object	O
-has	O	O
-a	O	O
-lower	B-Predicate	O
-latino	O	O
-unemployment	B-Aspect	O
-rate	O	O
-.	O	O
-
-south	O	O
-carolina	B-Object	O
-,	O	O
-tennessee	B-Object	O
-,	O	O
-or	O	O
-georgia	B-Object	O
-plates	O	O
-,	O	O
-for	O	O
-example	O	O
-,	O	O
-get	O	O
-higher	B-Predicate	O
-points	B-Aspect	O
-than	O	B-Predicate
-maryland	B-Object	O
-,	O	O
-massachusetts	B-Object	O
-,	O	O
-or	O	O
-california	B-Object	O
-.	O	O
-
-the	O	O
-intercept	B-Aspect	O
-is	O	O
-higher	B-Predicate	O
-in	O	O
-south	O	O
-carolina	B-Object	O
-($	O	O
-8	O	O
-,	O	O
-114	O	O
-)	O	O
-than	O	B-Object
-in	O	O
-both	O	O
-illinois	B-Object	O
-($	O	O
-7	O	O
-,	O	O
-166	O	O
-)	O	O
-and	O	O
-california	B-Object	B-Aspect
-($	O	O
-7	O	O
-,	O	O
-123	O	O
-).	O	O
-
-a	O	B-Aspect
-number	O	O
-of	O	O
-states	O	O
-,	O	O
-including	O	B-Object
-michigan	B-Object	O
-,	O	O
-north	O	O
-carolina	B-Object	O
-,	O	O
-ohio	B-Object	O
-,	O	O
-new	B-Object	O
-york	I-Object	O
-,	O	O
-south	O	O
-carolina	B-Object	O
-,	O	O
-and	O	O
-massachusetts	B-Object	O
-all	O	O
-lost	O	O
-a	O	O
-higher	B-Predicate	O
-percentage	O	O
-of	O	O
-manufacturing	B-Aspect	B-Object
-jobs	O	O
-than	O	O
-california	B-Object	B-Aspect
-.	O	I-Aspect
-
-places	O	O
-with	O	O
-low	O	B-Object
-fuel	O	B-Aspect
-prices	O	O
-like	O	O
-venezuela	B-Object	O
-,	O	O
-alabama	B-Object	O
-and	O	O
-south	O	O
-carolina	B-Object	O
-have	O	O
-great	O	O
-economies	O	O
-because	O	O
-there	O	O
-is	O	O
-so	O	O
-much	O	O
-more	B-Predicate	O
-disposable	O	O
-income	B-Predicate	O
-to	O	O
-spend	O	O
-on	O	O
-other	O	O
-stuff	O	O
-,	O	O
-while	O	O
-places	O	O
-like	O	O
-brazil	B-Object	O
-and	O	O
-california	B-Object	O
-are	O	O
-in	O	O
-horrible	O	O
-shape	O	O
-because	O	B-Predicate
-they	O	I-Aspect
-have	O	B-Predicate
-high	O	B-Aspect
-fuel	O	I-Aspect
-prices	O	I-Aspect
-.	O	I-Aspect
-
-i	O	O
-knew	O	O
-she	O	O
-would	O	O
-not	O	O
-win	O	O
-my	O	O
-home	O	O
-state	O	O
-of	O	I-Aspect
-north	O	I-Aspect
-carolina	B-Object	O
-because	O	O
-the	O	O
-people	B-Aspect	O
-there	O	O
-are	O	O
-smarter	B-Predicate	O
-than	O	O
-those	O	O
-in	O	O
-indiana	B-Object	O
-and	O	O
-pennsylvania	B-Object	O
-combine	O	O
-.	O	O
-
-in	O	O
-north	O	O
-carolina	B-Object	O
-,	O	O
-charlotte	O	O
--	O	O
-led	O	O
-mecklenburg	O	O
-county	O	O
-will	O	O
-gain	O	O
-a	O	B-Aspect
-greater	B-Predicate	B-Predicate
-number	O	O
-of	O	B-Aspect
-residents	B-Aspect	O
-than	O	O
-philadelphia	O	B-Aspect
-county	O	O
-in	O	O
-pennsylvania	B-Object	O
-.	O	O
-
-florida	B-Object	O
-could	O	B-Aspect
-potentially	O	B-Aspect
-be	O	I-Aspect
-worth	O	O
-29	O	I-Aspect
-ecv	O	O
--	O	O
-more	B-Predicate	O
-than	O	B-Aspect
-virgina	O	I-Aspect
-and	O	O
-north	O	I-Aspect
-carolina	B-Object	O
-combined	O	O
-and	O	O
-greater	B-Predicate	O
-than	O	O
-the	O	O
-prize	B-Aspect	O
-of	O	O
-ohio	B-Object	O
-or	O	O
-pennsylvania	B-Object	O
-.	O	O
-
-in	O	O
-fact	O	O
-,	O	O
-my	O	O
-(	O	O
-relatively	O	O
-)	O	O
-short	O	O
-time	O	O
-living	O	O
-in	O	O
-pennsylvania	B-Object	O
-,	O	O
-massachusetts	B-Object	O
-and	O	O
-connecticut	B-Object	O
-yielded	O	O
-far	O	O
-more	B-Predicate	O
-run	O	O
--	O	O
-ins	O	O
-with	O	O
-explicit	O	O
-racism	B-Aspect	O
-than	O	O
-my	O	O
-considerably	O	O
-greater	O	O
-time	O	O
-living	O	O
-in	O	O
-tennessee	B-Object	O
-and	O	O
-north	O	O
-carolina	B-Object	O
-.	O	O
-
-it	O	O
-therefore	O	O
-stands	O	O
-to	O	O
-reason	O	O
-that	O	O
-a	O	O
-template	B-Aspect	O
-for	O	O
-north	O	O
-carolina	B-Object	O
-might	O	B-Predicate
-be	O	O
-a	O	I-Aspect
-bit	O	O
-simpler	B-Predicate	O
-than	O	B-Predicate
-one	O	B-Aspect
-for	O	B-Aspect
-ohio	B-Object	O
-or	O	O
-pennsylvania	B-Object	O
-,	O	O
-albeit	O	O
-not	O	O
-exactly	O	O
-the	O	O
-same	O	O
-,	O	O
-as	O	O
-some	O	B-Aspect
-sections	O	O
-would	O	O
-not	O	O
-be	O	O
-applicable	O	O
-in	O	O
-other	O	O
-states	O	O
-.	O	O
-
-indiana	B-Object	O
-and	O	O
-north	O	O
-carolina	B-Object	O
-combined	O	O
-have	O	O
-more	B-Predicate	O
-delegates	B-Aspect	O
-than	O	B-Predicate
-pennsylvania	B-Object	B-Aspect
-.	O	O
-
-with	O	O
-our	O	O
-north	O	O
-carolina	B-Object	O
-,	O	O
-south	O	O
-carolina	B-Object	O
-,	O	O
-and	O	O
-georgia	B-Object	O
-sale	O	O
-,	O	O
-we	O	O
-'	O	O
-ve	O	O
-been	O	O
-able	O	O
-to	O	O
-get	O	O
-to	O	O
-a	O	O
-certain	O	O
-sales	B-Aspect	O
-volume	O	O
-much	O	O
-faster	B-Predicate	O
-there	O	O
-than	O	O
-in	O	O
-pennsylvania	B-Object	O
-,	O	O
-new	B-Object	O
-jersey	I-Object	O
-,	O	O
-connecticut	B-Object	O
-,	O	O
-and	O	O
-massachusetts	B-Object	O
-.	O	O
-
-i	O	O
-have	O	O
-several	O	O
-laptops	O	B-Aspect
-and	O	O
-desktops	O	B-Aspect
-for	O	I-Aspect
-anything	O	O
-other	O	O
-than	O	I-Aspect
-making	O	I-Aspect
-calls	O	I-Aspect
-,	O	O
-and	O	O
-even	O	O
-my	O	O
-12	O	O
-laptop	B-Object	O
-is	O	O
-much	O	O
-better	B-Predicate	O
-for	O	O
-doing	B-Aspect	O
-anything	O	O
-other	O	O
-than	O	B-Predicate
-phone	B-Object	B-Aspect
-calls	O	I-Aspect
-,	O	I-Aspect
-because	O	O
-i	O	O
-can	O	O
-see	O	O
-what	O	O
-i	O	O
-am	O	B-Predicate
-doing	O	O
-better	O	B-Object
-.	O	O
-
-my	O	O
-laptop	B-Object	O
-is	O	O
-easier	B-Predicate	O
-to	O	O
-use	B-Aspect	O
-than	O	B-Predicate
-my	O	O
-phone	B-Object	O
-.	O	O
-
-i	O	O
-would	O	O
-argue	O	O
-that	O	O
-no	O	O
-one	O	O
-would	O	O
-say	O	O
-their	O	O
-desktop	B-Object	O
-/	O	O
-laptop	B-Object	O
-is	O	O
-easier	B-Predicate	O
-to	O	O
-use	B-Predicate	O
-than	O	O
-their	O	O
-phone	B-Object	O
-.	O	O
-
-the	O	O
-surface	B-Object	O
-is	O	O
-more	B-Predicate	O
-portable	B-Aspect	O
-than	O	O
-my	O	O
-laptop	B-Object	O
-and	O	O
-easier	B-Predicate	O
-to	O	B-Predicate
-use	B-Aspect	B-Aspect
-for	O	B-Object
-those	O	O
-productivity	O	O
-issues	O	O
-(	O	O
-far	O	O
-easier	O	O
-to	O	O
-type	O	O
-on	O	O
-a	O	O
-10	O	O
-.	O	O
-6	O	O
-screen	O	O
-)	O	O
-than	O	O
-my	O	O
-windows	O	O
-phone	B-Object	O
-.	O	O
-
-i	O	O
-have	O	O
-a	O	B-Aspect
-laptop	B-Object	I-Aspect
-and	O	O
-handheld	O	O
-gaming	O	O
-devices	B-Object	O
-for	O	O
-everything	O	O
-else	O	O
-,	O	O
-and	O	O
-they	O	O
-'	O	B-Object
-re	O	O
-a	O	O
-billion	O	O
-times	O	O
-easier	B-Predicate	O
-to	O	O
-use	B-Aspect	O
-than	O	B-Predicate
-trying	O	O
-to	O	O
-do	O	O
-anything	O	O
-but	O	O
-make	O	O
-phone	O	O
-calls	O	O
-on	O	O
-a	O	O
-smartphone	B-Object	O
-is	O	O
-.	O	O
-
-4	O	O
-.	O	O
-they	O	O
-are	O	O
-bigger	O	O
-,	O	O
-making	O	O
-them	O	O
-easier	O	O
-to	O	O
-handle	O	O
-in	O	O
-the	O	O
-same	O	O
-way	O	O
-that	O	O
-its	O	O
-easier	B-Predicate	O
-to	O	O
-type	B-Aspect	O
-on	O	O
-your	O	B-Aspect
-laptop	B-Object	O
-than	O	O
-it	O	O
-is	O	O
-on	O	O
-your	O	O
-phone	B-Object	O
-.	O	O
-5	O	O
-.	O	O
-
-fyi	O	O
--	O	O
-i	O	O
-like	O	O
-my	O	O
-ipad	B-Object	O
-but	O	O
-usually	O	O
-only	O	O
-use	O	O
-it	O	B-Aspect
-when	O	O
-i	O	O
-'	O	O
-m	O	O
-traveling	O	B-Aspect
-since	O	B-Aspect
-its	O	I-Aspect
-so	O	I-Aspect
-much	O	O
-lighter	B-Predicate	O
-to	O	O
-carry	B-Aspect	O
-around	O	O
-than	O	B-Predicate
-a	O	B-Aspect
-laptop	B-Object	I-Aspect
-and	O	O
-way	O	O
-easier	B-Predicate	O
-to	O	O
-read	B-Aspect	O
-than	O	B-Predicate
-my	O	O
-phone	B-Object	O
-.	O	O
-
-plus	O	O
-on	O	O
-the	O	O
-desktop	B-Object	O
-/	O	O
-laptop	B-Object	O
-/	O	O
-tablet	B-Object	O
-i	O	O
-can	O	O
-type	B-Aspect	O
-a	O	O
-lot	O	O
-faster	B-Predicate	O
-than	O	O
-using	O	B-Aspect
-my	O	O
-thumbs	O	O
-on	O	O
-my	O	O
-phone	B-Object	O
-which	O	O
-i	O	O
-love	O	O
-!	O	O
-
-that	O	O
-'	O	O
-s	O	O
-because	O	O
-the	O	O
-phone	B-Object	O
-has	O	O
-a	O	O
-worse	B-Predicate	O
-wifi	O	O
-receiver	B-Aspect	O
-than	O	O
-your	O	O
-laptop	B-Object	I-Aspect
-and	O	O
-tablet	B-Object	O
-.	O	O
-
-tablets	B-Object	O
-fill	O	O
-the	O	O
-more	B-Predicate	O
-portable	B-Aspect	O
-than	O	O
-a	O	O
-laptop	B-Object	O
-but	O	O
-easier	B-Predicate	O
-to	O	O
-see	B-Aspect	B-Object
-than	O	O
-a	O	B-Aspect
-phone	B-Object	I-Aspect
-gap	O	I-Aspect
-.	O	I-Aspect
-
-a	O	B-Aspect
-tablet	B-Object	O
-or	O	O
-small	O	O
-laptop	B-Object	I-Aspect
--	O	O
-much	O	O
-nicer	B-Predicate	O
-than	O	B-Aspect
-a	O	I-Aspect
-phone	B-Object	O
-for	O	O
-looking	B-Aspect	O
-at	O	O
-google	O	O
-maps	O	O
-,	O	O
-yelp	O	O
-,	O	O
-wikitravel	O	O
-etc	O	O
-.	O	O
-
-secondly	O	O
-,	O	O
-laptop	B-Object	O
-cellular	O	O
-modems	O	O
-typically	O	O
-deliver	O	O
-faster	B-Predicate	O
-speeds	B-Aspect	O
-than	O	O
-phones	B-Object	O
-,	O	O
-so	O	O
-my	O	O
-results	O	O
-don	O	O
-'	O	O
-t	O	O
-necessarily	O	O
-predict	O	O
-phone	O	O
-or	O	O
-tablet	O	O
-performance	O	O
-.	O	O
-
-the	O	O
-reason	O	O
-may	O	O
-the	O	O
-signal	O	O
-receiver	B-Aspect	O
-of	O	O
-my	O	O
-phone	B-Object	O
-is	O	O
-very	O	O
-weak	B-Predicate	O
-compared	O	O
-to	O	O
-that	O	O
-of	O	O
-my	O	O
-laptop	B-Object	O
-.	O	O
-
-a	O	B-Aspect
-laptop	B-Object	O
-may	O	O
-be	O	O
-easier	B-Predicate	O
-to	O	O
-see	B-Aspect	B-Object
-for	O	B-Aspect
-the	O	B-Aspect
-reader	O	I-Aspect
-than	O	I-Predicate
-a	O	I-Aspect
-mobile	O	O
-phone	B-Object	O
-.	O	O
-
-the	O	O
-other	O	O
-point	O	O
-about	O	O
-this	O	O
-is	O	O
-that	O	O
-it	O	O
-'	O	O
-s	O	O
-so	O	O
-much	O	O
-easier	B-Predicate	O
-to	O	O
-see	O	O
-whether	O	O
-there	O	O
-'	O	O
-s	O	O
-wifi	B-Aspect	O
-available	O	O
-with	O	O
-a	O	O
-phone	B-Object	O
-than	O	O
-having	O	O
-to	O	O
-crack	O	B-Object
-the	O	O
-laptop	B-Object	O
-open	O	O
-.	O	O
-
-gadget	O	B-Object
-tool	B-Object	O
-would	O	O
-be	O	O
-that	O	O
-being	O	O
-larger	B-Predicate	B-Predicate
-than	O	O
-a	O	O
-phone	B-Object	O
-screen	O	O
-,	O	O
-it	O	O
-is	O	O
-easier	B-Predicate	O
-on	O	O
-slightly	O	O
-more	O	B-Predicate
-mature	O	B-Predicate
-eyes	O	O
-and	O	O
-it	O	O
-is	O	O
-a	O	O
-helluva	O	O
-lighter	B-Predicate	O
-to	O	O
-haul	O	B-Predicate
-around	O	O
-than	O	B-Predicate
-my	O	O
-laptop	B-Object	O
-with	O	O
-a	O	O
-17	O	O
-inch	O	O
-screen	O	O
-.	O	O
-
-the	O	O
-phone	B-Object	O
-feels	O	O
-wonderful	O	O
-in	O	O
-my	O	O
-hands	O	O
-,	O	O
-and	O	O
-it	O	O
-is	O	O
-slightly	O	O
-thinner	B-Predicate	O
-and	O	O
-much	O	O
-lighter	B-Predicate	O
-than	O	O
-an	O	O
-external	O	O
-laptop	O	O
-hard	O	O
-disk	O	O
-case	B-Object	B-Object
-.	O	O
-
-a	O	B-Aspect
-smart	O	O
-phone	B-Object	O
-or	O	O
-tablet	B-Object	O
-is	O	O
-simply	O	O
-easier	B-Predicate	O
-to	O	O
-carry	B-Aspect	O
-around	O	O
-than	O	O
-a	O	O
-laptop	B-Object	O
-.	O	O
-
-the	O	O
-larger	O	O
-screen	B-Object	O
-makes	O	O
-it	O	B-Aspect
-much	O	O
-more	B-Predicate	O
-enjoyable	I-Predicate	O
-to	O	O
-look	B-Aspect	O
-at	O	O
-than	O	B-Object
-the	O	O
-screen	B-Aspect	O
-of	O	O
-a	O	B-Aspect
-smart	O	O
-phone	B-Object	O
-,	O	O
-and	O	O
-it	O	O
-'	O	O
-s	O	O
-smaller	B-Predicate	O
-and	O	O
-easier	B-Predicate	O
-to	O	O
-carry	B-Aspect	O
-around	O	O
-than	O	O
-a	O	O
-laptop	B-Object	O
-.	O	O
-
-the	O	O
-fire	B-Object	O
-would	O	O
-be	O	O
-a	O	O
-nice	O	O
-compromise	O	O
-(	O	O
-more	B-Predicate	O
-comfortable	I-Predicate	O
-to	O	O
-read	B-Aspect	O
-than	O	O
-my	O	O
-phone	B-Object	O
-,	O	O
-easier	B-Predicate	O
-to	O	O
-carry	B-Object	O
-around	O	O
-than	O	O
-my	O	O
-laptop	B-Object	O
-),	O	O
-but	O	O
-i	O	O
-'	O	O
-ve	O	O
-already	O	O
-got	O	O
-the	O	O
-functionality	O	O
-covered	O	B-Object
-by	O	O
-other	O	O
-gadgets	O	O
-.	O	O
-
-after	O	O
-all	O	O
-,	O	O
-despite	O	O
-the	O	O
-small	O	O
-screen	O	O
-,	O	O
-movies	O	O
-really	O	O
-do	O	O
-look	O	O
-great	O	O
-on	O	O
-the	O	O
-cell	O	B-Object
-phone	B-Object	O
-,	O	O
-and	O	O
-it	O	O
-'	O	O
-s	O	O
-a	O	O
-lot	O	O
-easier	B-Predicate	O
-to	O	O
-carry	B-Aspect	O
-around	O	O
-than	O	O
-a	O	O
-laptop	B-Object	O
-or	O	O
-portable	O	O
-dvd	O	O
-player	B-Object	O
-.	O	O
-
-the	O	O
-tablet	B-Object	B-Predicate
-is	O	O
-easier	B-Predicate	O
-to	O	O
-carry	B-Aspect	O
-around	O	O
-than	O	O
-a	O	O
-laptop	B-Object	O
-and	O	O
-larger	B-Predicate	O
-than	O	O
-a	O	O
-phone	B-Object	O
-so	O	O
-it	O	O
-is	O	O
-in	O	O
-my	O	O
-"	O	O
-goldilocks	O	O
-zone	O	B-Object
-"	O	O
-for	O	O
-personal	O	O
-devices	O	O
-.	O	O
-
-best	O	O
-email	O	O
-client	O	O
-on	O	I-Aspect
-a	O	I-Aspect
-phone	B-Object	I-Aspect
-,	O	O
-have	O	O
-my	O	O
-work	O	O
-and	O	O
-non	O	O
-work	O	O
-emails	O	O
-tiled	O	O
-on	O	O
-the	O	O
-screen	O	O
-,	O	O
-helps	O	O
-me	O	O
-manage	B-Aspect	O
-my	I-Aspect	O
-email	I-Aspect	O
-alot	O	O
-better	B-Predicate	O
--	O	O
-sometimes	O	B-Predicate
-it	O	O
-'	O	O
-s	O	O
-just	O	O
-quicker	B-Predicate	O
-to	O	O
-read	B-Aspect	O
-email	O	O
-on	O	O
-my	O	O
-phone	B-Object	O
-rather	O	B-Predicate
-than	O	B-Aspect
-checking	O	I-Aspect
-my	O	O
-laptop	B-Object	O
-at	O	O
-work	O	O
-lol	O	O
-.	O	O
-
-i	O	O
-was	O	O
-wondering	O	O
-if	O	O
-anyone	O	O
-uses	O	B-Predicate
-anything	O	O
-on	O	O
-an	O	O
-ipad	O	O
-or	O	O
-phone	B-Object	O
-as	O	O
-these	O	O
-are	O	O
-so	O	O
-much	O	O
-quicker	B-Predicate	O
-than	O	O
-waiting	O	O
-for	O	O
-our	O	O
-ancient	O	O
-laptop	B-Object	O
-to	O	O
-fire	O	O
-up	O	O
-!	O	O
-
-data	O	O
-should	O	O
-be	O	O
-data	O	O
-,	O	O
-no	O	O
-matter	O	O
-how	O	O
-you	O	O
-use	O	O
-it	O	O
-...	O	O
-i	O	O
-guess	O	B-Aspect
-the	O	O
-idea	O	O
-is	O	O
-,	O	O
-on	O	O
-the	O	O
-phone	B-Object	O
-you	O	O
-wil	O	O
-get	O	O
-bored	B-Aspect	O
-a	O	O
-lot	O	O
-quicker	B-Predicate	O
-surfing	O	O
-than	O	O
-you	O	B-Aspect
-would	O	O
-on	O	O
-a	O	O
-real	O	O
-pc	B-Object	O
-/	O	O
-laptop	B-Object	O
-,	O	O
-so	O	O
-to	O	O
-discourage	O	O
-that	O	O
-use	O	O
-...	O	O
-.	O	B-Aspect
-
-even	O	O
-when	O	O
-my	O	O
-laptop	B-Object	I-Aspect
-is	O	I-Aspect
-easily	O	I-Aspect
-within	O	O
-reach	O	O
-,	O	O
-i	O	O
-can	O	O
-check	B-Aspect	O
-my	O	O
-personal	O	O
-email	O	O
-far	O	B-Aspect
-quicker	B-Predicate	O
-on	O	O
-my	O	O
-phone	B-Object	O
-.	O	O
-
-well	O	O
-,	O	O
-if	O	O
-you	O	O
-leave	O	O
-your	O	O
-cellphone	B-Object	O
-sitting	O	O
-around	O	O
-,	O	O
-it	O	O
-'	O	O
-s	O	O
-a	O	O
-lot	O	O
-easier	B-Predicate	O
-to	O	O
-steal	B-Aspect	O
-than	O	B-Object
-a	O	B-Aspect
-desktop	B-Object	I-Aspect
-,	O	O
-and	O	O
-somewhat	O	O
-easier	B-Predicate	O
-than	O	O
-a	O	O
-laptop	B-Object	O
-or	O	O
-tablet	B-Object	O
-.	O	O
-
-i	O	O
-do	O	O
-bring	O	O
-my	O	O
-purse	O	O
-into	O	O
-the	O	O
-restroom	O	O
-,	O	O
-of	O	O
-course	O	O
-,	O	O
-since	O	O
-a	O	O
-wallet	B-Object	O
-/	O	O
-phone	B-Object	O
-is	O	O
-much	O	O
-smaller	B-Predicate	O
-and	O	O
-easier	B-Predicate	O
-to	O	O
-steal	B-Aspect	O
-than	O	O
-a	O	B-Aspect
-laptop	B-Object	O
-.	O	O
-
-it	O	O
-is	O	O
-easier	B-Predicate	O
-to	O	O
-steal	B-Aspect	O
-laptops	B-Object	B-Object
-,	O	O
-i	O	O
-guess	O	O
-,	O	O
-than	O	O
-phones	B-Object	O
-because	O	O
-at	O	O
-one	O	O
-point	O	O
-one	O	O
-has	O	O
-to	O	O
-put	O	O
-the	O	O
-laptop	O	O
-down	O	O
-whereas	O	O
-phones	O	O
-can	O	O
-be	O	O
-securely	O	O
-placed	O	O
-in	O	O
-the	O	O
-pockets	O	O
-.	O	O
-
-even	O	O
-though	O	O
-the	O	O
-wifi	O	O
-specs	B-Aspect	O
-on	O	O
-the	O	O
-phone	B-Object	O
-are	O	O
-better	B-Predicate	O
-than	O	O
-my	O	O
-laptop	B-Object	O
-,	O	O
-i	O	O
-am	O	O
-fine	O	O
-with	O	O
-it	O	O
-being	O	O
-only	O	O
-as	O	O
-fast	O	O
-as	O	O
-the	O	O
-laptop	O	O
-,	O	O
-or	O	O
-even	O	O
-a	O	O
-little	O	O
-slower	O	O
-.	O	O
-
-wifi	B-Aspect	O
-on	O	O
-this	O	O
-phone	B-Object	O
-is	O	O
-faster	B-Predicate	O
-than	O	O
-my	O	O
-laptop	B-Object	O
-and	O	O
-thats	O	O
-with	O	O
-standard	O	O
-sights	O	O
-,	O	O
-not	O	O
-mobile	O	O
-.	O	O
-
-get	O	O
-a	O	O
-phone	B-Object	O
-with	O	O
-wifi	O	O
-for	O	O
-the	O	O
-web	O	O
-and	O	O
-an	O	O
-akai	O	B-Predicate
-mpc	O	B-Object
-that	O	O
-ll	O	O
-do	O	O
-much	O	O
-better	B-Predicate	O
-work	O	O
-than	O	O
-shitty	O	O
-laptop	B-Object	O
-setups	O	O
-.	O	O
-
-when	O	O
-you	O	O
-can	O	O
-use	O	O
-your	O	B-Aspect
-mobile	O	O
-phone	B-Object	O
-or	O	O
-3g	O	O
-ipad	B-Object	O
-on	O	O
-the	O	O
-go	O	O
-it	O	O
-is	O	O
-an	O	O
-easier	B-Predicate	O
-option	O	O
-than	O	O
-finding	O	O
-yourself	O	B-Predicate
-a	O	O
-wifi	O	O
-hotspot	O	O
-and	O	O
-getting	O	O
-your	O	B-Aspect
-laptop	B-Object	I-Aspect
-out	O	I-Aspect
-.	O	O
-
-i	O	O
-use	O	O
-my	O	O
-gmail	O	B-Aspect
-frequently	O	I-Aspect
-on	O	I-Aspect
-my	O	O
-smart	O	O
-phone	B-Object	O
-because	O	O
-it	O	O
-is	O	O
-faster	B-Predicate	O
-to	O	O
-check	B-Aspect	O
-my	I-Aspect	O
-email	I-Aspect	B-Aspect
-from	O	O
-here	O	B-Predicate
-rather	O	B-Predicate
-than	O	I-Predicate
-logging	O	I-Aspect
-on	O	I-Aspect
-to	O	I-Aspect
-my	O	O
-laptop	B-Object	O
-and	O	O
-waiting	O	O
-for	O	B-Object
-the	O	O
-slow	O	O
-carroll	O	O
-wifi	O	O
-to	O	O
-start	O	O
-up	O	O
-.	O	O
-
-this	O	O
-phone	B-Object	O
-is	O	O
-blazing	O	O
-fast	O	O
-,	O	O
-it	O	O
-'	O	O
-s	O	O
-as	B-Predicate	O
-fast	I-Predicate	O
-as	I-Predicate	O
-a	O	O
-laptop	B-Object	O
-!!	O	O
-it	O	O
-can	O	O
-blaze	O	O
-through	O	O
-web	O	O
-pages	O	O
-at	O	O
-lighting	O	O
-fast	O	B-Aspect
-speeds	O	I-Aspect
-and	O	I-Aspect
-operates	O	O
-them	O	O
-smoother	O	O
-than	O	O
-any	O	O
-other	O	O
-phone	B-Object	O
-,	O	O
-even	O	O
-the	O	O
-3gs	O	O
-.	O	O
-it	O	O
-also	O	O
-is	O	O
-compatible	O	O
-with	O	O
-tons	O	O
-of	O	O
-apps	O	O
-from	O	O
-google	O	O
-.	O	O
-and	O	O
-i	O	O
-love	O	O
-that	O	O
-it	O	O
-comes	O	O
-unlocked	O	O
-,	O	O
-that	O	O
-is	O	O
-one	O	O
-of	O	O
-favorite	O	O
-things	O	O
-about	O	O
-it	O	O
-.	O	O
-
-the	O	O
-screen	B-Object	O
-is	O	O
-bigger	B-Predicate	O
-than	O	O
-a	O	B-Aspect
-phone	B-Object	I-Aspect
-,	O	I-Aspect
-and	O	O
-the	O	O
-device	B-Object	O
-is	O	O
-easier	B-Predicate	O
-to	O	O
-hold	B-Aspect	O
-than	O	B-Predicate
-a	O	B-Aspect
-laptop	B-Object	I-Aspect
-,	O	O
-and	O	O
-the	O	O
-multi	O	O
--	O	O
-touch	O	O
-interface	O	O
-does	O	O
-make	O	O
-it	O	O
-easier	O	O
-to	O	O
-navigate	O	O
-around	O	O
-a	O	O
-page	O	O
-,	O	O
-zoom	O	O
-into	O	O
-text	O	O
-,	O	O
-etc	O	O
-.	O	O
-.	O	O
-
-the	O	O
-unnamed	O	O
-device	B-Object	O
-will	O	O
-sell	O	O
-for	O	B-Aspect
-less	O	O
-than	O	O
-$	O	B-Aspect
-1	O	I-Aspect
-,	O	O
-000	O	O
-,	O	O
-have	O	O
-a	O	O
-modem	O	O
-jack	O	O
-that	O	O
-connects	O	O
-to	O	O
-a	O	O
-phone	O	O
-line	O	O
-,	O	O
-and	O	O
-is	O	O
-supposed	O	O
-to	O	O
-be	O	O
-easier	B-Predicate	O
-and	O	O
-cheaper	B-Predicate	O
-than	O	O
-a	O	I-Aspect
-bulky	O	I-Aspect
-laptop	B-Object	O
-.	O	O
-
-thus	O	O
-,	O	O
-the	O	O
-cordless	O	O
-phone	B-Object	O
-100	O	O
-(	O	O
-and	O	O
-,	O	O
-to	O	O
-a	O	O
-lesser	O	O
-degree	O	O
-,	O	O
-the	O	O
-organizer	O	O
-200	O	O
-)	O	O
-is	O	O
-much	O	O
-simpler	B-Predicate	O
-than	O	O
-a	O	B-Aspect
-full	O	O
-blown	O	O
-dmt	O	O
-/	O	O
-ofdm	O	O
-unit	O	O
-as	O	O
-represented	O	O
-by	O	O
-the	O	O
-laptop	B-Object	O
-300	O	O
-.	O	O
-
-sounds	O	O
-like	O	O
-another	O	O
-approach	O	O
-to	O	O
-try	O	O
-to	O	O
-reach	O	B-Aspect
-that	O	O
-valhalla	O	O
-of	O	O
-the	O	O
-blending	O	O
-of	O	O
-one	O	O
-'	O	O
-s	O	O
-computer	O	O
-and	O	O
-one	O	O
-'	O	O
-s	O	O
-tv	O	O
-,	O	O
-along	O	O
-with	O	O
-one	O	O
-'	O	O
-s	O	O
-phone	B-Object	O
-,	O	O
-using	O	O
-an	O	O
-os	B-Aspect	O
-that	O	O
-'	O	O
-s	O	O
-simpler	B-Predicate	O
-than	O	O
-one	O	O
-'	O	O
-s	O	O
-full	O	O
--	O	O
-fledged	O	O
-desktop	O	O
-or	O	O
-laptop	B-Object	O
-computer	O	O
-.	O	O
-
-in	O	O
-short	O	O
-its	O	O
-often	O	O
-simpler	B-Predicate	O
-to	O	O
-use	B-Aspect	O
-a	O	I-Aspect
-mobile	O	O
-phone	B-Object	O
-than	O	I-Predicate
-it	O	O
-is	O	O
-a	O	O
-pc	B-Object	O
-or	O	O
-laptop	B-Object	O
-'.	O	O
-
-i	O	O
-did	O	O
-hook	O	O
-my	O	O
-phone	B-Object	O
-up	O	O
-via	O	B-Object
-mhl	O	O
-,	O	O
-and	O	O
-it	O	O
-worked	O	O
-,	O	O
-but	O	O
-it	O	O
-was	O	O
-simpler	B-Predicate	O
-to	O	O
-grab	O	B-Object
-the	O	B-Aspect
-laptop	B-Object	I-Aspect
-and	O	O
-go	O	O
-that	O	O
-way	O	O
-.	O	O
-
-but	O	O
-from	O	O
-what	O	O
-i	O	O
-'	O	B-Aspect
-ve	O	B-Aspect
-heard	O	O
-,	O	O
-mobile	O	O
-broadband	B-Object	O
-in	O	O
-its	O	O
-current	O	O
-state	O	O
-is	O	O
-not	B-Predicate	B-Object
-going	I-Predicate	O
-to	I-Predicate	B-Aspect
-be	I-Predicate	O
-any	I-Predicate	O
-faster	I-Predicate	O
-or	O	O
-more	O	B-Predicate
-reliable	B-Predicate	O
-than	O	O
-my	O	O
-iphone	B-Object	O
-,	O	O
-which	O	O
-is	O	O
-much	O	O
-lighter	B-Predicate	O
-and	O	O
-easier	B-Predicate	O
-to	O	O
-carry	B-Aspect	O
-on	O	O
-trips	O	O
-than	O	O
-a	O	O
-laptop	B-Object	O
-.	O	O
-
-the	O	O
-iphone	B-Object	O
-was	O	O
-lighter	B-Predicate	O
-than	O	O
-carrying	O	O
-recording	O	O
-equipment	B-Object	O
-and	O	O
-a	O	O
-laptop	B-Object	O
-.	O	O
-
-i	O	O
-'	O	B-Aspect
-m	O	O
-just	O	B-Aspect
-saying	O	I-Aspect
-that	O	O
-there	O	O
-is	O	O
-an	O	O
-addressable	O	O
-market	O	O
-for	O	O
-devices	B-Object	O
-larger	O	O
-than	O	O
-iphone	B-Object	O
-that	O	O
-can	O	O
-better	B-Predicate	O
-handle	B-Aspect	B-Predicate
-functions	I-Aspect	O
-that	O	O
-otherwise	O	O
-could	O	O
-only	O	O
-be	O	O
-done	O	O
-with	O	O
-a	O	O
-laptop	O	O
-.	O	O
-
-we	O	O
-find	O	O
-the	O	O
-iphone	B-Object	O
-to	O	O
-be	O	O
-much	O	O
-easier	B-Predicate	O
-to	O	O
-use	B-Aspect	O
-than	O	O
-android	B-Object	O
-based	I-Object	O
-smartphones	I-Object	O
-and	O	O
-we	O	O
-are	O	O
-considering	O	O
-replacing	O	O
-our	O	O
-pc	O	O
-and	O	O
-laptop	O	O
-with	O	O
-a	O	O
-mac	O	O
-desktop	O	O
-,	O	O
-a	O	O
-macbook	O	O
-air	O	O
-and	O	O
-or	O	O
-an	O	O
-ipad	O	O
-tablet	O	O
-.	O	O
-
-users	O	O
-who	O	O
-use	O	O
-the	O	O
-iphone	B-Object	O
-as	O	O
-a	O	O
-personal	O	O
-hotspot	O	O
-on	O	O
-ios	O	O
-7	O	O
-can	O	O
-now	O	O
-see	O	O
-how	O	O
-much	O	O
-data	O	O
-they	O	O
-have	O	O
-used	O	O
-on	O	O
-the	O	O
-iphone	B-Object	O
-as	O	O
-a	O	O
-personal	O	O
-hotspot	O	O
-,	O	O
-which	O	O
-is	O	O
-important	O	O
-because	O	O
-it	O	O
-is	O	O
-easier	B-Predicate	O
-to	O	O
-use	B-Aspect	O
-data	I-Aspect	O
-faster	B-Predicate	O
-while	O	O
-connecting	B-Aspect	O
-a	O	O
-laptop	B-Object	O
-to	O	O
-the	O	O
-iphone	B-Object	O
-5s	O	O
-or	O	O
-ipad	B-Object	O
-.	O	O
-
-in	O	O
-2010	O	O
-,	O	O
-he	O	O
-launched	O	O
-the	O	O
-ipad	B-Object	O
-,	O	O
-that	O	O
-magical	O	O
-tablet	O	O
-touchscreen	O	B-Object
-computer	O	O
--	O	O
-bigger	B-Predicate	O
-than	O	O
-an	O	O
-iphone	B-Object	O
-,	O	O
-smaller	B-Predicate	O
-and	O	O
-friendlier	B-Predicate	O
-than	O	O
-a	O	B-Aspect
-laptop	B-Object	O
--	O	O
-that	O	O
-quickly	O	O
-became	O	O
-the	O	O
-it	O	B-Aspect
-gadget	O	I-Aspect
-of	O	I-Aspect
-the	O	O
-year	O	O
-,	O	O
-selling	O	O
-a	O	O
-million	O	O
-units	O	O
-in	O	O
-a	O	O
-month	O	O
-.	O	O
-
-apple	O	O
-isn	O	O
-'	O	O
-t	O	O
-saying	O	O
-much	O	O
-about	O	O
-the	O	O
-possibility	O	O
-of	O	O
-a	O	O
-tablet	O	O
-computer	O	O
-,	O	O
-but	O	O
-industry	O	O
-watchers	O	O
-predict	O	O
-it	O	O
-will	O	O
-be	O	O
-a	O	B-Aspect
-thin	O	O
-,	O	O
-handheld	O	O
-device	B-Object	O
-with	O	O
-a	O	O
-10	O	O
-.	O	O
-1	O	O
--	O	O
-inch	O	O
-touch	O	O
-screen	O	O
-,	O	O
-making	O	O
-it	O	O
-bigger	B-Predicate	O
-than	O	O
-the	O	O
-iphone	B-Object	O
-yet	O	B-Object
-smaller	B-Predicate	O
-and	O	O
-lighter	B-Predicate	O
-than	O	O
-the	O	O
-typical	O	O
-laptop	B-Object	O
-.	O	O
-
-i	O	O
-must	O	O
-admit	O	O
-i	O	O
-'	O	B-Aspect
-d	O	O
-be	O	O
-lost	O	O
-without	O	O
-my	O	O
-iphone	B-Object	O
--	O	O
-and	O	O
-ipad	B-Object	O
-,	O	O
-which	O	O
-is	O	O
-much	O	O
-easier	B-Predicate	O
-to	O	O
-carry	B-Aspect	O
-around	O	O
-than	O	O
-a	O	I-Aspect
-laptop	B-Object	I-Aspect
-!	O	O
-
-since	O	O
-the	O	O
-new	O	O
-iphone	B-Object	O
-5	O	O
-supports	O	O
-videos	O	O
-up	O	O
-to	O	O
-1080p	O	B-Predicate
-,	O	O
-movies	O	O
-will	O	O
-do	O	O
-look	O	O
-great	O	O
-on	O	O
-the	O	O
-new	O	O
-device	O	O
-,	O	O
-and	O	O
-it	O	O
-'	O	O
-s	O	O
-a	O	O
-lot	O	O
-easier	B-Predicate	O
-to	O	O
-carry	B-Aspect	O
-around	O	O
-than	O	O
-a	O	O
-laptop	B-Object	O
-or	O	O
-portable	O	O
-dvd	O	O
-player	B-Object	O
-.	O	O
-
-imagine	O	O
-handing	O	O
-your	O	B-Aspect
-iphone	B-Object	O
-over	O	O
-to	O	O
-a	O	O
-friend	O	O
-to	O	O
-show	O	B-Aspect
-them	O	O
-a	O	I-Aspect
-gorgeous	O	O
-new	O	O
-bracelet	O	O
-:	O	O
-that	O	O
-'	O	O
-s	O	O
-far	O	O
-friendlier	B-Predicate	O
--	O	O
-and	O	O
-likelier	B-Predicate	O
-to	O	O
-lead	B-Aspect	O
-to	I-Aspect	O
-a	I-Aspect	O
-sale	I-Aspect	O
--	O	O
-than	O	O
-awkwardly	O	B-Aspect
-turning	O	B-Aspect
-a	O	I-Aspect
-laptop	B-Object	I-Aspect
-around	O	O
-.	O	O
-
-but	O	O
-,	O	O
-everyone	O	O
-we	O	B-Object
-'	O	O
-ve	O	O
-talked	O	O
-with	O	O
-who	O	O
-uses	O	O
-their	O	B-Object
-iphone	B-Object	O
-/	O	O
-ipod	B-Object	O
-for	O	O
-reading	B-Aspect	O
-says	O	O
-it	O	O
-'	O	O
-s	O	O
-much	O	O
-easier	B-Predicate	O
-on	O	O
-the	O	O
-eyes	O	O
-than	O	O
-a	O	O
-laptop	B-Object	O
-screen	O	O
-.	O	O
-
-ipad	O	O
-:	O	B-Aspect
-because	O	I-Aspect
-the	O	I-Aspect
-portability	O	O
-of	O	O
-the	O	O
-iphone	B-Object	O
-married	O	O
-with	O	O
-the	O	O
-functionality	O	O
-of	O	O
-a	O	O
-large	O	O
-screen	O	O
-can	O	O
-do	B-Aspect	O
-some	I-Aspect	O
-things	I-Aspect	O
-better	B-Predicate	O
-than	O	B-Predicate
-a	O	I-Aspect
-pocket	O	I-Aspect
--	O	O
-sized	O	O
-device	O	O
-can	O	O
-,	O	O
-and	O	O
-some	B-Aspect	O
-things	I-Aspect	O
-better	B-Predicate	O
-than	O	O
-a	O	I-Aspect
-laptop	B-Object	O
-can	O	O
-.	O	I-Aspect
-
-apple	O	O
-iphone	B-Object	O
-5	O	O
-white	O	B-Aspect
-includes	O	O
-a	O	B-Aspect
-4	O	O
--	O	O
-inch	O	O
-display	B-Aspect	O
-,	O	O
-the	O	O
-sgs3	O	O
-comes	O	O
-in	O	O
-at	O	O
-4	O	B-Aspect
-.	O	O
-8	O	O
--	O	O
-inches	O	O
-,	O	O
-that	O	O
-'	O	O
-s	O	O
-still	O	O
-greater	B-Predicate	O
-than	O	O
-the	O	O
-modern	O	O
-iphone	B-Object	O
-,	O	O
-the	O	O
-4s	O	O
-is	O	O
-simply	O	O
-3	O	O
-.	O	O
-5	O	O
--	O	O
-inches	O	O
-so	O	O
-a	O	O
-4	O	O
--	O	O
-inch	O	O
-iphone	B-Object	O
-5	O	O
-will	O	O
-only	O	O
-be	O	O
-fractionally	O	O
-...	O	O
-keyword	O	O
-:	O	O
-laptop	B-Object	B-Aspect
-.	O	I-Aspect
-
-but	O	O
-the	O	O
-pixel	B-Aspect	B-Aspect
-density	I-Aspect	O
-on	O	O
-my	O	O
-iphone	B-Object	O
-5	O	O
-is	O	O
-a	O	O
-lot	O	O
-greater	B-Predicate	O
-than	O	O
-that	O	O
-of	O	O
-my	O	O
-computer	B-Object	O
-,	O	O
-so	O	O
-watching	B-Aspect	O
-anime	O	O
-on	O	O
-my	O	O
-phone	B-Object	O
-looks	O	O
-great	B-Predicate	O
-in	O	O
-comparadon	O	O
-to	O	O
-my	O	O
-laptop	B-Object	O
-and	O	O
-my	O	O
-ps3	O	O
-can	O	O
-stream	O	O
-on	O	O
-720	O	O
-which	O	O
-is	O	O
-the	O	O
-mac	O	O
-output	O	O
-of	O	O
-my	O	O
-tv	O	O
-anyways	O	B-Object
-.	O	O
-
-i	O	O
-have	O	O
-a	O	B-Aspect
-laptop	B-Object	I-Aspect
-and	O	O
-a	O	O
-standard	O	O
-mobile	B-Object	O
-phone	O	O
-that	O	O
-have	O	O
-far	O	B-Aspect
-greater	B-Predicate	O
-combined	O	O
-capacity	B-Aspect	O
-than	O	O
-an	O	O
-iphone	B-Object	O
-.	O	O
-
-it	O	O
-'	O	O
-s	O	O
-possible	O	O
-to	O	O
-do	O	O
-this	O	O
-from	O	O
-a	O	B-Aspect
-laptop	B-Object	O
-as	O	I-Predicate
-well	O	O
-,	O	O
-of	O	O
-course	O	O
-,	O	O
-but	O	O
-it	O	O
-'	O	O
-s	O	O
-a	O	O
-lot	O	O
-easier	B-Predicate	O
-to	O	O
-get	B-Aspect	O
-to	O	O
-your	O	B-Aspect
-iphone	B-Object	B-Predicate
-than	O	I-Predicate
-to	O	I-Aspect
-open	O	I-Aspect
-up	O	O
-your	O	O
-laptop	B-Object	I-Aspect
-.	O	I-Aspect
-
-the	O	O
-2520	B-Object	O
-uses	O	O
-a	O	B-Aspect
-laptop	O	O
--	O	O
-like	O	O
-circular	B-Aspect	O
-plug	I-Aspect	O
-that	O	O
-is	O	O
-actually	O	O
-easier	B-Predicate	O
-to	O	O
-attach	B-Aspect	O
-than	O	O
-most	O	O
-,	O	O
-but	O	O
-both	O	O
-the	O	O
-surface	B-Object	O
-and	O	O
-new	O	O
-ipad	B-Object	O
-plug	B-Aspect	O
-are	O	O
-far	O	B-Aspect
-easier	B-Predicate	B-Aspect
-in	O	O
-the	O	I-Aspect
-dark	O	B-Object
-than	O	O
-the	O	O
-damn	O	O
-micro	O	O
--	O	O
-usb	O	O
-plug	O	O
-that	O	O
-all	O	O
-but	O	O
-the	O	O
-iphone	B-Object	O
-use	O	O
-to	O	O
-charge	O	B-Predicate
-(	O	O
-including	O	O
-most	O	O
-small	O	O
-tablets	O	O
-).	O	O
-
-for	O	B-Aspect
-this	O	O
-i	O	O
-would	O	O
-rather	O	B-Predicate
-use	O	O
-pd	O	O
-directly	O	O
-from	O	O
-the	O	O
-rjdj	O	O
-composerpack	O	O
-or	O	O
-through	O	O
-the	O	O
-rjc1000	O	O
-on	O	O
-a	O	O
-laptop	B-Object	O
-,	O	O
-because	O	O
-i	O	O
-can	O	O
-run	O	O
-it	O	O
-at	O	O
-a	O	B-Aspect
-decent	O	I-Aspect
-higher	B-Predicate	O
-samplerate	B-Aspect	B-Object
-and	O	O
-i	O	O
-can	O	O
-use	O	O
-better	O	O
-microphones	O	O
-than	O	O
-on	O	O
-the	O	O
-iphone	B-Object	O
-.	O	O
-
-note	O	B-Object
-:	O	B-Aspect
-many	O	O
-mobile	O	O
-devices	O	O
-,	O	O
-notably	O	O
-the	O	O
-iphone	B-Object	O
-4	O	O
-and	O	O
-ipad	B-Object	O
-2	I-Object	O
-,	O	O
-have	O	O
-high	O	O
-resolution	O	O
-displays	O	O
-with	O	O
-a	O	O
-much	O	O
-higher	B-Predicate	O
-pixel	B-Aspect	O
-density	I-Aspect	O
-than	O	O
-desktop	B-Predicate	O
-and	O	O
-laptop	B-Object	O
-monitors	O	O
-.	O	O
-
-some	O	O
-studies	O	B-Aspect
-have	O	B-Aspect
-even	O	O
-confirmed	O	O
-that	O	O
-the	O	O
-iphone	B-Object	O
-5	O	O
-has	O	O
-a	O	O
-higher	B-Predicate	O
-level	B-Aspect	O
-of	I-Aspect	O
-quality	I-Aspect	O
-and	O	O
-performance	B-Aspect	B-Object
-than	O	O
-the	O	O
-majority	O	O
-of	O	O
-tablets	B-Object	O
-and	O	O
-low	O	O
--	O	O
-end	O	O
-laptop	B-Object	O
-computers	O	O
-and	O	O
-netbooks	B-Object	O
-as	O	O
-well	O	O
-.	O	O
-
-plywood	B-Object	O
-is	O	O
-easier	B-Predicate	O
-to	O	O
-rework	B-Aspect	O
-than	O	O
-steel	B-Object	O
-.	O	O
-
-i	O	O
-'	O	B-Aspect
-d	O	B-Aspect
-have	O	B-Aspect
-to	O	O
-agree	O	O
-...	O	O
-aluminum	B-Object	B-Aspect
-or	O	B-Aspect
-marine	O	I-Aspect
-plywood	B-Object	O
-heavily	O	O
-epoxy	O	O
-coated	O	O
-are	O	O
-better	B-Predicate	O
-than	O	O
-stainless	O	O
-steel	B-Object	O
-in	O	O
-most	O	O
-cases	O	O
-...	O	O
-and	O	O
-far	O	B-Aspect
-easier	B-Predicate	O
-to	O	B-Predicate
-work	B-Aspect	B-Predicate
-.	O	O
-
-plywood	B-Object	O
-has	O	O
-greater	B-Predicate	O
-tensile	B-Aspect	O
-strength	I-Aspect	O
-than	O	O
-steel	B-Object	O
-per	O	O
-weight	O	O
-.	O	B-Aspect
-
-the	O	O
-patented	O	O
-,	O	O
-extremely	O	O
-durable	O	O
-ssl	B-Object	B-Object
-lining	I-Object	B-Aspect
-is	O	O
-four	O	O
-times	O	I-Aspect
-more	B-Predicate	I-Aspect
-corrosion	B-Aspect	O
-resistant	I-Aspect	B-Predicate
-than	O	O
-galvanized	B-Object	I-Aspect
-steel	I-Object	I-Aspect
-the	O	I-Aspect
-puncture	B-Aspect	I-Aspect
-strength	I-Aspect	O
-is	O	O
-nearly	O	O
-six	O	O
-times	O	O
-greater	B-Predicate	O
-than	O	B-Predicate
-0	O	B-Aspect
-.	O	O
-25	O	O
-"	O	O
-plywood	B-Object	O
-and	O	O
-over	O	O
-,	O	O
-four	O	O
-times	O	O
-greater	B-Predicate	O
-than	O	O
-mdpe	B-Object	O
-plastic	I-Object	O
-the	O	O
-rigid	O	O
-core	O	O
-is	O	O
-bonded	O	O
-to	O	O
-steel	B-Object	O
-ply	O	O
-to	O	O
-prevent	O	B-Aspect
-damage	O	I-Aspect
-from	O	O
-repeated	O	O
-forklift	O	O
-impact	O	B-Predicate
-
-plywood	B-Object	O
-is	O	O
-also	O	O
-,	O	O
-pound	O	O
-for	O	O
-pound	O	O
-,	O	O
-stronger	B-Predicate	O
-than	O	O
-steel	B-Object	O
-.	O	O
-
-pound	O	O
-for	O	B-Object
-pound	O	O
-,	O	O
-plywood	B-Object	O
-is	O	O
-stronger	B-Predicate	O
-than	O	O
-steel	B-Object	O
-in	O	O
-static	O	O
-bending	B-Aspect	O
-strength	I-Aspect	B-Object
-.	O	O
-
-hardwood	O	O
-plywood	B-Object	O
-is	O	O
-,	O	O
-pound	O	O
-for	O	O
-pound	O	O
-,	O	O
-stronger	B-Predicate	O
-than	O	O
-steel	B-Object	O
-in	O	O
-static	O	O
-bending	B-Aspect	O
-strength	I-Aspect	B-Object
-.	O	O
-
-pound	O	O
-for	O	B-Object
-pound	O	O
-veneer	O	O
-core	O	I-Predicate
-plywood	B-Object	O
-is	O	O
-stronger	B-Predicate	O
-than	O	O
-steel	B-Object	O
-in	O	O
-static	O	O
-bending	B-Aspect	O
-strength	I-Aspect	B-Object
-due	O	O
-to	O	O
-cross	O	O
--	O	O
-layered	O	O
-structure	O	O
-.	O	O
-
-expanded	O	O
-metal	O	O
-therefore	O	O
-needs	O	B-Aspect
-more	O	B-Aspect
-support	O	B-Aspect
-structure	O	I-Aspect
-below	O	O
-,	O	O
-so	O	O
-ultimately	O	O
-,	O	O
-timber	B-Object	O
-or	O	O
-structural	O	O
-plywood	B-Object	O
-ramps	O	O
-end	O	O
-up	O	O
-being	O	O
-lighter	B-Predicate	O
-and	O	O
-cheaper	B-Predicate	O
-than	O	O
-steel	B-Object	O
-.	O	O
-
-maybe	O	O
-cut	O	O
-some	O	O
-plywood	B-Object	B-Aspect
-gussets	O	O
-to	O	O
-attach	O	I-Aspect
-post	O	I-Aspect
-and	O	O
-beam	O	O
-,	O	O
-one	O	O
-on	O	O
-each	O	O
-side	O	O
-,	O	O
-this	O	O
-is	O	O
-cheaper	B-Predicate	O
-than	O	O
-steel	B-Object	O
-brackets	O	B-Predicate
-.	O	I-Aspect
-
-and	O	O
-because	O	O
-they	O	O
-'	O	O
-re	O	O
-made	O	O
-of	O	O
-steel	B-Object	O
-and	O	O
-include	O	O
-high	O	O
--	O	O
-tech	O	O
-insulation	O	O
-,	O	O
-they	O	O
-'	O	O
-re	O	O
-supposed	O	O
-to	O	O
-be	O	O
-more	B-Predicate	O
-efficient	I-Predicate	O
--	O	O
-and	O	O
-therefore	O	O
-cheaper	B-Predicate	O
-to	O	O
-run	B-Aspect	B-Object
--	O	O
-than	O	O
-the	O	O
-older	O	O
-plywood	B-Object	O
-and	O	O
-sheet	B-Object	B-Object
--	I-Object	B-Object
-metal	I-Object	B-Predicate
-barns	O	B-Predicate
-still	O	B-Predicate
-used	O	O
-on	O	I-Aspect
-many	O	O
-tobacco	O	O
-farms	O	O
-.	O	O
-
-i	O	O
-will	O	O
-use	O	O
-plywood	B-Object	B-Aspect
-,	O	O
-that	O	O
-sounds	O	O
-like	O	O
-a	O	O
-better	B-Predicate	O
-idea	O	O
-than	O	O
-1x	O	O
-lumber	B-Object	O
-,	O	O
-and	O	O
-probably	O	O
-cheaper	B-Predicate	O
-too	O	O
-.	O	O
-
-open	O	O
-frame	O	B-Aspect
-using	O	O
-2x4	O	O
-stud	O	O
-lumber	B-Object	O
-was	O	O
-much	O	O
-cheaper	B-Predicate	O
-than	O	O
-double	O	O
-plywood	B-Object	O
-.	O	O
-
-today	O	O
-i	O	O
-priced	O	O
-some	O	O
-1	O	B-Aspect
-"	O	O
-roughcut	O	O
-lumber	B-Object	O
-for	O	O
-building	O	O
-more	O	O
-nucs	O	O
-and	O	O
-it	O	O
-was	O	O
-actually	O	O
-cheaper	B-Predicate	O
-than	O	O
-using	O	B-Aspect
-1	O	I-Aspect
-/	O	O
-2	O	O
-"	O	O
-plywood	B-Object	O
-.	O	O
-
-the	O	O
-home	O	O
-depot	O	O
-red	O	O
-oak	O	O
-plywood	B-Object	O
-is	O	O
-5	O	O
--	O	O
-10	O	O
-%	O	O
-cheaper	B-Predicate	O
-than	O	O
-from	O	O
-a	O	O
-"	O	O
-real	O	O
-"	O	O
-lumber	B-Object	O
-yard	O	O
-,	O	O
-but	O	O
-not	O	O
-half	O	O
-the	O	O
-quality	O	O
-.	O	O
-
-i	O	O
-think	O	B-Object
-3	O	O
-/	O	O
-4	O	O
-plywood	B-Object	O
-is	O	O
-much	O	O
-better	B-Predicate	O
-to	O	O
-use	B-Aspect	O
-because	O	O
-it	O	O
-is	O	O
-so	O	O
-much	O	O
-stronger	O	B-Object
-per	O	O
-pound	O	O
-than	O	B-Object
-straight	O	B-Aspect
-lumber	B-Object	I-Aspect
-.	O	O
-
-"	O	O
-plywood	B-Object	O
-is	O	O
-more	B-Predicate	O
-flexible	I-Predicate	O
-,	O	O
-and	O	O
-generally	O	O
-stronger	B-Predicate	O
-,	O	O
-than	O	O
-lumber	B-Object	O
-of	O	O
-the	O	O
-same	O	O
-species	O	O
-and	O	O
-dimensions	O	O
-."	O	O
-
-i	O	O
-also	O	O
-thought	O	O
-that	O	O
-plywood	B-Object	O
-is	O	O
-stronger	B-Predicate	O
-and	O	O
-more	B-Predicate	O
-rigid	I-Predicate	O
-than	O	O
-1	O	O
-solid	O	O
-piece	O	O
-of	O	O
-lumber	B-Object	O
-.	O	O
-
-plywood	B-Object	O
-is	O	O
-cheaper	B-Predicate	O
-and	O	O
-often	O	O
-stronger	B-Predicate	O
-than	O	O
-solid	B-Object	I-Aspect
-wood	I-Object	I-Aspect
-,	O	I-Aspect
-easy	O	O
-to	O	O
-find	O	O
-at	O	O
-home	O	O
--	O	O
-improvement	O	O
-or	O	O
-lumber	O	O
-stores	O	O
-,	O	O
-and	O	O
-it	O	O
-looks	O	O
-good	O	O
-.	O	O
-
-you	O	O
-can	O	O
-dislike	O	O
-plywood	B-Object	O
-as	O	O
-much	O	O
-as	O	O
-you	O	B-Aspect
-like	O	O
-but	O	O
-it	O	O
-'	O	O
-s	O	O
-engineering	O	O
-characteristics	O	O
-say	O	O
-you	O	O
-can	O	O
-build	B-Aspect	O
-far	O	B-Aspect
-lighter	B-Predicate	B-Aspect
-with	O	O
-ply	O	O
-than	O	O
-you	O	B-Aspect
-ever	O	B-Aspect
-could	O	B-Aspect
-with	O	O
-lumber	B-Object	O
-.	O	O
-
-he	O	O
-also	O	O
-said	O	O
-it	O	O
-would	O	O
-be	O	O
-lighter	B-Predicate	O
-to	O	O
-make	B-Aspect	O
-this	O	O
-load	O	O
-bearing	O	O
-plywood	B-Object	O
-deck	O	O
-than	O	O
-a	O	B-Object
-deck	O	O
-from	O	O
-heavy	O	O
-composite	O	B-Aspect
-lumber	B-Object	O
-that	O	O
-i	O	O
-was	O	O
-thinking	O	O
-about	O	O
-.	O	O
-
-initially	O	O
-,	O	O
-the	O	O
-technique	O	O
-was	O	O
-called	O	O
-balloon	O	O
-framing	O	O
-because	O	O
-the	O	O
-2	O	O
-x	O	O
-4	O	O
-and	O	O
-2	O	O
-x	O	O
-6	O	B-Aspect
-framing	B-Aspect	I-Aspect
-members	I-Aspect	O
-(	O	O
-dimensional	O	O
-lumber	B-Object	O
-)	O	O
-were	O	O
-so	O	O
-much	O	O
-lighter	B-Predicate	O
-than	O	O
-in	O	O
-heavy	O	O
-timber	B-Object	O
-.	O	O
-
-"	O	O
-in	O	O
-some	O	O
-situations	O	O
-,	O	O
-rather	O	B-Predicate
-than	O	O
-transport	B-Aspect	I-Aspect
-green	O	O
-lumber	B-Object	O
-that	O	O
-is	O	O
-water	O	O
--	O	O
-heavy	O	O
-to	O	O
-a	O	O
-larger	O	O
-kiln	O	O
-,	O	O
-you	O	O
-could	O	O
-plug	O	O
--	O	O
-in	O	O
-the	O	O
-solar	O	O
-hybrid	O	O
-kiln	O	O
-and	O	O
-dry	O	O
-timber	B-Object	O
-on	O	O
-site	O	O
-,	O	O
-and	O	O
-then	O	O
-transport	B-Aspect	O
-much	O	O
-lighter	B-Predicate	O
-dried	O	O
-wood	O	O
-for	O	O
-further	O	O
-processing	O	O
-."	O	O
-
-glued	O	B-Object
-laminated	O	O
-timber	B-Object	O
-(	O	O
-glulam	O	O
-)	O	O
-has	O	B-Object
-greater	B-Predicate	O
-strength	B-Aspect	O
-and	O	O
-stiffness	B-Aspect	O
-than	O	O
-comparable	O	B-Object
-dimensional	O	I-Aspect
-lumber	B-Object	O
-and	O	O
-,	O	O
-pound	O	O
-for	O	O
-pound	O	O
-,	O	O
-is	O	O
-stronger	O	O
-than	O	O
-steel	O	O
-.	O	O
-
-its	O	O
-co	O	B-Aspect
--	O	O
-founder	O	O
-says	O	O
-that	O	O
-timber	B-Object	O
-components	O	O
-are	O	O
-far	O	O
-stronger	B-Predicate	O
-than	O	I-Aspect
-those	O	I-Aspect
-made	O	O
-from	O	O
-milled	O	O
-lumber	B-Object	O
-and	O	O
-can	O	O
-compete	O	O
-with	O	O
-concrete	O	O
-and	O	O
-steel	O	O
-.	O	O
-
-unlike	O	B-Aspect
-the	O	O
-light	O	O
--	O	O
-frame	O	O
-or	O	O
-stud	O	O
-construction	O	B-Object
-used	O	O
-to	O	O
-build	O	O
-houses	O	O
-and	O	O
-low	O	O
--	O	O
-rises	O	I-Aspect
-,	O	O
-mass	O	O
-timber	B-Object	O
-is	O	O
-made	O	O
-by	O	O
-bonding	O	O
-together	O	O
-thin	O	O
-layers	O	O
-of	O	O
-wood	O	O
-to	O	O
-create	O	O
-a	O	O
-material	O	O
-that	O	O
-is	O	O
-much	O	O
-stronger	B-Predicate	O
-and	O	O
-more	B-Predicate	O
-fire	I-Predicate	B-Object
--	I-Predicate	O
-resistant	I-Predicate	O
-than	O	O
-lumber	B-Object	O
-.	O	B-Aspect
-
-glulam	O	O
-,	O	O
-an	O	O
-engineered	O	O
-timber	B-Object	O
-product	O	O
-,	O	O
-provides	O	O
-greater	B-Predicate	O
-strength	B-Aspect	O
-than	O	O
-sawn	O	O
-lumber	B-Object	O
-for	O	O
-longer	O	O
-span	O	O
-applications	O	O
-.	O	O
-
-forested	O	O
-areas	O	O
-have	O	O
-been	O	O
-expanding	O	O
-every	O	O
-year	O	O
-,	O	O
-with	O	O
-the	O	O
-increase	B-Aspect	O
-in	O	O
-standing	O	O
-timber	B-Object	O
-greater	B-Predicate	O
-than	O	O
-that	O	O
-of	O	O
-felled	O	O
-lumber	B-Object	O
-.	O	O
-
-engineered	O	O
-lumber	B-Object	O
-may	O	O
-be	O	O
-available	O	O
-in	O	O
-longer	B-Predicate	O
-lengths	B-Aspect	O
-and	O	O
-is	O	O
-more	B-Predicate	O
-uniform	I-Predicate	O
-than	O	O
-solid	O	O
-timber	B-Object	O
-;	O	O
-it	O	O
-doesn	O	O
-'	O	O
-t	O	O
-have	O	B-Predicate
-knots	O	O
-,	O	O
-warping	O	O
-or	O	O
-cupping	O	O
-.	O	O
-
-the	O	O
-form	O	O
-is	O	O
-created	O	O
-using	O	O
-laminated	O	O
-veneer	O	O
-lumber	B-Object	O
--	O	O
-not	O	O
-great	O	O
-for	O	O
-the	O	O
-planet	O	O
-,	O	O
-as	O	O
-it	O	O
-consists	O	O
-of	O	O
-layers	O	O
-of	O	O
-wood	O	O
-held	O	O
-together	O	O
-with	O	O
-adhesives	O	O
--	O	O
-but	O	O
-it	O	O
-does	O	O
-stay	B-Aspect	O
-beautiful	I-Aspect	O
-longer	B-Predicate	O
-than	O	B-Predicate
-conventional	O	O
-timber	B-Object	O
-.	O	O
-
-a	O	B-Aspect
-twelve	O	O
--	O	O
-story	O	B-Aspect
-building	O	B-Aspect
-in	O	I-Aspect
-portland	O	B-Aspect
-is	O	I-Aspect
-being	O	I-Aspect
-constructed	O	I-Aspect
-with	O	O
-the	O	O
-product	O	O
-,	O	O
-cross	O	O
--	O	O
-laminated	O	O
-timber	B-Object	O
-,	O	O
-or	O	O
-clt	O	O
-,	O	O
-which	O	O
-is	O	O
-lighter	B-Predicate	O
-,	O	O
-so	O	O
-it	O	O
-goes	B-Aspect	O
-up	I-Aspect	O
-easier	B-Predicate	O
-and	O	O
-faster	B-Predicate	O
-than	O	O
-concrete	B-Object	O
-does	O	O
-...	O	O
-it	O	B-Aspect
-'	O	O
-s	O	O
-also	O	O
-quieter	B-Predicate	O
-in	O	O
-construction	B-Aspect	O
-,	O	O
-sheine	O	O
-told	O	O
-the	O	O
-guardian	O	O
-.	O	O
-
-although	O	B-Aspect
-timber	B-Object	O
-sleepers	O	O
-have	O	O
-good	O	B-Aspect
-elasticity	O	B-Aspect
-and	O	O
-are	O	O
-lighter	B-Predicate	O
-and	O	O
-easier	B-Predicate	O
-to	O	O
-handle	B-Aspect	O
-than	O	B-Predicate
-concrete	B-Object	O
-sleepers	O	O
-,	O	O
-their	O	O
-main	O	O
-drawback	O	O
-is	O	O
-short	O	O
-service	O	O
-life	O	O
-due	O	O
-to	O	O
-deterioration	O	O
-.	O	O
-
-the	O	O
-advantages	O	O
-this	O	O
-offers	O	O
-are	O	O
-quite	O	O
-exciting	O	O
--	O	O
-timber	B-Object	O
-panels	O	O
-are	O	O
-much	O	O
-lighter	B-Predicate	O
-than	O	O
-concrete	B-Object	O
-,	O	O
-more	B-Predicate	O
-easily	I-Predicate	O
-worked	B-Aspect	O
-and	O	O
-easier	B-Predicate	O
-and	O	O
-safer	B-Predicate	B-Object
-to	O	O
-erect	B-Aspect	I-Aspect
-[	O	I-Aspect
-42	O	O
-,	O	O
-43	O	O
-,	O	O
-44	O	O
-].	O	B-Object
-
-the	O	O
-massive	O	B-Aspect
-timber	B-Object	O
-is	O	O
-lighter	B-Predicate	O
-than	O	O
-concrete	B-Object	O
-,	O	O
-but	O	O
-manage	O	O
-wider	B-Predicate	O
-spans	B-Aspect	O
-than	O	O
-light	O	O
-timber	B-Object	O
-floors	O	O
-in	O	O
-general	O	O
-,	O	O
-which	O	B-Object
-means	O	O
-easier	B-Predicate	O
-adaptation	B-Aspect	O
-to	O	O
-existing	O	O
-support	O	O
-spacing	O	B-Aspect
-.	O	O
-
-timber	B-Object	O
-is	O	O
-a	O	O
-lighter	B-Predicate	O
-and	O	O
-more	B-Predicate	O
-environmentally	I-Predicate	O
--	I-Predicate	O
-friendly	I-Predicate	O
-building	O	O
-material	O	O
-that	O	O
-can	O	O
-be	O	O
-stronger	B-Predicate	O
-and	O	O
-safer	B-Predicate	B-Predicate
-in	O	O
-earthquakes	B-Aspect	O
-than	O	O
-traditional	O	O
-concrete	B-Object	O
-and	O	O
-steel	O	O
-structures	O	O
-that	O	O
-currently	O	O
-dominate	O	O
-the	O	O
-building	O	O
-landscape	O	O
-.	O	O
-
-winistorfer	O	O
-said	O	O
-timber	B-Object	O
-bridges	O	O
-are	O	O
-less	B-Predicate	O
-expensive	I-Predicate	B-Object
-,	O	O
-can	O	O
-be	O	O
-built	B-Aspect	O
-faster	B-Predicate	B-Object
-than	O	O
-concrete	B-Object	O
-or	O	O
-steel	B-Object	I-Aspect
-,	O	O
-and	O	O
-require	O	B-Object
-less	B-Predicate	O
-specialized	I-Predicate	O
-labor	B-Aspect	O
-to	O	O
-build	O	O
-.	O	O
-
-new	O	O
-structural	O	O
-systems	O	O
-like	O	O
-cross	O	O
--	O	O
-laminated	O	O
-timber	B-Object	O
-panels	O	O
-can	O	O
-score	O	O
-multiple	O	O
-leed	O	O
-points	O	O
-,	O	O
-cost	B-Aspect	O
-less	B-Predicate	O
-,	O	O
-and	O	O
-are	O	O
-faster	B-Predicate	O
-to	O	O
-build	B-Aspect	O
-with	O	O
-than	O	O
-steel	B-Object	O
-or	O	O
-concrete	B-Object	O
-.	O	O
-
-once	O	O
-your	O	O
-concrete	B-Object	O
-foundation	O	O
-is	O	O
-down	O	O
-you	O	O
-will	O	O
-find	O	O
-that	O	O
-the	O	O
-erection	O	B-Aspect
-of	O	O
-a	O	O
-timber	B-Object	O
-garage	O	O
-is	O	O
-much	O	O
-faster	B-Predicate	O
-than	O	O
-any	O	O
-concrete	B-Object	O
-or	O	O
-brick	B-Object	B-Predicate
-built	O	O
-garage	O	O
-.	O	O
-less	B-Predicate	O
-waste	B-Aspect	O
-and	O	O
-less	B-Predicate	O
-mess	B-Aspect	O
-during	O	O
-constuction	O	O
-is	O	O
-also	O	O
-a	O	O
-major	O	O
-factor	O	O
-to	O	O
-consider	O	O
-.	O	O
-
-timber	B-Object	O
-is	O	O
-strong	O	O
-,	O	O
-light	O	O
-and	O	O
-reliable	O	O
-making	O	O
-timber	B-Object	O
-construction	B-Aspect	B-Predicate
-simpler	B-Predicate	O
-and	O	O
-safer	B-Predicate	B-Object
-than	O	O
-steel	B-Object	O
-or	O	B-Aspect
-concrete	B-Object	I-Aspect
-construction	O	O
-.	O	O
-
-well	O	O
--	O	O
-designed	O	O
-,	O	O
-properly	O	O
-constructed	O	O
-timber	B-Object	O
-buildings	O	O
-can	O	O
-be	O	O
-even	O	O
-safer	B-Predicate	B-Aspect
-in	O	O
-earthquakes	B-Aspect	O
-than	O	O
-ferro	O	O
--	O	O
-concrete	B-Object	O
-ones	O	O
-.	O	O
-
-the	O	O
-replacement	O	O
-of	O	O
-timber	B-Object	O
-track	O	O
-components	O	O
-is	O	O
-responsible	O	O
-for	O	O
-producing	O	O
-greenhouse	O	O
-gas	O	O
-emissions	B-Aspect	O
-six	O	O
-times	O	O
-greater	B-Predicate	O
-than	O	O
-equivalent	O	O
-reinforced	O	O
-concrete	B-Object	O
-counterparts	O	O
-.	O	O
-
-reinforced	O	O
-concrete	B-Object	O
-decks	O	O
-can	O	O
-span	O	O
-greater	B-Predicate	O
-distances	B-Aspect	O
-than	O	O
-timber	B-Object	O
-decks	O	O
-.	O	O
-
-with	O	O
-respect	O	O
-to	O	O
-the	O	O
-absolute	O	O
-value	O	O
-of	O	O
-non	O	O
--	O	O
-renewable	O	O
-ee	O	O
-,	O	O
-the	O	O
-amount	B-Aspect	O
-associated	O	O
-with	O	O
-the	O	O
-concrete	B-Object	O
-design	O	O
-case	O	O
-was	O	O
-greater	B-Predicate	O
-than	O	O
-the	O	O
-timber	B-Object	O
-case	O	O
-by	O	O
-almost	O	O
-7	O	O
-terajoules	O	O
-.	O	O
-
-lutyens	B-Object	O
-'	O	B-Aspect
-s	O	O
-preference	O	O
-for	O	O
-bricks	O	O
-and	O	O
-timber	O	O
-,	O	O
-stone	O	O
-and	O	O
-slate	O	O
-,	O	O
-rather	O	B-Predicate
-than	O	O
-for	O	B-Aspect
-steel	O	I-Aspect
-and	O	O
-concrete	O	B-Object
-,	O	I-Aspect
-plate	O	O
--	O	O
-glass	O	O
-and	O	O
-box	O	O
-girders	O	O
-,	O	O
-betokened	O	O
-a	O	O
-greater	B-Predicate	O
-affinity	B-Aspect	O
-with	O	O
-the	O	O
-world	O	O
-and	O	O
-values	O	O
-of	O	O
-renaissance	O	O
-humanism	O	O
-than	O	O
-with	O	O
-the	O	O
-utilitarian	O	O
-impersonality	B-Object	O
-of	O	O
-the	O	O
-welfare	O	B-Aspect
-state	O	I-Aspect
-.	O	I-Aspect
-'	O	O
-
-houses	O	O
-with	O	O
-suspended	O	O
-timber	B-Object	O
-floors	O	O
-are	O	O
-a	O	O
-good	O	O
-example	O	B-Aspect
-of	O	B-Aspect
-where	O	I-Aspect
-this	O	I-Aspect
-works	O	I-Aspect
--	O	O
-they	O	O
-can	O	O
-be	O	O
-ripped	O	O
-out	O	O
-,	O	O
-dropped	O	O
-by	O	O
-as	O	O
-much	O	O
-as	O	O
-a	O	O
-foot	O	O
-and	O	O
-replaced	O	O
-with	O	O
-a	O	O
-concrete	B-Object	O
-floor	O	O
-to	O	O
-make	O	B-Predicate
-the	O	O
-whole	O	O
-space	O	O
-feel	O	O
-bigger	B-Predicate	O
-.	O	O
-
-massive	O	B-Aspect
-timber	B-Object	O
-is	O	O
-heavier	B-Predicate	O
-than	O	O
-light	O	O
-timber	B-Object	O
-systems	O	O
-,	O	O
-which	O	O
-makes	O	O
-it	O	O
-difficult	O	O
-to	O	O
-compete	O	O
-with	O	O
-such	O	B-Object
-,	O	O
-concerning	O	O
-handling	O	O
-of	O	O
-volume	O	O
-elements	O	O
-,	O	O
-whereas	O	O
-it	O	O
-is	O	O
-far	O	O
-lighter	B-Predicate	O
-than	O	O
-concrete	B-Object	O
-elements	O	O
-systems	O	O
-,	O	O
-which	O	O
-are	O	O
-mainly	O	O
-transported	O	O
-to	O	O
-the	O	O
-site	O	O
-as	O	O
-surface	O	B-Object
-elements	O	O
-.	O	O
-
-their	O	B-Object
-light	O	O
-weight	O	O
-also	O	O
-gives	O	O
-savings	O	O
-to	O	O
-the	O	O
-timber	B-Object	O
-supporting	B-Aspect	O
-trusses	I-Aspect	O
-which	O	O
-will	O	O
-be	O	O
-less	B-Predicate	B-Aspect
-than	O	O
-when	O	B-Aspect
-supporting	O	O
-heavier	O	O
-concrete	B-Object	O
-tiles	O	O
-.	O	O
-
-although	O	B-Aspect
-a	O	I-Aspect
-hollow	O	O
--	O	O
-core	O	O
-slab	O	O
-weighs	O	O
-far	O	O
-less	O	O
-than	O	O
-a	O	O
-solid	O	O
-concrete	B-Object	O
-slab	O	O
-,	O	O
-it	O	O
-is	O	O
-still	O	O
-a	O	O
-considerably	O	O
-heavier	B-Predicate	O
-arrangement	B-Aspect	O
-than	O	B-Predicate
-the	O	O
-typical	O	O
-timber	B-Object	O
-and	O	O
-plasterboard	O	O
-installation	O	O
-.	O	O
-
-concrete	B-Object	O
-columns	O	B-Aspect
-are	O	O
-stronger	B-Predicate	O
-than	O	O
-timber	B-Object	O
-post	O	O
-and	O	O
-steel	O	O
-is	O	O
-superior	B-Predicate	O
-to	O	O
-concrete	B-Object	O
-.	O	O
-
-the	O	O
-timber	B-Object	O
-from	O	O
-douglas	O	O
-firs	O	O
-is	O	O
-said	O	O
-to	O	O
-be	O	O
-stronger	B-Predicate	O
-than	O	O
-concrete	B-Object	O
-.	O	O
-
-great	O	O
-strength	O	O
-,	O	O
-stiffness	O	O
-and	O	O
-moderate	O	O
-weight	O	B-Aspect
-make	O	B-Aspect
-it	O	O
-an	O	O
-invaluable	O	O
-timber	B-Object	O
-product	O	O
-said	O	O
-to	O	O
-be	O	O
-stronger	B-Predicate	O
-than	O	O
-concrete	B-Object	O
-.	O	O
-
-amazingly	O	B-Aspect
-,	O	O
-the	O	O
-bus	B-Object	O
-travelled	O	O
-faster	B-Predicate	O
-and	O	O
-was	O	O
-far	O	O
-smoother	B-Predicate	O
-than	O	O
-the	O	I-Predicate
-overland	O	O
-truck	B-Object	O
-.	O	O
-
-off	O	O
--	O	O
-peak	O	O
-depends	O	O
-more	O	O
-on	O	O
-frequency	O	O
-,	O	O
-but	O	O
-even	O	O
-if	O	O
-the	O	O
-bus	B-Object	O
-only	O	O
-goes	O	O
-every	O	O
-half	O	O
-hour	O	O
-,	O	O
-it	O	O
-would	O	O
-still	O	O
-be	O	O
-slightly	O	O
-faster	B-Predicate	O
-than	O	O
-the	O	O
-train	B-Aspect	O
-,	O	O
-unless	O	B-Object
-some	O	O
-asphalt	O	B-Aspect
-truck	O	O
-spills	O	O
-its	O	O
-contents	O	O
-across	O	O
-all	O	O
-lanes	O	O
-of	O	O
-traffic	O	I-Aspect
-.	O	O
-
-using	O	O
-the	O	O
-truck	B-Object	O
-or	O	O
-van	B-Object	O
-would	O	O
-be	O	O
-alot	O	O
-faster	B-Predicate	B-Object
-vs	O	O
-the	O	I-Aspect
-long	O	O
-bus	B-Object	O
-ride	O	O
-.	O	O
-
-maybe	O	O
-the	O	O
-fastest	O	O
-out	O	O
-food	O	O
-truck	B-Object	B-Aspect
-i	O	O
-'	O	B-Aspect
-ve	O	O
-ever	O	O
-been	O	O
-to	O	O
-,	O	O
-so	O	O
-much	O	O
-faster	B-Predicate	O
-than	O	O
-burger	O	O
-bus	B-Object	O
-.	O	O
-
-in	O	O
-my	O	O
-youth	O	B-Object
-,	O	O
-i	O	O
-'	O	O
-ve	O	O
-always	O	O
-preferred	O	O
-hitching	O	O
-a	O	O
-ride	O	O
-with	O	O
-a	O	O
-truck	B-Object	O
-driver	O	O
-than	O	O
-ride	O	B-Aspect
-the	O	O
-bus	B-Object	B-Aspect
-,	O	O
-as	O	O
-i	O	O
-would	O	O
-invariably	O	O
-get	O	O
-there	O	O
-faster	B-Predicate	O
-,	O	O
-and	O	O
-i	O	O
-never	O	O
-really	O	O
-felt	O	O
-unsafe	O	O
-.	O	O
-
-bus	B-Object	O
-is	O	O
-20	O	O
-times	O	O
-easier	B-Predicate	O
-to	O	O
-drive	B-Aspect	O
-than	O	I-Predicate
-towing	O	O
-our	O	O
-trailer	O	O
-behind	O	O
-our	O	O
-f450	O	O
-truck	B-Object	O
-which	O	O
-is	O	O
-unexpected	O	B-Aspect
-.	O	O
-
-a	O	B-Aspect
-school	O	O
-bus	B-Object	O
-might	O	O
-be	O	O
-even	O	O
-easier	B-Predicate	O
-to	O	O
-move	B-Aspect	O
-than	O	I-Aspect
-a	O	I-Aspect
-truck	B-Object	O
-due	O	O
-to	O	B-Aspect
-its	O	I-Aspect
-overall	O	O
-density	O	O
-,	O	O
-but	O	O
-it	O	O
-would	O	O
-also	O	O
-be	O	O
-heavier	B-Predicate	O
-.	O	O
-
-i	O	O
-would	O	O
-think	O	O
-a	O	O
-school	O	O
-bus	B-Object	O
-based	O	O
-platform	O	O
-would	O	O
-be	O	O
-easier	B-Predicate	O
-to	O	O
-drive	B-Aspect	O
-than	O	O
-a	O	I-Aspect
-semi	O	O
--	O	O
-trailer	O	O
-combination	O	O
-,	O	O
-and	O	O
-that	O	O
-repairs	B-Aspect	O
-would	O	O
-be	O	O
-cheaper	B-Predicate	O
-since	O	O
-the	O	O
-engine	B-Aspect	B-Aspect
-in	O	O
-school	O	O
-buses	O	O
-seem	O	O
-to	O	O
-be	O	O
-smaller	B-Predicate	O
-than	O	O
-found	O	O
-in	O	O
-a	O	O
-full	O	O
-fledged	O	O
-semi	O	O
-truck	B-Object	O
-.	O	O
-
-it	O	O
-'	O	O
-s	O	O
-a	O	O
-heck	O	O
-of	O	O
-a	O	O
-lot	O	O
-easier	B-Predicate	O
-to	O	O
-do	B-Aspect	O
-on	O	O
-a	O	B-Aspect
-truck	B-Object	O
-than	O	O
-a	O	I-Aspect
-bus	B-Object	O
-.	O	O
-
-i	O	O
-can	O	O
-tell	O	O
-you	O	O
-that	O	O
-converting	B-Aspect	O
-a	O	O
-truck	B-Object	O
-is	O	O
-a	O	O
-whole	O	O
-bunch	O	O
-easier	B-Predicate	O
-then	O	O
-converting	O	O
-a	O	B-Predicate
-bus	B-Object	O
-.	O	O
-
-a	O	B-Aspect
-car	B-Object	B-Aspect
-or	O	O
-truck	B-Object	O
-is	O	O
-a	O	O
-whole	O	O
-lot	O	O
-easier	B-Predicate	O
-to	O	O
-drive	B-Aspect	B-Predicate
-than	O	I-Predicate
-a	O	B-Aspect
-55	O	O
--	O	O
-passenger	O	O
-school	O	O
-bus	B-Object	O
-on	O	O
-an	O	O
-icy	O	O
-road	O	O
-.	O	O
-
-i	O	O
-used	O	O
-to	O	O
-say	O	O
-that	O	O
-the	O	O
-average	O	O
-italian	B-Object	O
-bus	O	O
-driver	O	O
-eats	B-Aspect	O
-better	B-Predicate	O
-on	O	O
-a	O	O
-day	O	O
--	O	O
-to	O	O
--	O	O
-day	O	O
-basis	O	O
-than	O	O
-the	O	O
-average	O	O
-american	B-Object	O
-ceo	O	O
-,	O	O
-because	O	O
-of	O	O
-the	O	O
-easy	O	O
-access	O	O
-to	O	O
-quality	O	O
-,	O	O
-fresh	O	O
-,	O	O
-well	O	O
--	O	O
-prepared	O	O
-food	O	O
-at	O	O
-the	O	B-Aspect
-local	O	O
-market	O	O
-,	O	O
-the	O	O
-local	O	O
-restaurant	O	O
-,	O	O
-the	O	O
-local	O	O
-food	O	O
-truck	O	O
-,	O	O
-etc	O	O
-.	O	O
-.	O	O
-
-in	O	O
-fact	O	O
-,	O	O
-the	O	O
-nhtsa	O	O
-says	O	O
-that	O	O
-traveling	O	O
-by	O	O
-school	O	O
-bus	B-Object	O
-is	O	O
-seven	O	O
-times	O	O
-safer	B-Predicate	B-Aspect
-than	O	O
-traveling	O	B-Aspect
-by	O	O
-car	O	O
-or	O	O
-truck	B-Object	O
-.	O	O
-
-the	O	O
-shuttle	B-Object	O
-is	O	O
-a	O	O
-decent	O	O
-space	O	O
-truck	O	O
-,	O	O
-but	O	O
-we	O	O
-need	O	O
-a	O	O
-cheaper	B-Predicate	O
-(	O	O
-and	O	O
-safer	B-Predicate	O
-)	O	O
-space	O	O
-"	O	O
-bus	B-Object	O
-."	O	O
-
-the	O	O
-truck	B-Object	O
-/	O	O
-axle	B-Object	O
-(	O	O
-passive	O	O
-unpowered	O	O
-unit	O	O
-)	O	O
-is	O	O
-probably	O	O
-havier	O	O
-heavier	B-Predicate	O
-than	O	O
-for	O	B-Aspect
-a	O	I-Aspect
-1	O	O
--	O	O
-ton	O	O
-but	O	O
-then	O	O
-again	O	O
-the	O	O
-whole	O	O
-bus	B-Object	O
-is	O	O
-heavier	O	O
-.	O	O
-
-the	O	O
-humpback	O	I-Aspect
-whale	B-Object	O
-is	O	O
-"	O	O
-longer	B-Predicate	O
-than	O	B-Object
-a	O	O
-big	O	O
-bus	B-Object	O
-and	O	O
-heavier	B-Predicate	O
-than	O	O
-a	O	O
-trailer	O	O
-truck	B-Object	O
-"	O	O
-for	O	O
-instance	O	O
-.	O	O
-
-that	O	O
-is	O	O
-one	O	O
-nice	O	O
-1960	O	O
-flxibile	O	O
-starliner	O	O
-i	O	O
-have	O	O
-saw	O	O
-it	O	O
-up	O	O
-close	O	O
-being	O	O
-full	O	O
-of	O	O
-doughnuts	O	B-Object
-even	O	O
-made	O	O
-it	O	O
-nicer	O	O
-matt	O	O
-would	O	O
-love	O	O
-that	O	O
-bus	B-Object	O
-,	O	O
-that	O	O
-was	O	O
-a	O	O
-nice	O	O
-story	O	B-Aspect
-the	O	I-Aspect
-bus	B-Object	O
-ride	B-Aspect	O
-had	O	O
-to	O	O
-be	O	O
-better	B-Predicate	O
-than	O	O
-him	O	O
-stealing	O	O
-a	O	O
-delivery	O	O
-truck	B-Object	O
-.	O	O
-
-you	O	O
-wake	O	O
-up	O	O
-on	O	O
-the	O	O
-bus	B-Object	O
---	O	O
-and	O	O
-it	O	O
-even	O	O
-happens	O	O
-now	O	O
-,	O	O
-where	O	O
-traveling	B-Aspect	O
-is	O	O
-a	O	O
-lot	O	O
-nicer	B-Predicate	O
-than	O	B-Predicate
-it	O	O
-was	O	O
-before	O	O
---	O	O
-and	O	O
-we	O	B-Predicate
-'	O	O
-ve	O	O
-pulled	O	O
-into	O	O
-some	O	O
-truck	B-Object	O
-stop	O	O
-in	O	O
-god	O	O
-knows	O	O
-where	O	O
-.	O	O
-
-according	O	O
-to	O	O
-a	O	B-Aspect
-1988	O	O
-study	O	O
-by	O	O
-dr	O	O
-.	O	O
-liu	O	O
-'	O	O
-s	O	O
-colleague	O	O
-at	O	B-Predicate
-the	O	B-Aspect
-university	O	I-Aspect
-of	O	O
-missouri	O	O
-,	O	O
-j	O	O
-.	O	O
-p	O	O
-.	O	O
-wu	O	O
-,	O	O
-transporting	O	O
-grain	O	O
-by	O	O
-pipeline	B-Object	O
-is	O	O
-cheaper	B-Predicate	O
-than	O	O
-by	O	O
-truck	B-Object	O
-or	O	O
-train	B-Object	O
-as	O	O
-long	O	O
-as	O	O
-the	O	O
-throughput	O	O
-is	O	O
-greater	O	O
-than	O	B-Aspect
-approximately	O	O
-1	O	B-Aspect
-million	O	O
-tons	O	O
-(	O	O
-32	O	O
-million	O	O
-bus	B-Object	O
-).	O	O
-
-the	O	O
-truck	B-Object	O
-driver	O	O
-is	O	O
-definitely	O	B-Object
-more	B-Predicate	O
-at	O	O
-fault	B-Aspect	O
-than	O	B-Object
-the	O	O
-bus	B-Object	O
-driver	O	O
-but	O	O
-i	O	O
-think	O	B-Object
-bus	B-Object	O
-drivers	O	O
-should	O	O
-be	O	O
-held	O	O
-a	O	O
-greater	B-Predicate	O
-standard	O	O
-of	O	O
-safety	B-Aspect	O
-/	I-Aspect	O
-caution	I-Aspect	O
-.	O	O
-
-using	O	O
-this	O	O
-same	O	O
-logic	O	O
-,	O	O
-we	O	O
-could	O	B-Object
-assume	O	O
-that	O	O
-a	O	O
-monster	O	O
-truck	B-Object	O
-is	O	O
-faster	B-Predicate	O
-than	O	O
-a	O	B-Aspect
-porsche	B-Object	O
-,	O	I-Aspect
-or	O	O
-a	O	I-Aspect
-school	O	O
-bus	B-Object	O
-is	O	O
-capable	O	O
-of	O	O
-higher	B-Object	O
-speed	B-Aspect	B-Aspect
-than	O	O
-a	O	O
-jaguar	B-Object	O
-e	O	O
--	O	O
-type	O	O
-.	O	O
-
-with	O	O
-a	O	O
-more	O	O
-relaxing	O	O
-and	O	O
-versatile	O	O
-interior	O	O
-than	O	O
-the	O	O
-large	O	O
-truck	B-Object	O
--	O	O
-based	O	O
-suvs	O	I-Predicate
-,	O	I-Aspect
-the	O	I-Aspect
-acadia	O	O
-also	O	O
-delivers	O	O
-higher	B-Predicate	O
-fuel	B-Aspect	O
-economy	I-Aspect	I-Aspect
-and	O	O
-better	B-Predicate	O
-handling	B-Aspect	O
--	O	O
-in	O	O
-this	O	O
-case	O	O
-,	O	O
-maneuverability	O	O
-more	O	O
-like	O	O
-a	O	I-Aspect
-large	O	O
-car	O	O
-than	O	O
-a	O	B-Aspect
-bus	B-Object	O
-.	O	O
-
-the	O	O
-lateral	O	O
-displacement	O	O
-criteria	O	O
-is	O	O
-less	O	O
-for	O	O
-a	O	O
-bus	B-Object	O
-because	O	O
-a	O	O
-large	O	O
-bus	B-Object	O
-has	O	O
-a	O	O
-longer	B-Predicate	O
-wheelbase	B-Aspect	O
-than	O	O
-a	O	O
-truck	B-Object	O
-tractor	O	O
-and	O	O
-higher	B-Predicate	O
-steering	B-Aspect	O
-ratio	I-Aspect	O
-,	O	O
-which	O	O
-makes	O	O
-it	O	O
-less	B-Predicate	O
-responsive	B-Aspect	O
-than	O	O
-a	O	O
-truck	B-Object	O
-tractor	O	O
-.	O	O
-
-developed	O	O
-for	O	O
-an	O	O
-international	O	B-Aspect
-truck	O	O
-manufacturer	O	O
-,	O	O
-the	O	O
-oil	B-Object	B-Predicate
-pan	I-Object	O
-is	O	O
-up	O	O
-to	O	O
-50	O	O
-percent	O	O
-lighter	B-Predicate	O
-than	O	O
-aluminium	B-Object	O
-,	O	O
-and	O	O
-can	O	O
-resist	O	O
-stone	O	O
-and	O	O
-gravel	O	O
-chip	O	O
-impact	O	O
-during	O	O
-the	O	B-Predicate
-typical	O	O
-1	O	O
-.	O	O
-5	O	O
-million	O	O
-kilometre	O	O
-lifetime	O	O
-of	O	O
-a	O	O
-truck	O	O
-or	O	O
-bus	O	O
-engine	O	O
-.	O	O
-
-the	O	O
-truck	B-Object	O
-is	O	O
-37	O	O
-feet	O	O
-,	O	O
-six	O	O
-inches	O	O
-long	O	O
-and	O	O
-has	O	O
-a	O	O
-wheel	B-Aspect	O
-base	I-Aspect	O
-shorter	B-Predicate	O
-than	O	O
-a	O	B-Aspect
-school	O	O
-bus	B-Object	O
-.	O	O
-
-the	O	O
-load	B-Aspect	O
-of	O	O
-palms	O	O
-on	O	O
-the	O	O
-truck	B-Object	O
-is	O	O
-much	O	O
-taller	B-Predicate	O
-than	O	O
-a	O	O
-bus	B-Object	O
-and	O	O
-very	O	O
-top	O	O
-heavy	O	O
-.	O	O
-
-missed	O	O
-turns	O	O
-in	O	O
-a	O	B-Aspect
-truck	B-Object	O
-that	O	O
-'	O	O
-s	O	O
-as	B-Predicate	O
-long	I-Predicate	O
-and	O	O
-wide	B-Predicate	O
-as	I-Predicate	O
-a	O	I-Aspect
-city	O	O
-bus	B-Object	O
---	O	O
-and	O	O
-a	O	O
-good	O	O
-deal	O	B-Predicate
-taller	O	B-Aspect
---	O	I-Aspect
-can	O	B-Aspect
-be	O	I-Aspect
-problematical	O	I-Aspect
-,	O	O
-since	O	O
-u	O	O
--	O	O
-turns	O	O
-and	O	O
-even	O	O
-right	O	O
-and	O	O
-left	O	O
-turns	O	O
-on	O	O
-narrow	O	O
-suburban	O	O
-streets	O	O
-are	O	O
-virtually	O	O
-out	O	O
-of	O	O
-the	O	O
-question	O	O
-.	O	O
-
-fact	O	O
-is	O	O
-,	O	O
-adidas	B-Object	O
-provided	O	O
-a	O	O
-better	B-Predicate	O
-package	B-Aspect	O
-and	O	O
-got	O	B-Object
-the	O	B-Aspect
-deal	O	B-Predicate
-by	O	O
-agreeing	O	O
-to	O	O
-outfit	O	O
-all	O	O
-ku	O	O
-sports	O	O
-teams	O	O
-,	O	O
-unlike	O	O
-nike	B-Object	O
-.	O	O
-
-adidas	B-Object	O
-is	O	O
-growing	B-Aspect	O
-faster	B-Predicate	O
-than	O	O
-nike	B-Object	O
-in	O	O
-other	O	O
-asian	O	O
-markets	O	O
-,	O	O
-too	O	O
-,	O	O
-notably	O	O
-in	O	O
-china	O	O
-.	O	O
-
-adidas	B-Object	O
-reported	O	O
-a	O	O
-15	O	O
-per	O	O
-cent	O	O
-sales	O	O
-increase	O	O
-in	O	O
-china	O	O
-last	O	O
-year	O	O
-,	O	O
-growing	B-Aspect	O
-faster	B-Predicate	B-Object
-than	O	O
-its	O	O
-rivals	O	O
-including	O	O
-nike	B-Object	O
-of	O	O
-the	O	O
-united	O	O
-states	O	O
-and	O	O
-home	O	O
--	O	O
-grown	O	B-Aspect
-brand	O	O
-li	O	O
-ning	O	O
-amid	O	O
-intense	O	B-Aspect
-competition	O	O
-.	O	O
-
-i	O	O
-also	O	O
-tried	O	O
-using	O	O
-a	O	O
-cheaper	O	O
-adidas	B-Object	O
-trail	O	O
-shoe	O	O
-and	O	O
-,	O	O
-although	O	O
-better	B-Predicate	O
-than	O	O
-the	O	O
-nike	B-Object	O
-,	O	O
-was	O	O
-pretty	O	O
-bad	O	O
-.	O	O
-
-adidas	B-Object	O
-apparel	O	O
-also	O	O
-goes	O	O
-on	O	O
-sale	B-Aspect	O
-sooner	B-Predicate	O
-and	O	O
-is	O	O
-cheaper	B-Predicate	O
-than	O	O
-nike	B-Object	O
-sale	O	O
-apparel	O	O
-.	O	O
-
-i	O	O
-like	O	O
-adidas	B-Object	O
-,	O	O
-personally	O	B-Object
--	O	O
-mostly	O	O
-because	O	O
-i	O	O
-can	O	O
-get	O	O
-it	O	O
-a	O	O
-bit	O	O
-cheaper	B-Predicate	O
-online	O	O
-than	O	O
-nike	B-Object	O
-.	O	O
-
-while	O	O
-adidas	B-Object	O
-products	O	O
-are	O	O
-generally	O	O
-cheaper	B-Predicate	O
-than	O	I-Aspect
-nike	B-Object	B-Aspect
-products	O	I-Aspect
-,	O	I-Aspect
-much	O	O
-of	O	O
-the	O	O
-pricing	O	O
-can	O	O
-be	O	O
-directly	O	O
-proportional	O	O
-to	O	O
-the	O	B-Aspect
-type	O	O
-of	O	O
-technology	O	O
-incorporated	O	O
-into	O	O
-the	O	O
-shoe	O	O
-.	O	O
-
-i	O	O
-don	O	O
-'	O	B-Object
-t	O	O
-have	O	B-Predicate
-anything	O	O
-against	O	O
-adidas	B-Object	O
-,	O	O
-but	O	O
-i	O	O
-do	O	O
-think	O	B-Object
-that	O	O
-our	O	O
-uni	O	O
-'	O	O
-s	O	O
-materials	B-Aspect	O
-look	O	O
-cheaper	B-Predicate	I-Predicate
-than	O	B-Aspect
-the	O	B-Aspect
-nike	B-Object	O
-ones	O	O
-(	O	O
-example	O	O
-:	O	O
-the	O	O
-up	O	O
--	O	O
-and	O	O
--	O	O
-down	O	O
-curves	O	B-Aspect
-running	O	I-Aspect
-across	O	O
-the	O	O
-numbers	O	O
-for	O	O
-the	O	O
-first	O	O
-2	O	O
-years	O	O
-with	O	O
-adidas	B-Object	O
-).	O	O
-
-while	O	O
-the	O	O
-video	O	O
-cuts	O	O
-off	O	O
-before	O	O
-a	O	I-Aspect
-full	O	O
-explanation	O	O
-,	O	O
-it	O	O
-appears	O	O
-kanye	O	O
-intends	O	B-Object
-for	O	B-Object
-his	O	O
-adidas	B-Object	O
-collaborations	O	O
-to	O	O
-be	O	O
-produced	O	O
-in	O	O
-greater	B-Predicate	O
-quantities	B-Aspect	O
-than	O	O
-his	O	I-Aspect
-nike	B-Object	I-Aspect
-venture	O	I-Aspect
-,	O	O
-hopefully	O	O
-making	O	O
-it	O	O
-easier	B-Predicate	O
-for	O	O
-all	O	O
-his	O	O
-fans	O	O
-to	O	O
-access	B-Aspect	B-Predicate
-a	O	I-Aspect
-pair	O	O
-.	O	O
-
-adidas	B-Object	O
-fan	B-Aspect	O
-apparel	I-Aspect	O
-is	O	O
-nothing	B-Predicate	O
-compared	I-Predicate	O
-to	I-Predicate	O
-what	O	O
-nike	B-Object	O
-has	O	O
-to	O	O
-offer	O	O
-.	O	O
-
-7	O	O
-reasons	O	O
-adidas	B-Object	O
-is	O	O
-a	O	O
-better	B-Predicate	O
-fit	B-Aspect	O
-for	O	O
-kanye	O	O
-than	O	B-Predicate
-nike	B-Object	B-Aspect
-.	O	I-Aspect
-
-and	O	O
-to	O	O
-prove	O	O
-it	O	O
-,	O	O
-we	O	O
-came	O	O
-up	O	O
-with	O	O
-a	O	O
-list	O	O
-of	O	O
-the	O	O
-7	O	B-Aspect
-reasons	O	O
-why	O	O
-adidas	B-Object	O
-is	O	O
-going	O	O
-to	O	O
-be	O	O
-a	O	O
-better	B-Predicate	O
-fit	B-Aspect	O
-for	O	O
-kanye	O	O
-west	O	O
-than	O	B-Aspect
-nike	B-Object	B-Aspect
-.	O	I-Aspect
-
-after	O	O
-hearing	O	O
-kanye	O	B-Aspect
-speak	O	I-Aspect
-at	O	B-Predicate
-the	O	O
-conference	O	B-Aspect
-,	O	O
-we	O	O
-can	O	O
-'	O	B-Object
-t	O	O
-help	O	O
-but	O	O
-think	O	B-Object
-that	O	O
-the	O	O
-situation	B-Aspect	O
-he	O	O
-has	O	O
-going	O	O
-with	O	O
-adidas	B-Object	O
-right	O	O
-now	O	O
-will	O	O
-ultimately	O	B-Aspect
-be	O	O
-better	B-Predicate	O
-for	O	O
-him	O	O
-in	O	O
-the	O	O
-long	O	O
-run	O	O
-than	O	O
-the	O	O
-relationship	O	O
-he	O	O
-had	O	O
-with	O	O
-nike	B-Object	O
-.	O	O
-
-plus	O	O
-,	O	O
-adidas	B-Object	O
-is	O	O
-better	B-Predicate	O
-for	O	O
-people	O	O
-w	O	O
-/	O	O
-wide	B-Aspect	O
-feet	I-Aspect	O
-than	O	O
-nike	B-Object	O
-,	O	O
-and	O	O
-they	O	O
-'	O	B-Object
-re	O	O
-more	B-Predicate	O
-flexible	B-Aspect	O
-than	O	O
-some	O	O
-.	O	O
-
-the	O	O
-nike	B-Object	O
-shoes	O	B-Object
-are	O	O
-currently	O	O
-tied	O	O
-with	O	O
-or	O	O
-slightly	O	O
-lighter	B-Predicate	O
-than	O	O
-the	O	O
-most	O	O
-recent	O	B-Object
-adidas	B-Object	O
-shoe	O	O
-,	O	O
-the	O	O
-d	O	O
-'	O	B-Aspect
-artagnan	O	I-Aspect
-iv	O	O
-.	O	O
-
-if	O	B-Object
-the	O	O
-new	O	O
-nike	B-Object	O
-football	O	O
-cleat	O	B-Object
-is	O	O
-1	O	O
-.	O	O
-1	O	O
-ounces	O	O
-lighter	B-Predicate	O
-than	O	O
-adidas	B-Object	O
-'	O	O
-football	O	O
-cleat	O	B-Object
-,	O	O
-and	O	O
-the	O	O
-macbook	B-Object	O
-air	I-Object	O
-is	O	O
-1	O	O
-.	O	O
-5	O	O
-pounds	O	O
-lighter	B-Predicate	O
-than	O	O
-the	O	O
-macbook	B-Object	O
-pro	I-Object	O
-,	O	O
-the	O	O
-race	O	O
-to	O	O
-the	O	B-Aspect
-lightest	O	O
-is	O	O
-clearly	O	O
-underway	O	O
-.	O	O
-
-puma	B-Object	O
-also	O	O
-do	O	O
-a	O	B-Aspect
-good	O	O
-job	O	O
-of	O	O
-keeping	O	O
-the	O	O
-boot	O	O
-in	O	O
-good	O	O
-stead	O	O
-weight	B-Aspect	O
-wise	O	O
-,	O	O
-at	O	O
-a	O	O
-very	O	O
-competitive	O	O
-9	O	B-Aspect
-.	O	O
-2oz	O	B-Object
-,	O	O
-leaving	O	O
-them	O	O
-very	O	O
-close	B-Predicate	O
-to	O	O
-the	O	O
-new	O	O
-nike	B-Object	O
-ctr360	O	O
-maestri	O	O
-ii	O	O
-(	O	O
-8	O	O
-.	O	O
-8oz	O	O
-)	O	O
-and	O	O
-lighter	B-Predicate	O
-than	O	O
-the	O	O
-adidas	B-Object	O
-adipure	O	O
-iv	O	O
-(	O	O
-9	O	O
-.	O	O
-8oz	O	O
-).	O	O
-
-the	O	O
-adidas	B-Object	O
-tj	O	O
-2	O	O
-will	O	O
-be	O	O
-a	O	B-Aspect
-bit	O	I-Aspect
-lighter	B-Predicate	O
-(	O	O
-7	O	O
-.	O	O
-8oz	O	O
-),	O	O
-than	O	O
-the	O	O
-nike	B-Object	O
-tj	O	O
-3	O	O
-(	O	O
-10	O	O
-.	O	O
-0oz	O	O
-).	O	O
-
-foolish	O	O
-bottom	O	O
-line	O	O
-in	O	O
-the	O	O
-sports	O	O
-apparel	O	O
-arena	O	O
-,	O	O
-nike	B-Object	O
-and	O	O
-under	O	O
-armour	O	O
-are	O	O
-playing	B-Aspect	O
-smarter	B-Predicate	O
-than	O	I-Predicate
-adidas	B-Object	O
-and	O	O
-lululemon	O	B-Aspect
-.	O	O
-
-although	O	B-Aspect
-nike	B-Object	B-Aspect
-scored	B-Aspect	O
-higher	B-Predicate	B-Aspect
-than	O	I-Aspect
-rival	O	O
-adidas	B-Object	O
-overall	O	O
-,	O	O
-adidas	B-Object	O
-was	O	O
-more	B-Predicate	O
-popular	B-Aspect	O
-than	O	I-Aspect
-nike	B-Object	B-Aspect
-among	O	B-Aspect
-teenagers	O	O
-.	O	O
-
-in	O	O
-the	O	O
-soccer	O	O
-market	O	O
-,	O	O
-adidas	B-Object	O
-actually	O	O
-has	O	O
-higher	B-Predicate	O
-sales	B-Aspect	O
-than	O	O
-nike	B-Object	O
-,	O	O
-with	O	O
-$	O	O
-2	O	O
-.	O	O
-4	O	O
-billion	O	O
-vs	O	O
-.	O	O
-$	O	O
-1	O	O
-.	O	O
-9	O	O
-billion	O	O
-.	O	O
-
-and	O	O
-nike	B-Object	O
-placed	B-Aspect	O
-higher	B-Predicate	O
-than	O	O
-rival	O	O
-adidas	B-Object	O
-,	O	O
-despite	O	O
-the	O	O
-latter	O	O
-spending	O	O
-more	O	O
-than	O	O
-three	O	O
-times	O	O
-as	O	O
-much	O	O
-on	O	O
-advertising	O	B-Object
-,	O	O
-at	O	O
-$	O	O
-177m	O	O
-.	O	O
-
-song	O	O
-jordans	O	O
-was	O	O
-reintroduced	O	B-Aspect
-in	O	O
-activity	O	O
-nevertheless	O	O
-he	O	O
-was	O	O
-proximate	O	O
-innumerable	O	O
-with	O	O
-the	O	O
-adidas	B-Object	O
-yeezy	O	O
-boost	O	O
-750	O	O
-pass	O	O
-higher	B-Predicate	O
-than	O	O
-nike	B-Object	O
-adidas	I-Object	I-Aspect
-yeezy	O	O
-boost	O	B-Predicate
-750	O	O
-for	O	B-Aspect
-sale	O	O
-sensibility	O	O
-adidas	B-Object	O
-yeezy	O	O
-boost	O	O
-750	O	O
-jordan	O	O
-adidas	B-Object	O
-yeezy	O	O
-boost	O	O
-750	O	O
-versions	O	O
-but	O	O
-also	O	O
-termed	O	O
-premature	O	O
-ejaculation	O	O
-.	O	O
-
-well	O	O
-apparently	O	O
-from	O	O
-media	O	O
-reports	O	O
-its	O	B-Object
-something	O	B-Object
-to	O	O
-do	O	O
-with	O	O
-adidas	B-Object	O
-being	O	O
-more	B-Predicate	O
-willing	O	O
-at	O	O
-the	O	O
-moment	O	O
-to	O	B-Object
-pledge	B-Aspect	O
-higher	O	O
-amounts	O	O
-of	O	O
-money	O	O
-into	O	O
-their	O	B-Object
-teams	O	O
-than	O	I-Aspect
-nike	B-Object	B-Aspect
-are	O	O
-,	O	O
-so	O	O
-maybe	O	O
-it	O	O
-could	O	O
-see	O	O
-a	O	O
-few	O	O
-teams	O	O
-switch	O	B-Aspect
-from	O	O
-nike	B-Object	O
-to	O	O
-adidas	B-Object	O
-.	O	O
-
-if	O	B-Object
-adidas	B-Object	O
-is	O	O
-so	O	O
-much	O	O
-worse	B-Predicate	O
-than	O	B-Aspect
-nike	B-Object	B-Aspect
-than	O	I-Aspect
-somebody	O	I-Aspect
-better	O	B-Aspect
-tell	O	I-Aspect
-the	O	I-Aspect
-nfl	O	I-Aspect
-.	O	O
-
-a	O	B-Aspect
-big	O	O
-reason	O	O
-why	O	O
-nike	B-Object	O
-got	O	B-Object
-the	O	O
-nfl	O	O
-contract	O	O
-is	O	O
-they	O	O
-are	O	O
-much	O	O
-better	B-Predicate	O
-at	O	O
-marketing	B-Aspect	O
-sports	O	O
-gear	O	O
-than	O	O
-reebok	O	O
-/	O	O
-adidas	B-Object	O
-.	O	O
-
-notre	O	O
-dame	O	O
-has	O	O
-contracts	B-Aspect	O
-with	O	O
-adidas	B-Object	O
-and	O	O
-champion	O	O
-,	O	O
-which	O	O
-are	O	O
-no	B-Predicate	O
-better	I-Predicate	O
-than	O	O
-nike	B-Object	B-Aspect
-,	O	O
-he	O	O
-said	O	O
-.	O	O
-
-the	O	O
-two	O	O
-designs	O	O
-nike	B-Object	B-Aspect
-has	O	O
-come	O	O
-up	O	O
-with	O	O
-for	O	O
-the	O	O
-team	O	O
-so	O	O
-far	O	O
-have	O	O
-both	O	O
-been	O	B-Aspect
-winners	O	O
--	O	O
-much	O	O
-better	B-Predicate	O
-than	O	O
-the	O	O
-atrocities	O	B-Predicate
-adidas	B-Object	O
-forked	O	O
-out	O	O
-by	O	O
-the	O	O
-end	O	B-Aspect
-of	O	O
-their	O	O
-contract	O	O
-.	O	O
-
-signed	O	O
-new	O	O
-contract	O	O
-with	O	O
-adidas	B-Object	O
-...	O	O
-making	O	O
-$	O	B-Aspect
-3	O	O
-.	O	O
-5	O	B-Aspect
-million	B-Aspect	O
-more	B-Predicate	O
-annually	O	O
-than	O	B-Aspect
-nike	B-Object	I-Aspect
-contract	O	O
-.	O	O
-
-nike	B-Object	O
-now	O	O
-spends	O	O
-more	O	O
-on	O	O
-non	O	O
--	O	O
-traditional	O	O
-brand	O	O
-marketing	O	O
-than	O	O
-any	O	O
-of	O	O
-the	O	O
-other	O	O
-top	O	B-Object
-100	O	O
-us	O	O
-advertisers	O	I-Aspect
-,	O	O
-while	O	O
-its	O	O
-revenues	B-Aspect	O
-and	O	O
-income	B-Aspect	O
-continue	O	O
-to	O	O
-grow	O	O
-at	O	B-Predicate
-a	O	B-Aspect
-faster	B-Predicate	I-Aspect
-pace	O	I-Aspect
-than	O	I-Aspect
-those	O	O
-of	O	O
-its	O	O
-closest	O	O
-rivals	O	O
-,	O	O
-such	O	B-Object
-as	O	O
-adidas	B-Object	O
-.	O	O
-
-adidas	B-Object	O
-can	O	O
-do	O	O
-it	O	O
-in	O	O
-the	O	O
-design	O	O
-,	O	O
-but	O	O
-nike	B-Object	O
-has	O	O
-significantly	O	O
-better	B-Predicate	O
-marketing	B-Aspect	O
-.	O	O
-
-i	O	O
-have	O	O
-ocd	O	B-Object
-about	O	O
-matching	O	O
-stuff	O	O
-when	O	O
-i	O	O
-'	O	B-Aspect
-m	O	O
-playing	O	O
-sports	O	I-Aspect
-,	O	I-Aspect
-so	O	I-Aspect
-i	O	O
-wear	O	O
-all	O	O
-nike	B-Object	O
-stuff	O	O
-because	O	O
-nike	B-Object	O
-shoes	O	O
-fit	B-Aspect	O
-my	O	O
-feet	O	O
-better	B-Predicate	O
-than	O	O
-adidas	B-Object	O
-/	O	O
-puma	B-Object	O
-/	O	O
-etc	O	O
-(	O	O
-and	O	O
-i	O	O
-'	O	B-Aspect
-ve	O	I-Aspect
-worn	O	O
-nike	B-Object	O
-since	O	O
-long	O	O
-before	O	O
-i	O	O
-even	O	O
-played	O	O
-tennis	O	O
-).	O	O
-
-the	O	O
-nike	B-Object	O
-deal	O	O
-would	O	O
-be	O	O
-worth	O	O
-less	O	O
-but	O	O
-they	O	O
-would	O	O
-probably	O	O
-make	O	O
-more	O	O
-because	O	O
-lots	O	B-Aspect
-more	O	O
-people	O	O
-would	O	O
-buy	O	O
-it	O	I-Aspect
-and	O	O
-the	O	O
-fit	B-Aspect	O
-and	O	O
-quality	B-Aspect	O
-are	O	O
-far	O	B-Aspect
-superior	B-Predicate	O
-to	O	O
-both	O	O
-adidas	B-Object	O
-and	O	O
-ua	B-Object	O
-.	O	I-Aspect
-
-i	O	O
-'	O	B-Aspect
-ve	O	O
-always	O	O
-personally	O	O
-liked	O	O
-nike	B-Object	O
-much	O	O
-better	O	O
-than	O	O
-adidas	B-Object	O
---	O	O
-better	B-Predicate	O
-quality	B-Aspect	O
-,	O	O
-better	B-Predicate	O
-design	B-Aspect	O
-...	O	O
-practically	O	B-Aspect
-all	O	O
-of	O	O
-my	O	O
-sporting	O	O
-outfits	O	O
-are	O	O
-from	O	O
-nike	B-Object	O
-,	O	O
-and	O	O
-i	O	O
-rarely	O	O
-gave	O	O
-adidas	B-Object	O
-a	O	O
-thought	O	O
-.	O	O
-
-but	O	O
-i	O	O
-never	O	B-Predicate
-had	O	O
-a	O	O
-single	O	O
-complaint	O	O
-about	O	O
-the	O	O
-nike	B-Object	O
-product	O	O
-...	O	O
-i	O	O
-also	O	O
-find	O	O
-that	O	O
-the	O	O
-quality	O	O
-of	O	O
-nike	B-Object	O
-'	O	O
-s	O	O
-compression	O	O
-gear	O	O
-is	O	O
-far	O	O
-superior	B-Predicate	O
-to	O	O
-under	O	O
-armour	O	B-Predicate
-or	O	O
-adidas	B-Object	O
-.	O	O
-
-nike	B-Object	O
-might	O	O
-have	O	O
-a	O	B-Aspect
-better	B-Predicate	I-Aspect
-look	B-Aspect	I-Aspect
-to	O	O
-their	O	B-Object
-shoes	O	O
-,	O	O
-i	O	O
-'	O	O
-ll	O	O
-give	O	O
-them	O	O
-that	O	O
-,	O	O
-but	O	O
-adidas	B-Object	O
-is	O	O
-superior	B-Predicate	O
-in	O	O
-comfort	B-Aspect	O
-and	O	O
-especially	O	O
-in	O	O
-quality	B-Aspect	O
-of	O	O
-shoe	O	O
-.	O	O
-
-mobile	B-Object	O
-coupons	O	O
-are	O	O
-easier	B-Predicate	O
-and	O	O
-faster	B-Predicate	O
-to	O	O
-use	B-Aspect	B-Aspect
-for	O	I-Aspect
-people	O	I-Aspect
-than	O	O
-cutting	O	O
-out	O	O
-paper	O	O
-coupons	B-Object	O
-and	O	O
-storing	O	O
-them	O	O
-in	O	O
-a	O	O
-wallet	O	O
-,	O	O
-he	O	O
-said	O	O
-.	O	O
-
-but	O	O
-proponents	O	O
-of	O	O
-nfc	O	O
-on	O	O
-mobile	B-Object	O
-argue	O	O
-that	O	O
-it	O	O
-'	O	O
-s	O	O
-even	O	O
-faster	B-Predicate	O
-and	O	O
-easier	B-Predicate	O
-to	O	O
-use	B-Aspect	O
-the	O	B-Predicate
-device	O	O
-that	O	O
-'	O	O
-s	O	O
-likely	O	O
-already	O	O
-in	O	O
-your	O	O
-hand	O	O
--	O	O
-your	O	O
-smartphone	O	B-Predicate
--	O	O
-rather	O	B-Predicate
-than	O	I-Predicate
-digging	O	I-Aspect
-around	O	I-Aspect
-for	O	B-Aspect
-the	O	I-Aspect
-wallet	O	O
-that	O	O
-holds	O	O
-that	O	O
-credit	O	O
-card	B-Object	O
-.	O	O
-
-except	O	O
-for	O	O
-the	O	O
-novelty	O	B-Object
-factor	O	O
-,	O	O
-mobile	B-Object	O
-payments	O	O
-aren	B-Predicate	O
-'	I-Predicate	O
-t	I-Predicate	O
-much	I-Predicate	O
-easier	I-Predicate	O
-than	O	O
-fetching	O	O
-a	O	I-Aspect
-card	B-Object	O
-out	O	O
-of	O	O
-a	O	O
-wallet	O	O
-or	O	O
-cash	B-Object	O
-out	O	O
-of	O	O
-a	O	O
-pocket	O	O
-.	O	O
-
-in	O	O
-theory	O	O
-,	O	O
-mobile	B-Object	O
-payments	O	O
-should	O	O
-be	O	O
-faster	B-Predicate	O
-than	O	O
-rooting	O	B-Object
-through	O	O
-your	O	B-Aspect
-wallet	B-Object	I-Aspect
-or	O	I-Aspect
-purse	O	I-Aspect
-for	O	I-Aspect
-spare	O	O
-change	O	O
-.	O	O
-
-and	O	O
-because	O	O
-mobile	B-Object	O
-phones	O	O
-are	O	O
-widely	O	O
-and	O	O
-often	O	O
-used	O	O
-,	O	O
-customers	O	O
-usually	O	O
-notice	B-Aspect	O
-when	O	O
-they	O	O
-'	O	O
-re	O	O
-missing	O	O
-their	O	O
-phone	O	O
-faster	B-Predicate	O
-than	O	O
-they	O	O
-would	O	O
-a	O	B-Aspect
-wallet	B-Object	O
-or	O	O
-check	O	O
-book	O	O
-.	O	O
-
-consumers	O	O
-may	O	O
-be	O	O
-concerned	O	B-Predicate
-about	O	O
-having	O	O
-their	O	O
-cards	O	O
-in	O	O
-their	O	O
-mobile	B-Object	O
-phone	O	O
-,	O	O
-but	O	O
-actually	O	O
-the	O	O
-mobile	B-Object	O
-phone	O	O
-is	O	O
-going	O	O
-to	O	O
-be	O	O
-a	O	O
-safer	B-Predicate	B-Aspect
-place	O	O
-to	O	O
-have	B-Aspect	O
-your	I-Aspect	O
-cards	I-Aspect	O
-than	O	O
-your	O	B-Aspect
-existing	O	I-Aspect
-physical	O	I-Aspect
-wallet	B-Object	I-Aspect
-,	O	I-Aspect
-he	O	O
-added	O	O
-.	O	O
-
-because	O	O
-information	O	O
-is	O	O
-highly	O	O
-encrypted	O	O
-,	O	O
-mobile	B-Object	O
-commerce	O	O
-may	O	O
-be	O	O
-safer	B-Predicate	B-Aspect
-than	O	O
-credit	O	B-Aspect
-cards	B-Object	I-Aspect
-stored	O	I-Aspect
-in	O	O
-your	O	O
-wallet	O	O
-.	O	O
-
-and	O	O
-for	O	O
-consumers	O	O
-worried	O	O
-about	O	O
-mobile	B-Object	O
-payment	O	O
-security	O	O
-,	O	O
-isis	O	O
-touts	O	O
-their	O	B-Object
-system	O	O
-as	O	O
-safer	B-Predicate	O
-than	O	O
-your	O	B-Aspect
-existing	O	O
-wallet	B-Object	B-Aspect
-.	O	I-Aspect
-
-donahoe	O	O
-'	O	B-Aspect
-s	O	O
-argument	O	O
-was	O	O
-that	O	O
-there	O	O
-isn	O	O
-'	O	B-Aspect
-t	O	O
-a	O	O
-shred	O	O
-of	O	O
-financial	O	O
-information	O	O
-stored	O	O
-on	O	O
-the	O	O
-mobile	B-Object	O
-phone	O	O
-,	O	O
-which	O	O
-makes	O	B-Aspect
-it	O	B-Aspect
-a	O	O
-much	O	O
-safer	B-Predicate	O
-entity	O	O
-to	O	O
-lose	O	O
-than	O	B-Predicate
-the	O	O
-wallet	B-Object	O
-by	O	O
-comparison	O	O
-.	O	O
-
-,	O	O
-but	O	O
-people	O	O
-will	O	O
-typically	O	O
-realize	B-Aspect	O
-that	O	O
-they	O	O
-are	O	O
-without	O	O
-their	O	B-Object
-mobile	B-Object	O
-phone	O	O
-quicker	B-Predicate	O
-than	O	O
-noticing	O	B-Aspect
-the	O	O
-loss	O	O
-of	O	O
-a	O	O
-card	B-Object	O
-or	O	O
-their	O	O
-physical	O	O
-wallet	B-Object	O
-which	O	O
-is	O	O
-an	O	O
-additional	O	O
-security	O	O
-measure	O	O
-in	O	O
-itself	O	O
-.	O	O
-
-google	O	O
-inc	O	O
-.	O	O
-is	O	O
-betting	O	O
-its	O	O
-latest	O	O
-mobile	B-Object	O
-payments	O	O
-incarnation	O	O
--	O	O
-android	O	O
-pay	O	O
--	O	O
-will	O	O
-work	B-Aspect	O
-better	B-Predicate	O
-than	O	O
-google	O	B-Aspect
-wallet	B-Object	O
-did	O	I-Aspect
-.	O	I-Aspect
-
-we	O	O
-'	O	B-Aspect
-re	O	O
-waiting	O	O
-to	O	O
-see	O	O
-if	O	O
-apple	B-Object	O
-can	O	O
-pull	O	O
-off	O	O
-mobile	O	O
-payments	O	O
-,	O	O
-and	O	O
-if	O	O
-it	O	O
-can	O	O
-create	O	O
-a	O	O
-better	B-Predicate	O
-system	B-Aspect	B-Object
-than	O	O
-google	O	B-Aspect
-wallet	B-Object	B-Aspect
-.	O	I-Aspect
-
-the	O	O
-demographics	O	O
-of	O	O
-mobile	B-Object	O
-device	O	O
-users	O	O
-who	O	O
-prefer	O	O
-qr	O	O
-codes	O	O
-also	O	O
-show	O	O
-the	O	B-Predicate
-acceptance	O	B-Predicate
-of	O	I-Aspect
-qr	O	O
-codes	O	O
-as	O	O
-the	O	O
-go	O	O
--	O	O
-to	O	O
-mobile	B-Object	O
-payment	O	O
-system	O	O
-,	O	O
-even	O	O
-greater	B-Predicate	O
-than	O	O
-nfc	O	O
-,	O	O
-as	O	O
-with	O	O
-google	B-Object	O
-wallet	O	O
-or	O	O
-isis	B-Object	O
-.	O	O
-
-it	O	O
-turns	O	O
-out	O	O
-that	O	O
-searching	B-Aspect	O
-through	O	O
-the	O	O
-digital	O	O
-contents	O	O
-of	O	O
-a	O	O
-person	O	O
-'	O	O
-s	O	O
-mobile	B-Object	O
-phone	O	O
-is	O	O
-more	B-Predicate	O
-intrusive	I-Predicate	O
-than	O	B-Predicate
-rifling	O	O
-through	O	O
-an	O	B-Aspect
-address	B-Object	I-Aspect
-book	I-Object	B-Predicate
-,	O	O
-wallet	B-Object	O
-,	O	O
-or	O	O
-purse	B-Object	O
-.	O	O
+meanwhile	O
+,	O
+though	O
+windows	O
+8	O
+is	O
+significantly	O
+at	O
+greater	B-Predicate
+risk	B-Aspect
+(	O
+1	O
+.	O
+73	O
+percent	O
+)	O
+compared	O
+to	O
+windows	O
+8	O
+.	O
+1	O
+,	O
+according	O
+to	O
+redmond	O
+'	O
+s	O
+report	O
+,	O
+it	O
+'	O
+s	O
+still	O
+significantly	O
+safer	B-Predicate
+than	O
+windows	O
+7	O
+,	O
+windows	O
+xp	O
+,	O
+or	O
+windows	O
+vista	O
+.	O
+
+windows	O
+7	O
+is	O
+still	O
+going	O
+strong	O
+even	O
+though	O
+the	O
+day	O
+was	O
+about	O
+windows	O
+8	O
+,	O
+microsoft	B-Object
+announced	O
+it	O
+'	O
+s	O
+approaching	O
+450	O
+million	O
+copies	B-Aspect
+of	O
+windows	O
+7	O
+sold	B-Aspect
+thus	O
+far	O
+,	O
+with	O
+windows	O
+7	O
+consumer	O
+usage	O
+coming	O
+in	O
+greater	O
+than	O
+windows	O
+xp	O
+.	O
+
+i	O
+have	O
+tried	O
+windows	O
+8	O
+and	O
+it	O
+'	O
+s	O
+lighter	B-Predicate
+than	O
+windows	O
+xp	O
+.	O
+
+moreover	O
+,	O
+windows	O
+8	O
+is	O
+even	O
+lighter	B-Predicate
+on	O
+your	O
+resources	O
+than	O
+windows	B-Object
+7	O
+(	O
+but	O
+heavier	O
+than	O
+windows	O
+xp	O
+,	O
+of	O
+course	O
+).	O
+
+that	O
+means	O
+that	O
+for	O
+most	O
+consumers	O
+,	O
+choosing	O
+a	O
+windows	O
+8	O
+product	O
+edition	O
+is	O
+simpler	B-Predicate
+than	O
+it	O
+'	O
+s	O
+been	O
+since	O
+october	O
+2001	O
+,	O
+when	O
+microsoft	B-Object
+released	O
+windows	O
+xp	O
+in	O
+two	O
+flavors	O
+,	O
+windows	O
+xp	O
+home	O
+edition	O
+and	O
+windows	O
+xp	O
+professional	O
+edition	O
+.	O
+
+whatever	O
+the	O
+case	O
+,	O
+enterprises	O
+in	O
+general	O
+will	O
+find	O
+that	O
+upgrading	O
+from	O
+windows	O
+7	O
+to	O
+windows	O
+8	O
+will	O
+be	O
+significantly	O
+simpler	B-Predicate
+and	O
+less	B-Predicate
+expensive	I-Predicate
+than	O
+upgrading	O
+from	O
+windows	O
+xp	O
+to	O
+windows	O
+7	O
+,	O
+he	O
+said	O
+.	O
+
+windows	O
+8	O
+is	O
+21	O
+times	O
+and	O
+6	O
+times	O
+safer	B-Predicate
+than	O
+windows	B-Object
+xp	O
+and	O
+windows	B-Object
+7	O
+respectively	O
+.	O
+
+as	O
+per	O
+microsoft	B-Object
+claims	O
+,	O
+windows	O
+8	O
+is	O
+6	O
+times	O
+safer	B-Predicate
+than	O
+windows	B-Object
+and	O
+21	O
+times	O
+safer	B-Predicate
+than	O
+windows	B-Object
+xp	O
+from	O
+a	O
+virus	O
+infection	O
+perspective	O
+.	O
+
+the	O
+most	O
+secure	O
+os	O
+ever	O
+made	O
+:	O
+according	O
+to	O
+microsoft	B-Object
+,	O
+windows	O
+8	O
+is	O
+21	O
+times	O
+safer	B-Predicate
+than	O
+windows	B-Object
+xp	O
+,	O
+and	O
+6	O
+times	O
+safer	B-Predicate
+than	O
+windows	B-Object
+7	O
+,	O
+from	O
+a	O
+malware	O
+infection	O
+perspective	O
+.	O
+
+however	O
+,	O
+we	O
+'	O
+re	O
+sure	O
+at	O
+least	O
+on	O
+one	O
+point	O
+now	O
+that	O
+the	O
+new	O
+windows	O
+8	O
+password	O
+features	O
+won	O
+'	O
+t	O
+make	O
+windows	O
+8	O
+password	O
+safer	B-Predicate
+than	O
+the	O
+traditional	O
+text	O
+password	O
+in	O
+windows	O
+xp	O
+.	O
+
+but	O
+that	O
+aside	O
+,	O
+windows	O
+10	O
+is	O
+still	O
+easier	B-Predicate
+to	O
+navigate	B-Aspect
+than	O
+mac	B-Object
+os	B-Aspect
+x	B-Object
+and	O
+windows	B-Object
+8	O
+,	O
+has	O
+better	B-Predicate
+access	O
+to	O
+files	O
+than	O
+in	O
+android	O
+,	O
+and	O
+is	O
+faster	B-Predicate
+,	O
+more	B-Predicate
+flexible	O
+and	O
+more	B-Predicate
+capable	I-Predicate
+than	O
+windows	O
+xp	O
+and	O
+the	O
+home	O
+and	O
+enterprise	O
+editions	O
+of	O
+windows	O
+7	O
+.	O
+
+actually	O
+,	O
+from	O
+things	O
+i	O
+'	O
+ve	O
+seen	O
+,	O
+windows	O
+8	O
+requires	O
+less	B-Predicate
+of	O
+the	O
+hardware	B-Aspect
+than	O
+windows	O
+7	O
+(	O
+runs	O
+faster	B-Predicate
+/	O
+leaner	O
+than	O
+windows	B-Object
+7	O
+on	O
+the	O
+same	O
+hardware	O
+)	O
+and	O
+windows	O
+7	O
+runs	O
+as	O
+good	O
+as	O
+(	O
+or	O
+better	B-Predicate
+than	O
+)	O
+windows	O
+xp	O
+.	O
+
+firstly	O
+,	O
+windows	O
+8	O
+runs	O
+faster	B-Predicate
+than	O
+windows	O
+xp	O
+absolutely	O
+.	O
+
+windows	O
+8	O
+is	O
+faster	B-Predicate
+than	O
+windows	O
+xp	O
+or	O
+windows	O
+7	O
+.	O
+
+this	O
+makes	O
+windows	O
+8	O
+sales	O
+34	O
+%	O
+better	B-Predicate
+than	O
+windows	O
+vista	O
+,	O
+and	O
+about	O
+15	O
+%	O
+higher	B-Predicate
+than	O
+windows	O
+xp	O
+.	O
+
+"	O
+but	O
+windows	O
+xp	O
+systems	O
+had	O
+an	O
+infection	O
+rate	O
+that	O
+was	O
+six	O
+times	O
+higher	B-Predicate
+than	O
+windows	B-Object
+8	O
+."	O
+
+the	O
+malware	O
+infection	O
+rate	O
+for	O
+windows	O
+xp	O
+is	O
+already	O
+almost	O
+six	O
+times	O
+higher	B-Predicate
+than	O
+windows	B-Object
+8	O
+systems	O
+.	O
+
+windows	O
+8	O
+devices	O
+also	O
+come	O
+in	O
+more	B-Predicate
+form	O
+factors	O
+,	O
+so	O
+you	O
+could	O
+find	O
+that	O
+a	O
+windows	O
+8	O
+tablet	O
+with	O
+touch	O
+is	O
+far	O
+easier	B-Predicate
+to	O
+use	O
+than	O
+your	O
+old	O
+windows	O
+xp	O
+machine	O
+.	O
+
+the	O
+touch	O
+-	O
+friendly	O
+windows	O
+8	O
+software	O
+is	O
+much	O
+better	B-Predicate
+at	O
+juggling	O
+work	B-Aspect
+and	O
+play	B-Aspect
+than	O
+windows	O
+xp	O
+tablet	O
+pc	O
+edition	O
+.	O
+
+i	O
+'	O
+d	O
+suggest	O
+windows	O
+8	O
+as	O
+it	O
+'	O
+s	O
+build	O
+with	O
+touch	O
+in	O
+mind	O
+,	O
+and	O
+it	O
+'	O
+s	O
+much	O
+better	B-Predicate
+than	O
+windows	O
+7	O
+and	O
+windows	O
+xp	O
+when	O
+using	O
+a	O
+touch	O
+interface	B-Aspect
+.	O
+
+actually	O
+for	O
+many	O
+windows	O
+xp	O
+users	O
+it	O
+is	O
+easier	B-Predicate
+to	O
+migrate	B-Aspect
+to	O
+linux	O
+mint	O
+than	O
+to	O
+windows	O
+8	O
+.	O
+
+if	O
+you	O
+'	O
+re	O
+accustomed	O
+to	O
+the	O
+windows	O
+xp	O
+layout	O
+and	O
+style	O
+,	O
+upgrading	O
+to	O
+windows	O
+7	O
+might	O
+be	O
+a	O
+better	B-Predicate
+choice	O
+than	O
+windows	O
+8	O
+,	O
+martini	O
+said	O
+.	O
+
+perhaps	O
+it	O
+is	O
+little	O
+wonder	O
+that	O
+windows	O
+xp	O
+usage	O
+continues	O
+to	O
+grow	O
+faster	B-Predicate
+than	O
+that	O
+of	O
+windows	O
+8	O
+.	O
+x	O
+.	O
+
+it	O
+is	O
+also	O
+similar	O
+in	O
+usability	O
+to	O
+windows	O
+xp	O
+,	O
+ensuring	O
+that	O
+the	O
+learning	O
+curve	O
+for	O
+new	O
+users	O
+is	O
+relatively	O
+smoother	B-Predicate
+than	O
+migrating	O
+to	O
+windows	O
+8	O
+.	O
+
+in	O
+my	O
+opinion	O
+,	O
+transitioning	O
+from	O
+windows	O
+xp	O
+or	O
+windows	O
+7	O
+to	O
+linux	O
+mint	O
+or	O
+ubuntu	O
+will	O
+be	O
+much	O
+easier	B-Predicate
+than	O
+transitioning	O
+to	O
+windows	O
+8	O
+or	O
+8	O
+.	O
+1	O
+.	O
+
+[	O
+the	O
+]	O
+start	O
+button	O
+has	O
+gone	B-Object
+,	O
+all	O
+the	O
+basic	O
+functions	O
+have	O
+changed	O
+,	O
+he	O
+said	O
+,	O
+noting	O
+that	O
+migrating	O
+from	O
+windows	O
+xp	O
+to	O
+windows	O
+7	O
+would	O
+be	O
+easier	B-Predicate
+than	O
+to	O
+windows	O
+8	O
+.	O
+
+the	O
+return	B-Aspect
+of	O
+the	O
+start	O
+menu	O
+will	O
+be	O
+a	O
+welcome	O
+change	O
+for	O
+users	O
+who	O
+were	O
+used	O
+to	O
+windows	O
+xp	O
+/	O
+vista	O
+/	O
+7	O
+,	O
+and	O
+may	O
+make	O
+windows	O
+10	O
+a	O
+bit	O
+easier	B-Predicate
+to	O
+transition	B-Aspect
+to	O
+than	O
+windows	O
+8	O
+was	O
+.	O
+
+windows	O
+xp	O
+share	O
+drops	O
+while	O
+windows	O
+8	O
+and	O
+windows	O
+8	O
+.	O
+1	O
+see	O
+a	O
+combined	O
+share	O
+of	O
+11	O
+.	O
+3	O
+%	O
+
+windows	O
+8	O
+.	O
+x	O
+gains	O
+usage	O
+share	O
+at	O
+the	O
+expense	O
+of	O
+windows	O
+xp	O
+.	O
+
+by	O
+the	O
+way	O
+,	O
+windows	O
+xp	O
+has	O
+80	O
+%	O
+more	B-Predicate
+market	I-Predicate
+share	I-Aspect
+than	O
+windows	O
+8	O
+.	O
+
+certainly	O
+,	O
+missouri	O
+makes	O
+much	O
+more	B-Predicate
+sense	B-Aspect
+than	O
+south	B-Aspect
+carolina	O
+as	O
+the	O
+razorbacks	O
+'	O
+permanent	O
+cross	B-Aspect
+-	O
+division	B-Object
+rival	O
+.	O
+
+colorado	O
+(	O
+denver	O
+)	O
+and	O
+missouri	O
+show	O
+equal	B-Aspect
+or	O
+better	B-Predicate
+than	O
+average	O
+performance	O
+on	O
+naep	O
+and	O
+positive	O
+charter	O
+school	O
+effects	O
+.	O
+16	O
+arkansas	O
+,	O
+california	B-Object
+,	O
+georgia	O
+,	O
+illinois	O
+(	O
+chicago	O
+),	O
+louisiana	O
+and	O
+north	O
+carolina	O
+all	O
+score	O
+lower	B-Predicate
+than	O
+the	O
+naep	O
+average	O
+but	O
+still	O
+have	O
+positive	O
+charter	O
+growth	O
+.	O
+
+for	O
+example	O
+,	O
+colorado	O
+,	O
+missouri	B-Object
+,	O
+ohio	O
+and	O
+florida	O
+all	O
+show	O
+obama	O
+leads	O
+that	O
+are	O
+greater	B-Predicate
+than	O
+his	O
+lead	O
+at	O
+the	O
+national	O
+level	O
+,	O
+while	O
+north	O
+carolina	O
+and	O
+nevada	B-Aspect
+show	O
+closer	O
+races	O
+-	O
+gaps	O
+of	O
+about	O
+four	O
+percentage	O
+points	O
+.	O
+
+the	O
+addition	O
+of	O
+general	O
+clark	O
+into	O
+the	O
+presidential	O
+campaign	O
+could	O
+shake	O
+up	O
+a	O
+race	O
+that	O
+has	O
+remained	O
+fairly	O
+static	O
+for	O
+months	O
+,	O
+with	O
+dr	O
+.	O
+dean	O
+,	O
+mr	B-Aspect
+.	O
+kerry	O
+and	O
+representative	O
+richard	O
+a	O
+.	O
+gephardt	O
+of	O
+missouri	O
+showing	O
+greater	B-Predicate
+traction	O
+than	O
+the	O
+others	O
+running	O
+:	O
+senators	O
+bob	O
+graham	O
+of	O
+florida	O
+,	O
+joseph	O
+i	O
+.	O
+lieberman	O
+of	O
+connecticut	O
+,	O
+john	O
+edwards	O
+of	O
+north	O
+carolina	O
+,	O
+representative	O
+dennis	O
+j	O
+.	O
+kucinich	O
+of	O
+ohio	O
+,	O
+former	O
+senator	O
+carol	O
+moseley	B-Object
+braun	O
+of	O
+illinois	O
+and	O
+the	O
+rev	O
+.	O
+al	O
+sharpton	O
+.	O
+
+but	O
+the	O
+deciding	O
+factor	O
+could	O
+be	O
+snyder	O
+'	O
+s	O
+commitment	O
+to	O
+his	O
+players	O
+and	O
+to	O
+the	O
+fact	O
+missouri	O
+is	O
+a	O
+better	B-Predicate
+basketball	B-Aspect
+job	B-Aspect
+than	O
+south	O
+carolina	O
+.	O
+
+the	O
+vols	O
+take	O
+on	O
+missouri	O
+this	O
+week	O
+,	O
+speaking	O
+of	O
+which	O
+,	O
+there	O
+were	O
+better	B-Predicate
+tv	B-Aspect
+ratings	O
+for	O
+the	O
+missouri	O
+-	O
+south	O
+carolina	O
+game	O
+in	O
+knoxville	O
+than	O
+there	O
+were	O
+in	O
+st	O
+.	O
+louis	O
+which	O
+may	O
+speak	O
+to	O
+the	O
+culture	O
+of	O
+college	O
+football	B-Object
+in	O
+the	O
+south	O
+.	O
+
+for	O
+instance	O
+,	O
+california	B-Object
+blacks	O
+have	O
+lighter	B-Predicate
+skin	O
+than	O
+georgia	O
+blacks	O
+and	O
+test	O
+out	O
+higher	B-Predicate
+in	O
+i	O
+.	O
+q	O
+.	O
+again	O
+,	O
+the	O
+student	O
+must	O
+handle	O
+such	O
+small	O
+annoyances	O
+in	O
+a	O
+way	O
+that	O
+will	O
+least	O
+impact	O
+the	O
+validity	O
+of	O
+his	O
+research	O
+and	O
+his	O
+conclusions	O
+.	O
+
+georgia	O
+tech	O
+'	O
+s	O
+participation	O
+was	O
+more	B-Predicate
+than	O
+250	B-Object
+%	O
+greater	B-Predicate
+than	O
+the	O
+next	O
+most	O
+active	O
+school	O
+-	O
+university	O
+of	O
+california	B-Object
+,	O
+davis	O
+.	O
+
+1	O
+.	O
+5	O
+-	O
+2	O
+.	O
+0	O
+%:	B-Aspect
+alabama	O
+,	O
+georgia	O
+,	O
+idaho	O
+,	O
+illinois	O
+,	O
+michigan	B-Object
+,	O
+north	O
+carolina	O
+,	O
+greater	B-Predicate
+than	O
+2	O
+.	O
+0	O
+%:	O
+california	B-Object
+,	O
+florida	O
+,	O
+nevada	B-Aspect
+,	O
+rhode	O
+island	O
+.	O
+
+the	O
+burden	O
+of	O
+litigating	O
+in	O
+iowa	B-Aspect
+on	O
+prideco	O
+,	O
+a	O
+california	O
+partnership	O
+,	O
+is	O
+no	B-Predicate
+greater	I-Predicate
+than	O
+would	O
+be	O
+the	O
+burden	O
+of	O
+litigating	O
+in	O
+georgia	O
+.	O
+
+3	O
+in	O
+the	O
+southeastern	O
+united	O
+states	O
+(	O
+north	O
+carolina	O
+,	O
+georgia	O
+,	O
+and	O
+florida	O
+),	O
+incidence	O
+of	O
+salmonella	O
+in	O
+surface	O
+water	O
+samples	O
+is	O
+nearly	O
+an	O
+order	O
+of	O
+magnitude	O
+greater	B-Predicate
+than	O
+in	O
+california	B-Object
+.	O
+
+the	O
+roads	O
+in	O
+georgia	O
+must	O
+be	O
+smoother	B-Predicate
+than	O
+those	O
+in	O
+california	B-Object
+.	O
+
+screen	O
+gems	O
+considered	O
+filming	O
+in	O
+georgia	O
+,	O
+where	O
+harvey	O
+is	O
+based	O
+and	O
+which	O
+offers	O
+a	O
+richer	O
+film	O
+tax	O
+credit	O
+than	O
+california	B-Object
+.	O
+
+california	B-Object
+peaches	O
+are	O
+better	B-Predicate
+than	O
+no	O
+peaches	O
+but	O
+georgia	O
+or	O
+south	O
+carolina	O
+peaches	O
+rule	O
+.	O
+
+woods	O
+always	O
+got	O
+a	O
+hood	O
+pass	O
+from	O
+my	O
+friends	O
+because	O
+he	O
+grew	O
+up	O
+in	O
+california	B-Object
+around	O
+nicer	B-Predicate
+white	O
+people	O
+than	O
+we	O
+could	O
+imagine	O
+in	O
+south	O
+georgia	O
+.	O
+
+southern	O
+california	B-Object
+finished	O
+at	O
+19	B-Aspect
+-	O
+under	O
+1	O
+,	O
+133	O
+--	O
+15	O
+strokes	O
+better	B-Predicate
+than	O
+the	O
+previous	O
+tournament	O
+mark	O
+set	O
+by	O
+ucla	O
+in	O
+2004	O
+--	O
+to	O
+beat	O
+second	O
+-	O
+place	O
+duke	O
+by	O
+21	O
+strokes	O
+at	O
+the	O
+university	O
+of	O
+georgia	O
+golf	B-Object
+course	O
+.	O
+
+it	O
+so	O
+happens	O
+that	O
+georgia	O
+has	O
+higher	B-Predicate
+single	B-Aspect
+parenthood	O
+levels	O
+than	O
+california	B-Object
+.	O
+
+georgia	O
+has	O
+a	O
+higher	B-Predicate
+percentage	O
+of	O
+blacks	B-Aspect
+(	O
+30	O
+.	O
+5	O
+)	O
+than	O
+new	O
+york	O
+(	O
+15	O
+.	O
+9	O
+)	O
+or	O
+california	B-Object
+(	O
+6	O
+.	O
+2	O
+).	O
+
+in	O
+georgia	O
+,	O
+there	O
+was	O
+no	O
+difference	O
+based	O
+on	O
+disability	O
+status	O
+,	O
+but	O
+overall	O
+,	O
+georgia	O
+had	O
+a	O
+higher	B-Predicate
+proportion	B-Aspect
+of	O
+disabled	B-Aspect
+enrollees	B-Aspect
+than	O
+california	B-Object
+.	O
+
+income	O
+level	O
+may	O
+be	O
+higher	B-Predicate
+in	O
+southern	O
+california	B-Object
+than	O
+in	O
+georgia	O
+,	O
+but	O
+that	O
+is	O
+because	O
+the	O
+cost	B-Aspect
+of	O
+living	O
+is	O
+higher	B-Predicate
+.	O
+
+lopez	O
+said	O
+that	O
+southern	O
+states	O
+such	O
+as	O
+georgia	O
+and	O
+north	O
+carolina	O
+have	O
+seen	O
+an	O
+increase	O
+in	O
+undocumented	O
+immigrants	O
+because	O
+their	O
+economies	O
+have	O
+fared	O
+better	B-Predicate
+than	O
+california	B-Object
+since	O
+the	O
+1990s	O
+.	O
+
+i	O
+'	O
+m	O
+sure	O
+that	O
+conservatives	O
+will	O
+argue	O
+that	O
+the	O
+economies	O
+in	O
+indiana	O
+,	O
+missouri	O
+,	O
+oklahoma	O
+and	O
+georgia	O
+will	O
+be	O
+ten	O
+or	O
+fifteen	O
+times	O
+better	B-Predicate
+than	O
+those	O
+of	O
+new	O
+york	O
+,	O
+california	B-Object
+or	O
+illinois	O
+-	O
+and	O
+republicans	O
+will	O
+ride	O
+that	O
+fact	O
+to	O
+victory	O
+right	O
+here	O
+in	O
+illinois	O
+in	O
+2014	O
+!	O
+
+a	O
+100	O
+%	O
+privately	O
+funded	O
+project	O
+in	O
+say	O
+georgia	O
+would	O
+have	O
+a	O
+much	O
+easier	B-Predicate
+time	O
+in	O
+review	O
+and	O
+planning	O
+and	O
+cost	B-Aspect
+than	O
+a	O
+california	O
+publicly	O
+funded	O
+one	O
+.	O
+
+it	O
+is	O
+much	O
+easier	B-Predicate
+to	O
+get	B-Aspect
+a	O
+permit	I-Aspect
+in	O
+georgia	O
+,	O
+but	O
+you	O
+have	O
+even	O
+fewer	B-Predicate
+freedoms	O
+than	O
+in	O
+california	B-Object
+without	O
+one	O
+.	O
+
+and	O
+what	O
+'	O
+s	O
+happening	O
+is	O
+the	O
+growth	O
+is	O
+spilling	O
+over	O
+into	O
+the	O
+neighboring	O
+states	O
+,	O
+so	O
+that	O
+places	O
+like	O
+nevada	B-Object
+and	O
+places	O
+in	O
+georgia	O
+are	O
+growing	B-Aspect
+at	O
+an	O
+even	O
+faster	B-Predicate
+rate	O
+than	O
+places	O
+in	O
+florida	O
+and	O
+california	B-Object
+.	O
+
+also	O
+of	O
+note	O
+,	O
+obama	O
+does	O
+better	B-Predicate
+among	O
+white	O
+voters	O
+in	O
+arizona	O
+,	O
+new	O
+jersey	O
+and	O
+california	B-Object
+than	O
+he	O
+does	O
+in	O
+georgia	O
+and	O
+missouri	O
+.	O
+
+administrative	O
+data	O
+from	O
+california	B-Object
+suggest	O
+a	O
+slightly	O
+higher	B-Predicate
+prevalence	B-Aspect
+in	O
+black	O
+than	O
+in	O
+white	O
+children	O
+(	O
+40	O
+),	O
+but	O
+a	O
+previous	O
+report	O
+from	O
+georgia	O
+indicated	O
+a	O
+similar	O
+prevalence	O
+for	O
+black	O
+and	O
+white	O
+children	O
+(	O
+1	O
+).	O
+
+i	O
+suspect	O
+it	O
+'	O
+s	O
+the	O
+reason	O
+why	O
+southern	O
+california	B-Object
+roads	O
+are	O
+so	O
+much	O
+better	B-Predicate
+than	O
+michigan	B-Object
+'	O
+s	O
+.	O
+
+if	O
+roads	O
+in	O
+michigan	B-Object
+are	O
+noticeably	O
+worse	B-Predicate
+than	O
+california	B-Object
+,	O
+then	O
+off	O
+-	O
+road	O
+capable	O
+suvs	O
+must	O
+be	O
+mandatory	O
+in	O
+michigan	B-Object
+.	O
+
+(	O
+in	O
+michigan	B-Object
+,	O
+which	O
+has	O
+been	O
+hit	O
+even	O
+harder	B-Predicate
+than	O
+california	B-Object
+,	O
+out	O
+-	O
+of	O
+-	O
+state	O
+enrollment	O
+in	O
+the	O
+university	O
+of	O
+michigan	B-Object
+system	O
+is	O
+closer	B-Aspect
+to	O
+40	O
+percent	O
+.)	O
+
+it	O
+is	O
+in	O
+california	B-Object
+which	O
+has	O
+clearly	O
+better	B-Predicate
+weather	O
+than	O
+michigan	B-Object
+.	O
+
+(	O
+news	O
+flash	B-Aspect
+:	O
+the	O
+weather	O
+in	O
+michigan	B-Object
+in	O
+february	O
+is	O
+very	O
+different	O
+than	O
+the	O
+weather	O
+in	O
+california	B-Object
+in	O
+february	O
+.)	O
+
+she	O
+enjoys	B-Object
+pointing	O
+out	O
+how	O
+much	O
+nicer	B-Predicate
+the	O
+weather	B-Aspect
+is	O
+in	O
+california	B-Object
+compared	O
+to	O
+michigan	B-Object
+.	O
+
+maybe	O
+in	O
+florida	O
+or	O
+california	O
+that	O
+is	O
+normal	O
+,	O
+but	O
+in	O
+michigan	B-Object
+this	O
+weather	O
+is	O
+far	O
+from	O
+normal	O
+.	O
+
+oregon	O
+'	O
+s	O
+two	O
+losses	O
+(	O
+lsu	O
+and	O
+southern	O
+california	B-Object
+)	O
+are	O
+better	B-Predicate
+losses	O
+than	O
+wisconsin	O
+'	O
+s	O
+two	O
+losses	O
+(	O
+michigan	B-Object
+state	O
+and	O
+ohio	O
+state	O
+).	O
+
+but	O
+once	O
+you	O
+learn	O
+a	O
+few	O
+tricks	O
+and	O
+live	O
+here	O
+in	O
+southern	O
+california	B-Object
+by	O
+the	O
+coast	O
+,	O
+the	O
+chance	O
+of	O
+survival	O
+is	O
+better	B-Predicate
+than	O
+say	O
+michigan	B-Object
+.	O
+
+frankie	O
+ballard	O
+may	O
+be	O
+a	O
+michigan	B-Object
+boy	B-Predicate
+,	O
+but	O
+there	O
+was	O
+no	B-Predicate
+better	I-Predicate
+place	O
+than	O
+southern	O
+california	B-Object
+to	O
+film	O
+the	O
+video	O
+for	O
+his	O
+summer	O
+anthem	O
+,	O
+'	O
+a	O
+buncha	O
+girls	O
+.'	O
+
+maybe	O
+not	B-Predicate
+as	O
+popular	O
+as	O
+california	B-Object
+or	O
+florida	O
+,	O
+but	O
+sure	O
+as	O
+hell	O
+better	B-Predicate
+than	O
+the	O
+likes	O
+of	O
+michigan	B-Object
+,	O
+those	O
+inbred	O
+southern	O
+states	O
+,	O
+including	O
+kentucky	O
+and	O
+those	O
+prarie	O
+states	O
+.	O
+
+florida	O
+and	O
+california	B-Object
+are	O
+much	O
+nicer	B-Predicate
+places	B-Aspect
+to	O
+spend	O
+the	O
+month	O
+of	O
+january	O
+than	O
+new	O
+hampshire	O
+,	O
+michigan	B-Object
+,	O
+and	O
+the	O
+other	O
+early	O
+primary	O
+states	O
+,	O
+especially	O
+for	O
+a	O
+candidate	O
+whose	O
+greatest	O
+strength	O
+is	O
+drawn	O
+from	O
+the	O
+political	O
+center	O
+.	O
+
+traditional	O
+growth	O
+states	O
+such	O
+as	O
+florida	O
+,	O
+texas	O
+,	O
+california	B-Object
+,	O
+arizona	O
+and	O
+nevada	B-Aspect
+will	O
+continue	O
+to	O
+attract	O
+new	O
+residents	O
+because	O
+they	O
+remain	O
+better	B-Predicate
+places	O
+to	O
+live	O
+than	O
+idaho	O
+,	O
+nebraska	O
+,	O
+michigan	B-Object
+and	O
+iowa	B-Object
+.	O
+
+not	O
+surprisingly	O
+,	O
+places	O
+like	O
+california	B-Object
+have	O
+become	O
+more	B-Predicate
+attractive	O
+to	O
+talented	O
+workers	O
+than	O
+,	O
+say	O
+,	O
+michigan	B-Object
+.	O
+
+the	O
+recognition	O
+of	O
+woman	O
+'	O
+s	O
+rights	O
+by	O
+michigan	B-Object
+is	O
+in	O
+itself	O
+the	O
+greatest	O
+single	O
+victory	O
+suffrage	O
+has	O
+won	O
+,	O
+on	O
+account	O
+not	O
+only	O
+of	O
+the	O
+population	O
+of	O
+that	O
+state	O
+,	O
+which	O
+is	O
+somewhat	O
+greater	B-Predicate
+than	O
+that	O
+of	O
+california	B-Object
+,	O
+but	O
+chiefly	O
+because	O
+of	O
+the	O
+position	O
+of	O
+michigan	B-Object
+geographically	O
+.	O
+
+north	O
+carolina	O
+is	O
+not	O
+safer	B-Predicate
+than	O
+california	B-Object
+.	O
+
+or	O
+maybe	O
+the	O
+criminals	B-Aspect
+in	O
+the	O
+southern	O
+district	O
+of	O
+california	B-Object
+are	O
+just	O
+nicer	B-Predicate
+human	O
+beings	O
+,	O
+and	O
+are	O
+therefore	O
+25	O
+times	O
+likelier	O
+to	O
+have	O
+mitigating	B-Aspect
+qualities	O
+than	O
+the	O
+criminals	O
+in	O
+south	O
+carolina	O
+.	O
+
+summer	O
+temperatures	O
+along	O
+the	O
+california	B-Object
+coast	O
+are	O
+cooler	B-Predicate
+than	O
+along	O
+the	O
+coast	O
+of	O
+south	O
+carolina	O
+,	O
+due	O
+to	O
+the	O
+influence	O
+of	O
+:	O
+ocean	O
+currents	O
+.	O
+
+gingrich	O
+,	O
+who	O
+has	O
+fallen	O
+back	O
+nationally	O
+since	O
+his	O
+win	O
+in	O
+south	O
+carolina	O
+last	O
+month	O
+,	O
+looks	O
+worse	B-Predicate
+to	O
+california	B-Object
+republicans	O
+than	O
+he	O
+once	O
+did	O
+,	O
+according	O
+to	O
+the	O
+poll	O
+.	O
+
+in	O
+north	O
+carolina	O
+,	O
+foreclosures	O
+move	O
+faster	B-Predicate
+than	O
+in	O
+california	B-Object
+.	O
+
+minnesota	O
+chose	O
+troy	O
+williamson	O
+of	O
+south	O
+carolina	O
+,	O
+a	O
+faster	B-Predicate
+wide	O
+receiver	O
+than	O
+the	O
+highly	O
+rated	O
+but	O
+taller	O
+mike	O
+williams	O
+of	O
+southern	O
+california	B-Object
+.	O
+
+colorado	O
+,	O
+north	O
+carolina	O
+,	O
+and	O
+texas	O
+,	O
+the	O
+three	O
+states	O
+which	O
+grew	B-Aspect
+faster	B-Predicate
+than	O
+california	B-Object
+,	O
+all	O
+also	O
+had	O
+much	O
+faster	B-Predicate
+increases	O
+in	O
+the	O
+growth	O
+rate	O
+in	O
+state	O
+and	O
+local	O
+government	O
+spending	O
+.	O
+
+caroline	O
+moakley	O
+(	O
+cary	O
+,	O
+n	B-Object
+.	O
+c	B-Object
+./	O
+north	O
+carolina	O
+state	O
+university	O
+at	O
+raleigh	O
+)	O
+was	O
+only	O
+1	O
+.	O
+36	O
+seconds	O
+faster	B-Predicate
+than	O
+danielle	O
+haulman	O
+(	O
+davis	O
+,	O
+calif	O
+./	O
+university	O
+of	O
+california	B-Object
+-	O
+davis	O
+)	O
+to	O
+earn	O
+third	O
+place	O
+.	O
+
+you	O
+might	O
+think	O
+that	O
+i	O
+am	O
+going	O
+to	O
+say	O
+that	O
+california	B-Object
+is	O
+faster	B-Predicate
+paced	B-Aspect
+than	O
+south	O
+carolina	O
+.	O
+
+with	O
+respect	O
+to	O
+chronic	O
+illness	O
+north	O
+carolina	O
+has	O
+a	O
+rate	O
+of	O
+74	O
+cases	O
+per	O
+1	O
+,	O
+000	O
+,	O
+a	O
+little	O
+higher	B-Predicate
+than	O
+massachusetts	O
+at	O
+68	O
+,	O
+better	B-Predicate
+than	O
+ny	O
+at	O
+77	O
+and	O
+considerably	O
+better	B-Predicate
+than	O
+california	B-Object
+at	O
+90	O
+.	O
+
+latino	O
+child	O
+poverty	O
+is	O
+much	O
+higher	B-Predicate
+in	O
+north	O
+carolina	O
+compared	O
+to	O
+california	B-Object
+even	O
+though	O
+north	O
+carolina	O
+has	O
+a	O
+lower	B-Object
+latino	O
+unemployment	O
+rate	O
+.	O
+
+south	O
+carolina	O
+,	O
+tennessee	O
+,	O
+or	O
+georgia	O
+plates	O
+,	O
+for	O
+example	O
+,	O
+get	O
+higher	B-Predicate
+points	O
+than	O
+maryland	O
+,	O
+massachusetts	O
+,	O
+or	O
+california	B-Object
+.	O
+
+the	O
+intercept	O
+is	O
+higher	B-Predicate
+in	O
+south	B-Aspect
+carolina	O
+($	O
+8	O
+,	O
+114	B-Object
+)	O
+than	O
+in	O
+both	O
+illinois	O
+($	O
+7	O
+,	O
+166	O
+)	O
+and	O
+california	B-Object
+($	O
+7	O
+,	O
+123	B-Aspect
+).	I-Aspect
+
+a	O
+number	O
+of	O
+states	O
+,	O
+including	O
+michigan	O
+,	O
+north	O
+carolina	O
+,	O
+ohio	O
+,	O
+new	O
+york	O
+,	O
+south	B-Object
+carolina	O
+,	O
+and	O
+massachusetts	O
+all	O
+lost	O
+a	O
+higher	B-Predicate
+percentage	O
+of	O
+manufacturing	O
+jobs	O
+than	O
+california	B-Object
+.	O
+
+places	O
+with	O
+low	O
+fuel	O
+prices	B-Object
+like	O
+venezuela	O
+,	O
+alabama	O
+and	O
+south	O
+carolina	O
+have	O
+great	O
+economies	O
+because	O
+there	O
+is	O
+so	O
+much	O
+more	O
+disposable	I-Predicate
+income	B-Aspect
+to	O
+spend	O
+on	O
+other	O
+stuff	O
+,	O
+while	O
+places	O
+like	O
+brazil	O
+and	O
+california	B-Object
+are	O
+in	O
+horrible	O
+shape	B-Predicate
+because	O
+they	O
+have	O
+high	O
+fuel	O
+prices	B-Object
+.	O
+
+i	O
+knew	O
+she	O
+would	O
+not	O
+win	O
+my	O
+home	O
+state	O
+of	O
+north	O
+carolina	O
+because	O
+the	O
+people	O
+there	O
+are	O
+smarter	B-Predicate
+than	O
+those	O
+in	O
+indiana	O
+and	O
+pennsylvania	O
+combine	O
+.	O
+
+in	O
+north	O
+carolina	O
+,	O
+charlotte	O
+-	O
+led	O
+mecklenburg	O
+county	O
+will	O
+gain	O
+a	O
+greater	B-Predicate
+number	O
+of	O
+residents	O
+than	O
+philadelphia	B-Object
+county	O
+in	O
+pennsylvania	O
+.	O
+
+florida	O
+could	O
+potentially	O
+be	O
+worth	B-Aspect
+29	O
+ecv	O
+-	O
+more	B-Predicate
+than	O
+virgina	O
+and	O
+north	O
+carolina	O
+combined	O
+and	O
+greater	B-Predicate
+than	O
+the	O
+prize	O
+of	O
+ohio	O
+or	O
+pennsylvania	O
+.	O
+
+in	O
+fact	O
+,	O
+my	O
+(	O
+relatively	O
+)	O
+short	O
+time	O
+living	O
+in	O
+pennsylvania	O
+,	O
+massachusetts	O
+and	O
+connecticut	O
+yielded	O
+far	O
+more	B-Predicate
+run	I-Predicate
+-	O
+ins	O
+with	O
+explicit	O
+racism	B-Object
+than	O
+my	O
+considerably	O
+greater	B-Predicate
+time	O
+living	O
+in	O
+tennessee	O
+and	O
+north	O
+carolina	O
+.	O
+
+it	O
+therefore	O
+stands	O
+to	O
+reason	O
+that	O
+a	O
+template	O
+for	O
+north	O
+carolina	O
+might	O
+be	O
+a	O
+bit	O
+simpler	B-Predicate
+than	O
+one	O
+for	O
+ohio	O
+or	O
+pennsylvania	B-Object
+,	O
+albeit	O
+not	O
+exactly	O
+the	O
+same	O
+,	O
+as	O
+some	O
+sections	O
+would	O
+not	O
+be	O
+applicable	O
+in	O
+other	O
+states	O
+.	O
+
+indiana	O
+and	O
+north	O
+carolina	O
+combined	O
+have	O
+more	O
+delegates	O
+than	O
+pennsylvania	O
+.	O
+
+with	O
+our	O
+north	O
+carolina	O
+,	O
+south	B-Aspect
+carolina	O
+,	O
+and	O
+georgia	O
+sale	O
+,	O
+we	O
+'	O
+ve	O
+been	O
+able	O
+to	O
+get	O
+to	O
+a	O
+certain	O
+sales	O
+volume	O
+much	O
+faster	B-Predicate
+there	O
+than	O
+in	O
+pennsylvania	O
+,	O
+new	O
+jersey	O
+,	O
+connecticut	O
+,	O
+and	O
+massachusetts	O
+.	O
+
+i	O
+have	O
+several	O
+laptops	O
+and	O
+desktops	O
+for	O
+anything	O
+other	O
+than	O
+making	O
+calls	O
+,	O
+and	O
+even	O
+my	O
+12	O
+laptop	O
+is	O
+much	O
+better	B-Predicate
+for	O
+doing	O
+anything	O
+other	O
+than	O
+phone	O
+calls	O
+,	O
+because	O
+i	O
+can	O
+see	O
+what	O
+i	O
+am	O
+doing	O
+better	B-Predicate
+.	O
+
+my	O
+laptop	O
+is	O
+easier	B-Predicate
+to	O
+use	O
+than	O
+my	O
+phone	O
+.	O
+
+i	O
+would	O
+argue	O
+that	O
+no	O
+one	O
+would	O
+say	O
+their	O
+desktop	O
+/	O
+laptop	O
+is	O
+easier	B-Predicate
+to	O
+use	O
+than	O
+their	O
+phone	O
+.	O
+
+the	O
+surface	O
+is	O
+more	B-Predicate
+portable	O
+than	O
+my	O
+laptop	O
+and	O
+easier	B-Predicate
+to	O
+use	O
+for	O
+those	O
+productivity	O
+issues	O
+(	O
+far	O
+easier	B-Predicate
+to	O
+type	O
+on	O
+a	O
+10	O
+.	O
+6	O
+screen	O
+)	O
+than	O
+my	O
+windows	O
+phone	O
+.	O
+
+i	O
+have	O
+a	O
+laptop	O
+and	O
+handheld	O
+gaming	B-Aspect
+devices	B-Aspect
+for	O
+everything	O
+else	O
+,	O
+and	O
+they	O
+'	O
+re	O
+a	O
+billion	O
+times	O
+easier	B-Predicate
+to	O
+use	O
+than	O
+trying	O
+to	O
+do	O
+anything	O
+but	O
+make	O
+phone	O
+calls	O
+on	O
+a	O
+smartphone	O
+is	O
+.	O
+
+4	O
+.	O
+they	O
+are	O
+bigger	B-Predicate
+,	O
+making	O
+them	O
+easier	B-Predicate
+to	O
+handle	B-Aspect
+in	O
+the	O
+same	O
+way	O
+that	O
+its	O
+easier	B-Predicate
+to	O
+type	O
+on	O
+your	O
+laptop	O
+than	O
+it	O
+is	O
+on	O
+your	O
+phone	O
+.	O
+5	O
+.	O
+
+fyi	O
+-	O
+i	O
+like	O
+my	O
+ipad	O
+but	O
+usually	O
+only	O
+use	O
+it	O
+when	O
+i	O
+'	O
+m	O
+traveling	O
+since	O
+its	O
+so	O
+much	O
+lighter	B-Predicate
+to	O
+carry	O
+around	O
+than	O
+a	O
+laptop	O
+and	O
+way	O
+easier	B-Predicate
+to	O
+read	B-Aspect
+than	O
+my	O
+phone	O
+.	O
+
+plus	O
+on	O
+the	O
+desktop	O
+/	O
+laptop	O
+/	O
+tablet	O
+i	O
+can	O
+type	O
+a	O
+lot	O
+faster	B-Predicate
+than	O
+using	O
+my	O
+thumbs	O
+on	O
+my	O
+phone	O
+which	O
+i	O
+love	O
+!	O
+
+that	O
+'	O
+s	O
+because	O
+the	O
+phone	O
+has	O
+a	O
+worse	B-Predicate
+wifi	B-Aspect
+receiver	O
+than	O
+your	O
+laptop	O
+and	O
+tablet	O
+.	O
+
+tablets	O
+fill	O
+the	O
+more	B-Predicate
+portable	O
+than	O
+a	O
+laptop	O
+but	O
+easier	B-Predicate
+to	O
+see	O
+than	O
+a	O
+phone	O
+gap	O
+.	O
+
+a	O
+tablet	O
+or	O
+small	O
+laptop	O
+-	O
+much	O
+nicer	B-Predicate
+than	O
+a	O
+phone	O
+for	O
+looking	O
+at	O
+google	B-Object
+maps	O
+,	O
+yelp	O
+,	O
+wikitravel	O
+etc	O
+.	O
+
+secondly	O
+,	O
+laptop	O
+cellular	O
+modems	B-Object
+typically	O
+deliver	O
+faster	B-Predicate
+speeds	B-Aspect
+than	O
+phones	O
+,	O
+so	O
+my	O
+results	O
+don	O
+'	O
+t	O
+necessarily	O
+predict	B-Object
+phone	O
+or	O
+tablet	O
+performance	B-Aspect
+.	O
+
+the	O
+reason	O
+may	O
+the	O
+signal	B-Object
+receiver	O
+of	O
+my	O
+phone	O
+is	O
+very	O
+weak	O
+compared	O
+to	O
+that	O
+of	O
+my	O
+laptop	O
+.	O
+
+a	O
+laptop	O
+may	O
+be	O
+easier	B-Predicate
+to	O
+see	O
+for	O
+the	O
+reader	O
+than	O
+a	O
+mobile	O
+phone	O
+.	O
+
+the	O
+other	O
+point	O
+about	O
+this	O
+is	O
+that	O
+it	O
+'	O
+s	O
+so	O
+much	O
+easier	B-Predicate
+to	O
+see	O
+whether	O
+there	O
+'	O
+s	O
+wifi	B-Object
+available	O
+with	O
+a	O
+phone	O
+than	O
+having	O
+to	O
+crack	O
+the	O
+laptop	B-Object
+open	O
+.	O
+
+gadget	O
+tool	B-Aspect
+would	O
+be	O
+that	O
+being	O
+larger	B-Predicate
+than	O
+a	O
+phone	O
+screen	O
+,	O
+it	O
+is	O
+easier	B-Predicate
+on	O
+slightly	O
+more	B-Predicate
+mature	I-Predicate
+eyes	O
+and	O
+it	O
+is	O
+a	O
+helluva	O
+lighter	B-Predicate
+to	O
+haul	O
+around	I-Aspect
+than	O
+my	O
+laptop	O
+with	O
+a	O
+17	O
+inch	O
+screen	O
+.	O
+
+the	O
+phone	O
+feels	O
+wonderful	O
+in	O
+my	O
+hands	O
+,	O
+and	O
+it	O
+is	O
+slightly	O
+thinner	O
+and	O
+much	O
+lighter	B-Predicate
+than	O
+an	O
+external	O
+laptop	O
+hard	O
+disk	O
+case	O
+.	O
+
+a	O
+smart	O
+phone	O
+or	O
+tablet	O
+is	O
+simply	O
+easier	B-Predicate
+to	O
+carry	B-Aspect
+around	O
+than	O
+a	O
+laptop	O
+.	O
+
+the	O
+larger	B-Predicate
+screen	B-Aspect
+makes	I-Aspect
+it	O
+much	O
+more	B-Predicate
+enjoyable	B-Aspect
+to	O
+look	B-Aspect
+at	O
+than	O
+the	O
+screen	O
+of	O
+a	O
+smart	O
+phone	O
+,	O
+and	O
+it	O
+'	O
+s	O
+smaller	B-Predicate
+and	O
+easier	B-Predicate
+to	O
+carry	B-Aspect
+around	I-Aspect
+than	O
+a	O
+laptop	O
+.	O
+
+the	O
+fire	O
+would	O
+be	O
+a	O
+nice	O
+compromise	O
+(	O
+more	B-Predicate
+comfortable	O
+to	O
+read	O
+than	O
+my	O
+phone	O
+,	O
+easier	B-Predicate
+to	O
+carry	B-Aspect
+around	O
+than	O
+my	O
+laptop	O
+),	O
+but	O
+i	O
+'	O
+ve	O
+already	O
+got	O
+the	O
+functionality	O
+covered	O
+by	O
+other	O
+gadgets	O
+.	O
+
+after	O
+all	O
+,	O
+despite	O
+the	O
+small	O
+screen	O
+,	O
+movies	B-Aspect
+really	O
+do	O
+look	O
+great	O
+on	O
+the	O
+cell	O
+phone	O
+,	O
+and	O
+it	O
+'	O
+s	O
+a	O
+lot	O
+easier	B-Predicate
+to	O
+carry	B-Aspect
+around	I-Aspect
+than	O
+a	O
+laptop	O
+or	O
+portable	O
+dvd	O
+player	O
+.	O
+
+the	O
+tablet	O
+is	O
+easier	B-Predicate
+to	O
+carry	B-Aspect
+around	I-Aspect
+than	O
+a	O
+laptop	O
+and	O
+larger	B-Predicate
+than	O
+a	O
+phone	O
+so	O
+it	O
+is	O
+in	O
+my	O
+"	O
+goldilocks	O
+zone	O
+"	O
+for	O
+personal	O
+devices	O
+.	O
+
+best	O
+email	O
+client	B-Aspect
+on	O
+a	O
+phone	O
+,	O
+have	O
+my	O
+work	O
+and	O
+non	O
+work	O
+emails	O
+tiled	O
+on	O
+the	O
+screen	O
+,	O
+helps	O
+me	O
+manage	O
+my	O
+email	O
+alot	O
+better	B-Predicate
+-	O
+sometimes	O
+it	O
+'	O
+s	O
+just	O
+quicker	B-Predicate
+to	O
+read	O
+email	O
+on	O
+my	O
+phone	O
+rather	O
+than	O
+checking	O
+my	O
+laptop	O
+at	O
+work	O
+lol	O
+.	O
+
+i	O
+was	O
+wondering	O
+if	O
+anyone	O
+uses	O
+anything	O
+on	O
+an	O
+ipad	O
+or	O
+phone	O
+as	O
+these	O
+are	O
+so	O
+much	O
+quicker	B-Predicate
+than	O
+waiting	O
+for	O
+our	O
+ancient	O
+laptop	O
+to	O
+fire	O
+up	O
+!	O
+
+data	O
+should	O
+be	O
+data	O
+,	O
+no	O
+matter	O
+how	O
+you	O
+use	O
+it	O
+...	O
+i	O
+guess	O
+the	O
+idea	O
+is	O
+,	O
+on	O
+the	O
+phone	O
+you	O
+wil	O
+get	O
+bored	O
+a	O
+lot	O
+quicker	B-Predicate
+surfing	B-Aspect
+than	O
+you	O
+would	O
+on	O
+a	O
+real	O
+pc	O
+/	O
+laptop	O
+,	O
+so	O
+to	O
+discourage	O
+that	O
+use	O
+...	O
+.	O
+
+even	O
+when	O
+my	O
+laptop	O
+is	O
+easily	O
+within	O
+reach	O
+,	O
+i	O
+can	O
+check	O
+my	O
+personal	O
+email	O
+far	O
+quicker	B-Predicate
+on	O
+my	O
+phone	O
+.	O
+
+well	O
+,	O
+if	O
+you	O
+leave	O
+your	O
+cellphone	O
+sitting	O
+around	O
+,	O
+it	O
+'	O
+s	O
+a	O
+lot	O
+easier	B-Predicate
+to	O
+steal	B-Aspect
+than	O
+a	O
+desktop	O
+,	O
+and	O
+somewhat	O
+easier	B-Predicate
+than	O
+a	O
+laptop	O
+or	O
+tablet	O
+.	O
+
+i	O
+do	O
+bring	O
+my	O
+purse	O
+into	O
+the	O
+restroom	B-Aspect
+,	O
+of	O
+course	O
+,	O
+since	O
+a	O
+wallet	O
+/	O
+phone	O
+is	O
+much	O
+smaller	B-Predicate
+and	O
+easier	B-Predicate
+to	O
+steal	B-Aspect
+than	O
+a	O
+laptop	O
+.	O
+
+it	O
+is	O
+easier	B-Predicate
+to	O
+steal	B-Aspect
+laptops	B-Aspect
+,	O
+i	O
+guess	O
+,	O
+than	O
+phones	O
+because	O
+at	O
+one	O
+point	O
+one	O
+has	O
+to	O
+put	O
+the	O
+laptop	B-Object
+down	O
+whereas	O
+phones	O
+can	O
+be	O
+securely	O
+placed	O
+in	O
+the	O
+pockets	O
+.	O
+
+even	O
+though	O
+the	O
+wifi	B-Object
+specs	O
+on	O
+the	O
+phone	O
+are	O
+better	B-Predicate
+than	O
+my	O
+laptop	O
+,	O
+i	O
+am	O
+fine	O
+with	O
+it	O
+being	O
+only	O
+as	O
+fast	B-Predicate
+as	I-Predicate
+the	O
+laptop	O
+,	O
+or	O
+even	O
+a	O
+little	O
+slower	B-Predicate
+.	O
+
+wifi	B-Object
+on	O
+this	O
+phone	O
+is	O
+faster	B-Predicate
+than	O
+my	O
+laptop	O
+and	O
+thats	B-Object
+with	O
+standard	O
+sights	O
+,	O
+not	O
+mobile	O
+.	O
+
+get	O
+a	O
+phone	O
+with	O
+wifi	B-Object
+for	O
+the	O
+web	O
+and	O
+an	O
+akai	B-Object
+mpc	O
+that	O
+ll	O
+do	O
+much	O
+better	B-Predicate
+work	B-Aspect
+than	O
+shitty	B-Object
+laptop	O
+setups	O
+.	O
+
+when	O
+you	O
+can	O
+use	O
+your	O
+mobile	O
+phone	O
+or	O
+3g	O
+ipad	O
+on	O
+the	O
+go	O
+it	O
+is	O
+an	O
+easier	B-Predicate
+option	O
+than	O
+finding	B-Object
+yourself	O
+a	O
+wifi	B-Object
+hotspot	O
+and	O
+getting	O
+your	O
+laptop	O
+out	O
+.	O
+
+i	O
+use	O
+my	O
+gmail	O
+frequently	O
+on	O
+my	O
+smart	O
+phone	O
+because	O
+it	O
+is	O
+faster	B-Predicate
+to	O
+check	O
+my	O
+email	O
+from	O
+here	O
+rather	O
+than	O
+logging	O
+on	O
+to	O
+my	O
+laptop	O
+and	O
+waiting	O
+for	O
+the	O
+slow	O
+carroll	O
+wifi	O
+to	O
+start	O
+up	O
+.	O
+
+this	O
+phone	O
+is	O
+blazing	O
+fast	O
+,	O
+it	O
+'	O
+s	O
+as	O
+fast	O
+as	O
+a	O
+laptop	O
+!!	O
+it	O
+can	O
+blaze	O
+through	O
+web	O
+pages	O
+at	O
+lighting	O
+fast	O
+speeds	O
+and	O
+operates	O
+them	O
+smoother	B-Predicate
+than	O
+any	O
+other	O
+phone	O
+,	O
+even	O
+the	O
+3gs	O
+.	O
+it	O
+also	O
+is	O
+compatible	O
+with	O
+tons	O
+of	O
+apps	O
+from	O
+google	B-Object
+.	O
+and	O
+i	O
+love	O
+that	O
+it	O
+comes	O
+unlocked	O
+,	O
+that	O
+is	O
+one	O
+of	O
+favorite	O
+things	O
+about	O
+it	O
+.	O
+
+the	O
+screen	O
+is	O
+bigger	B-Predicate
+than	O
+a	O
+phone	O
+,	O
+and	O
+the	O
+device	O
+is	O
+easier	B-Predicate
+to	O
+hold	B-Aspect
+than	O
+a	O
+laptop	O
+,	O
+and	O
+the	O
+multi	O
+-	O
+touch	O
+interface	B-Aspect
+does	O
+make	O
+it	O
+easier	B-Predicate
+to	O
+navigate	B-Aspect
+around	I-Aspect
+a	O
+page	O
+,	O
+zoom	O
+into	O
+text	O
+,	O
+etc	O
+.	O
+.	O
+
+the	O
+unnamed	O
+device	O
+will	O
+sell	B-Aspect
+for	O
+less	B-Predicate
+than	O
+$	O
+1	O
+,	O
+000	O
+,	O
+have	O
+a	O
+modem	O
+jack	O
+that	O
+connects	O
+to	O
+a	O
+phone	O
+line	O
+,	O
+and	O
+is	O
+supposed	O
+to	O
+be	O
+easier	B-Predicate
+and	O
+cheaper	B-Predicate
+than	O
+a	O
+bulky	O
+laptop	O
+.	O
+
+thus	O
+,	O
+the	O
+cordless	O
+phone	O
+100	O
+(	O
+and	O
+,	O
+to	O
+a	O
+lesser	O
+degree	O
+,	O
+the	O
+organizer	O
+200	O
+)	O
+is	O
+much	O
+simpler	B-Predicate
+than	O
+a	O
+full	O
+blown	O
+dmt	O
+/	O
+ofdm	O
+unit	O
+as	O
+represented	B-Object
+by	O
+the	O
+laptop	O
+300	O
+.	O
+
+sounds	O
+like	O
+another	O
+approach	O
+to	O
+try	O
+to	O
+reach	O
+that	O
+valhalla	O
+of	O
+the	O
+blending	O
+of	O
+one	O
+'	O
+s	O
+computer	O
+and	O
+one	O
+'	O
+s	O
+tv	O
+,	O
+along	O
+with	O
+one	O
+'	O
+s	O
+phone	O
+,	O
+using	O
+an	O
+os	O
+that	O
+'	O
+s	O
+simpler	B-Predicate
+than	O
+one	O
+'	O
+s	O
+full	O
+-	O
+fledged	O
+desktop	O
+or	O
+laptop	O
+computer	O
+.	O
+
+in	O
+short	O
+its	O
+often	O
+simpler	B-Predicate
+to	O
+use	O
+a	O
+mobile	O
+phone	O
+than	O
+it	O
+is	O
+a	O
+pc	O
+or	O
+laptop	O
+'.	O
+
+i	O
+did	O
+hook	B-Object
+my	O
+phone	O
+up	O
+via	O
+mhl	O
+,	O
+and	O
+it	O
+worked	O
+,	O
+but	O
+it	O
+was	O
+simpler	B-Predicate
+to	O
+grab	O
+the	O
+laptop	O
+and	O
+go	O
+that	O
+way	O
+.	O
+
+but	O
+from	O
+what	O
+i	O
+'	O
+ve	O
+heard	O
+,	O
+mobile	O
+broadband	O
+in	O
+its	O
+current	O
+state	O
+is	O
+not	B-Predicate
+going	O
+to	O
+be	O
+any	O
+faster	B-Predicate
+or	O
+more	B-Predicate
+reliable	I-Predicate
+than	O
+my	O
+iphone	O
+,	O
+which	O
+is	O
+much	O
+lighter	B-Predicate
+and	O
+easier	B-Predicate
+to	O
+carry	B-Aspect
+on	O
+trips	O
+than	O
+a	O
+laptop	O
+.	O
+
+the	O
+iphone	O
+was	O
+lighter	B-Predicate
+than	O
+carrying	O
+recording	O
+equipment	O
+and	O
+a	O
+laptop	O
+.	O
+
+i	O
+'	O
+m	O
+just	O
+saying	O
+that	O
+there	O
+is	O
+an	O
+addressable	O
+market	O
+for	O
+devices	O
+larger	B-Predicate
+than	O
+iphone	O
+that	O
+can	O
+better	B-Predicate
+handle	O
+functions	O
+that	O
+otherwise	O
+could	O
+only	O
+be	O
+done	O
+with	O
+a	O
+laptop	O
+.	O
+
+we	O
+find	O
+the	O
+iphone	O
+to	O
+be	O
+much	O
+easier	B-Predicate
+to	O
+use	O
+than	O
+android	O
+based	O
+smartphones	O
+and	O
+we	O
+are	O
+considering	O
+replacing	O
+our	O
+pc	O
+and	O
+laptop	O
+with	O
+a	O
+mac	O
+desktop	O
+,	O
+a	O
+macbook	O
+air	O
+and	O
+or	O
+an	O
+ipad	O
+tablet	O
+.	O
+
+users	O
+who	O
+use	O
+the	O
+iphone	O
+as	O
+a	O
+personal	O
+hotspot	O
+on	O
+ios	O
+7	O
+can	O
+now	O
+see	O
+how	O
+much	O
+data	O
+they	O
+have	O
+used	O
+on	O
+the	O
+iphone	O
+as	O
+a	O
+personal	O
+hotspot	O
+,	O
+which	O
+is	O
+important	O
+because	O
+it	O
+is	O
+easier	B-Predicate
+to	O
+use	O
+data	B-Aspect
+faster	B-Predicate
+while	O
+connecting	O
+a	O
+laptop	O
+to	O
+the	O
+iphone	O
+5s	O
+or	O
+ipad	O
+.	O
+
+in	O
+2010	O
+,	O
+he	O
+launched	O
+the	O
+ipad	B-Aspect
+,	O
+that	O
+magical	O
+tablet	O
+touchscreen	O
+computer	O
+-	O
+bigger	B-Predicate
+than	O
+an	O
+iphone	O
+,	O
+smaller	B-Predicate
+and	O
+friendlier	B-Predicate
+than	O
+a	O
+laptop	O
+-	O
+that	O
+quickly	O
+became	O
+the	O
+it	O
+gadget	O
+of	O
+the	O
+year	O
+,	O
+selling	B-Aspect
+a	O
+million	O
+units	O
+in	O
+a	O
+month	O
+.	O
+
+apple	B-Object
+isn	O
+'	O
+t	O
+saying	O
+much	O
+about	O
+the	O
+possibility	O
+of	O
+a	O
+tablet	O
+computer	O
+,	O
+but	O
+industry	O
+watchers	O
+predict	B-Aspect
+it	O
+will	O
+be	O
+a	O
+thin	O
+,	O
+handheld	O
+device	O
+with	O
+a	O
+10	O
+.	O
+1	O
+-	O
+inch	O
+touch	O
+screen	O
+,	O
+making	O
+it	O
+bigger	B-Predicate
+than	O
+the	O
+iphone	O
+yet	O
+smaller	O
+and	O
+lighter	B-Predicate
+than	O
+the	O
+typical	O
+laptop	O
+.	O
+
+i	O
+must	O
+admit	O
+i	O
+'	O
+d	O
+be	O
+lost	O
+without	O
+my	O
+iphone	O
+-	O
+and	O
+ipad	O
+,	O
+which	O
+is	O
+much	O
+easier	B-Predicate
+to	O
+carry	B-Aspect
+around	I-Aspect
+than	O
+a	O
+laptop	O
+!	O
+
+since	O
+the	O
+new	O
+iphone	O
+5	O
+supports	O
+videos	B-Aspect
+up	O
+to	O
+1080p	O
+,	O
+movies	O
+will	O
+do	O
+look	B-Predicate
+great	O
+on	O
+the	O
+new	O
+device	O
+,	O
+and	O
+it	O
+'	O
+s	O
+a	O
+lot	O
+easier	B-Predicate
+to	O
+carry	B-Aspect
+around	I-Aspect
+than	O
+a	O
+laptop	O
+or	O
+portable	O
+dvd	O
+player	O
+.	O
+
+imagine	O
+handing	O
+your	O
+iphone	O
+over	O
+to	O
+a	O
+friend	O
+to	O
+show	O
+them	O
+a	O
+gorgeous	O
+new	O
+bracelet	O
+:	O
+that	O
+'	O
+s	O
+far	O
+friendlier	O
+-	O
+and	O
+likelier	O
+to	O
+lead	O
+to	O
+a	O
+sale	O
+-	O
+than	O
+awkwardly	O
+turning	O
+a	O
+laptop	O
+around	O
+.	O
+
+but	O
+,	O
+everyone	O
+we	O
+'	O
+ve	O
+talked	O
+with	O
+who	O
+uses	O
+their	O
+iphone	O
+/	O
+ipod	O
+for	O
+reading	O
+says	O
+it	O
+'	O
+s	O
+much	O
+easier	B-Predicate
+on	O
+the	O
+eyes	B-Object
+than	O
+a	O
+laptop	O
+screen	O
+.	O
+
+ipad	O
+:	O
+because	O
+the	O
+portability	O
+of	O
+the	O
+iphone	O
+married	O
+with	O
+the	O
+functionality	O
+of	O
+a	O
+large	O
+screen	O
+can	O
+do	O
+some	O
+things	O
+better	B-Predicate
+than	O
+a	O
+pocket	O
+-	O
+sized	O
+device	O
+can	O
+,	O
+and	O
+some	O
+things	O
+better	B-Predicate
+than	O
+a	O
+laptop	O
+can	O
+.	O
+
+apple	B-Object
+iphone	O
+5	O
+white	O
+includes	O
+a	O
+4	O
+-	O
+inch	O
+display	O
+,	O
+the	O
+sgs3	O
+comes	O
+in	O
+at	O
+4	O
+.	O
+8	O
+-	O
+inches	O
+,	O
+that	O
+'	O
+s	O
+still	O
+greater	B-Predicate
+than	O
+the	O
+modern	O
+iphone	O
+,	O
+the	O
+4s	O
+is	O
+simply	O
+3	O
+.	O
+5	O
+-	O
+inches	O
+so	O
+a	O
+4	O
+-	O
+inch	O
+iphone	O
+5	O
+will	O
+only	O
+be	O
+fractionally	O
+...	O
+keyword	O
+:	O
+laptop	O
+.	O
+
+but	O
+the	O
+pixel	B-Aspect
+density	O
+on	O
+my	O
+iphone	O
+5	O
+is	O
+a	O
+lot	O
+greater	B-Predicate
+than	O
+that	O
+of	O
+my	O
+computer	O
+,	O
+so	O
+watching	O
+anime	O
+on	O
+my	O
+phone	O
+looks	O
+great	O
+in	O
+comparadon	O
+to	O
+my	O
+laptop	O
+and	O
+my	O
+ps3	O
+can	O
+stream	O
+on	O
+720	O
+which	O
+is	O
+the	O
+mac	O
+output	O
+of	O
+my	O
+tv	O
+anyways	B-Aspect
+.	O
+
+i	O
+have	O
+a	O
+laptop	O
+and	O
+a	O
+standard	O
+mobile	O
+phone	O
+that	O
+have	O
+far	O
+greater	B-Predicate
+combined	O
+capacity	B-Aspect
+than	O
+an	O
+iphone	O
+.	O
+
+it	O
+'	O
+s	O
+possible	O
+to	O
+do	O
+this	O
+from	O
+a	O
+laptop	O
+as	O
+well	O
+,	O
+of	O
+course	O
+,	O
+but	O
+it	O
+'	O
+s	O
+a	O
+lot	O
+easier	B-Predicate
+to	O
+get	B-Aspect
+to	O
+your	O
+iphone	O
+than	O
+to	O
+open	O
+up	O
+your	O
+laptop	O
+.	O
+
+the	O
+2520	O
+uses	O
+a	O
+laptop	O
+-	O
+like	O
+circular	O
+plug	O
+that	O
+is	O
+actually	O
+easier	B-Predicate
+to	O
+attach	B-Aspect
+than	O
+most	O
+,	O
+but	O
+both	O
+the	O
+surface	O
+and	O
+new	O
+ipad	O
+plug	O
+are	O
+far	O
+easier	B-Predicate
+in	O
+the	O
+dark	O
+than	O
+the	O
+damn	O
+micro	O
+-	O
+usb	O
+plug	O
+that	O
+all	O
+but	O
+the	O
+iphone	O
+use	O
+to	O
+charge	B-Aspect
+(	O
+including	O
+most	O
+small	O
+tablets	O
+).	O
+
+for	O
+this	O
+i	O
+would	O
+rather	O
+use	O
+pd	O
+directly	O
+from	O
+the	O
+rjdj	O
+composerpack	O
+or	O
+through	O
+the	O
+rjc1000	B-Aspect
+on	O
+a	O
+laptop	O
+,	O
+because	O
+i	O
+can	O
+run	O
+it	O
+at	O
+a	O
+decent	O
+higher	B-Predicate
+samplerate	B-Aspect
+and	O
+i	O
+can	O
+use	O
+better	B-Predicate
+microphones	I-Aspect
+than	O
+on	O
+the	O
+iphone	O
+.	O
+
+note	O
+:	O
+many	O
+mobile	O
+devices	O
+,	O
+notably	O
+the	O
+iphone	O
+4	O
+and	O
+ipad	O
+2	O
+,	O
+have	O
+high	O
+resolution	O
+displays	O
+with	O
+a	O
+much	O
+higher	B-Predicate
+pixel	B-Aspect
+density	I-Aspect
+than	O
+desktop	O
+and	O
+laptop	O
+monitors	O
+.	O
+
+some	O
+studies	O
+have	O
+even	O
+confirmed	O
+that	O
+the	O
+iphone	O
+5	O
+has	O
+a	O
+higher	B-Predicate
+level	O
+of	I-Aspect
+quality	I-Aspect
+and	O
+performance	B-Aspect
+than	O
+the	O
+majority	O
+of	O
+tablets	O
+and	O
+low	O
+-	O
+end	O
+laptop	O
+computers	O
+and	O
+netbooks	B-Aspect
+as	O
+well	O
+.	O
+
+plywood	O
+is	O
+easier	B-Predicate
+to	O
+rework	B-Aspect
+than	O
+steel	B-Object
+.	O
+
+i	O
+'	O
+d	O
+have	O
+to	O
+agree	O
+...	O
+aluminum	O
+or	O
+marine	O
+plywood	O
+heavily	O
+epoxy	O
+coated	O
+are	O
+better	B-Predicate
+than	O
+stainless	O
+steel	B-Object
+in	O
+most	O
+cases	O
+...	O
+and	O
+far	O
+easier	B-Predicate
+to	O
+work	B-Aspect
+.	O
+
+plywood	O
+has	O
+greater	B-Predicate
+tensile	B-Aspect
+strength	B-Aspect
+than	O
+steel	B-Object
+per	O
+weight	O
+.	O
+
+the	O
+patented	O
+,	O
+extremely	O
+durable	O
+ssl	O
+lining	B-Object
+is	O
+four	O
+times	O
+more	B-Predicate
+corrosion	I-Predicate
+resistant	O
+than	O
+galvanized	B-Object
+steel	B-Object
+the	O
+puncture	O
+strength	O
+is	O
+nearly	O
+six	O
+times	O
+greater	B-Predicate
+than	O
+0	O
+.	O
+25	O
+"	O
+plywood	O
+and	O
+over	O
+,	O
+four	O
+times	O
+greater	B-Predicate
+than	O
+mdpe	O
+plastic	B-Object
+the	O
+rigid	O
+core	O
+is	O
+bonded	O
+to	O
+steel	B-Object
+ply	O
+to	O
+prevent	O
+damage	O
+from	O
+repeated	O
+forklift	O
+impact	O
+
+plywood	O
+is	O
+also	O
+,	O
+pound	O
+for	O
+pound	O
+,	O
+stronger	B-Predicate
+than	O
+steel	B-Object
+.	O
+
+pound	O
+for	O
+pound	O
+,	O
+plywood	O
+is	O
+stronger	B-Predicate
+than	O
+steel	B-Object
+in	O
+static	O
+bending	O
+strength	O
+.	O
+
+hardwood	B-Object
+plywood	O
+is	O
+,	O
+pound	O
+for	O
+pound	O
+,	O
+stronger	B-Predicate
+than	O
+steel	B-Object
+in	O
+static	O
+bending	O
+strength	O
+.	O
+
+pound	O
+for	O
+pound	O
+veneer	O
+core	O
+plywood	O
+is	O
+stronger	B-Predicate
+than	O
+steel	B-Object
+in	O
+static	O
+bending	O
+strength	O
+due	O
+to	O
+cross	O
+-	O
+layered	O
+structure	O
+.	O
+
+expanded	O
+metal	O
+therefore	O
+needs	O
+more	B-Predicate
+support	O
+structure	O
+below	O
+,	O
+so	O
+ultimately	O
+,	O
+timber	B-Object
+or	O
+structural	O
+plywood	O
+ramps	O
+end	O
+up	O
+being	O
+lighter	B-Predicate
+and	O
+cheaper	B-Predicate
+than	O
+steel	B-Object
+.	O
+
+maybe	O
+cut	O
+some	O
+plywood	O
+gussets	O
+to	O
+attach	O
+post	O
+and	O
+beam	O
+,	O
+one	O
+on	O
+each	O
+side	O
+,	O
+this	O
+is	O
+cheaper	B-Predicate
+than	O
+steel	B-Object
+brackets	O
+.	O
+
+and	O
+because	O
+they	O
+'	O
+re	O
+made	O
+of	O
+steel	B-Object
+and	O
+include	O
+high	O
+-	O
+tech	O
+insulation	O
+,	O
+they	O
+'	O
+re	O
+supposed	O
+to	O
+be	O
+more	B-Predicate
+efficient	O
+-	O
+and	O
+therefore	O
+cheaper	B-Predicate
+to	O
+run	O
+-	O
+than	O
+the	O
+older	O
+plywood	O
+and	O
+sheet	O
+-	O
+metal	B-Object
+barns	O
+still	O
+used	O
+on	O
+many	O
+tobacco	O
+farms	O
+.	O
+
+i	O
+will	O
+use	O
+plywood	O
+,	O
+that	O
+sounds	O
+like	O
+a	O
+better	B-Predicate
+idea	O
+than	O
+1x	O
+lumber	O
+,	O
+and	O
+probably	O
+cheaper	B-Predicate
+too	O
+.	O
+
+open	O
+frame	O
+using	O
+2x4	O
+stud	B-Predicate
+lumber	O
+was	O
+much	O
+cheaper	B-Predicate
+than	O
+double	O
+plywood	O
+.	O
+
+today	O
+i	O
+priced	O
+some	O
+1	O
+"	O
+roughcut	O
+lumber	O
+for	O
+building	O
+more	O
+nucs	O
+and	O
+it	O
+was	O
+actually	O
+cheaper	B-Predicate
+than	O
+using	O
+1	O
+/	O
+2	O
+"	O
+plywood	O
+.	O
+
+the	O
+home	O
+depot	O
+red	O
+oak	O
+plywood	O
+is	O
+5	O
+-	O
+10	O
+%	O
+cheaper	B-Predicate
+than	O
+from	O
+a	O
+"	O
+real	O
+"	O
+lumber	O
+yard	O
+,	O
+but	O
+not	O
+half	O
+the	O
+quality	O
+.	O
+
+i	O
+think	O
+3	O
+/	O
+4	O
+plywood	O
+is	O
+much	O
+better	B-Predicate
+to	O
+use	O
+because	O
+it	O
+is	O
+so	O
+much	O
+stronger	B-Predicate
+per	O
+pound	O
+than	O
+straight	O
+lumber	O
+.	O
+
+"	O
+plywood	O
+is	O
+more	B-Predicate
+flexible	O
+,	O
+and	O
+generally	O
+stronger	B-Predicate
+,	O
+than	O
+lumber	O
+of	O
+the	O
+same	O
+species	O
+and	O
+dimensions	O
+."	O
+
+i	O
+also	O
+thought	O
+that	O
+plywood	O
+is	O
+stronger	B-Predicate
+and	O
+more	B-Predicate
+rigid	O
+than	O
+1	O
+solid	O
+piece	O
+of	O
+lumber	O
+.	O
+
+plywood	O
+is	O
+cheaper	B-Predicate
+and	O
+often	O
+stronger	B-Predicate
+than	O
+solid	O
+wood	B-Object
+,	O
+easy	O
+to	O
+find	O
+at	O
+home	O
+-	O
+improvement	O
+or	O
+lumber	B-Object
+stores	O
+,	O
+and	O
+it	O
+looks	O
+good	O
+.	O
+
+you	O
+can	O
+dislike	O
+plywood	O
+as	O
+much	O
+as	O
+you	O
+like	O
+but	O
+it	O
+'	O
+s	O
+engineering	O
+characteristics	O
+say	O
+you	O
+can	O
+build	O
+far	O
+lighter	B-Predicate
+with	O
+ply	O
+than	O
+you	O
+ever	O
+could	O
+with	O
+lumber	O
+.	O
+
+he	O
+also	O
+said	O
+it	O
+would	O
+be	O
+lighter	B-Predicate
+to	O
+make	O
+this	O
+load	O
+bearing	O
+plywood	O
+deck	O
+than	O
+a	O
+deck	O
+from	O
+heavy	O
+composite	O
+lumber	O
+that	O
+i	O
+was	O
+thinking	O
+about	O
+.	O
+
+initially	O
+,	O
+the	O
+technique	B-Object
+was	O
+called	O
+balloon	B-Aspect
+framing	O
+because	O
+the	O
+2	O
+x	B-Object
+4	O
+and	O
+2	O
+x	O
+6	O
+framing	O
+members	O
+(	O
+dimensional	O
+lumber	O
+)	O
+were	O
+so	O
+much	O
+lighter	B-Predicate
+than	O
+in	O
+heavy	B-Object
+timber	B-Object
+.	O
+
+"	O
+in	O
+some	O
+situations	O
+,	O
+rather	O
+than	O
+transport	O
+green	O
+lumber	O
+that	O
+is	O
+water	B-Object
+-	O
+heavy	O
+to	O
+a	O
+larger	B-Predicate
+kiln	O
+,	O
+you	O
+could	O
+plug	O
+-	O
+in	O
+the	O
+solar	O
+hybrid	O
+kiln	O
+and	O
+dry	O
+timber	O
+on	O
+site	O
+,	O
+and	O
+then	O
+transport	O
+much	O
+lighter	B-Predicate
+dried	O
+wood	B-Object
+for	O
+further	O
+processing	O
+."	O
+
+glued	O
+laminated	O
+timber	B-Object
+(	O
+glulam	O
+)	O
+has	O
+greater	B-Predicate
+strength	B-Aspect
+and	O
+stiffness	B-Aspect
+than	O
+comparable	O
+dimensional	O
+lumber	O
+and	O
+,	O
+pound	O
+for	O
+pound	O
+,	O
+is	O
+stronger	B-Predicate
+than	O
+steel	B-Object
+.	O
+
+its	O
+co	O
+-	O
+founder	O
+says	O
+that	O
+timber	B-Object
+components	O
+are	O
+far	O
+stronger	B-Predicate
+than	O
+those	O
+made	O
+from	O
+milled	O
+lumber	O
+and	O
+can	O
+compete	O
+with	O
+concrete	B-Object
+and	O
+steel	B-Object
+.	O
+
+unlike	O
+the	O
+light	O
+-	O
+frame	O
+or	O
+stud	O
+construction	O
+used	O
+to	O
+build	O
+houses	O
+and	O
+low	O
+-	O
+rises	O
+,	O
+mass	O
+timber	O
+is	O
+made	O
+by	O
+bonding	O
+together	O
+thin	O
+layers	O
+of	O
+wood	B-Object
+to	O
+create	O
+a	O
+material	O
+that	O
+is	O
+much	O
+stronger	B-Predicate
+and	O
+more	B-Predicate
+fire	I-Predicate
+-	O
+resistant	O
+than	O
+lumber	B-Object
+.	O
+
+glulam	O
+,	O
+an	O
+engineered	O
+timber	O
+product	O
+,	O
+provides	O
+greater	B-Predicate
+strength	B-Aspect
+than	O
+sawn	O
+lumber	O
+for	O
+longer	B-Predicate
+span	O
+applications	O
+.	O
+
+forested	O
+areas	O
+have	O
+been	O
+expanding	O
+every	O
+year	O
+,	O
+with	O
+the	O
+increase	O
+in	O
+standing	O
+timber	B-Object
+greater	B-Predicate
+than	O
+that	O
+of	O
+felled	B-Object
+lumber	O
+.	O
+
+engineered	O
+lumber	O
+may	O
+be	O
+available	O
+in	O
+longer	B-Predicate
+lengths	B-Aspect
+and	O
+is	O
+more	B-Predicate
+uniform	I-Predicate
+than	O
+solid	B-Object
+timber	B-Object
+;	O
+it	O
+doesn	O
+'	O
+t	O
+have	O
+knots	O
+,	O
+warping	O
+or	O
+cupping	O
+.	O
+
+the	O
+form	O
+is	O
+created	O
+using	O
+laminated	O
+veneer	O
+lumber	O
+-	O
+not	O
+great	O
+for	O
+the	O
+planet	O
+,	O
+as	O
+it	O
+consists	O
+of	O
+layers	O
+of	O
+wood	B-Object
+held	O
+together	O
+with	O
+adhesives	O
+-	O
+but	O
+it	O
+does	O
+stay	O
+beautiful	O
+longer	B-Predicate
+than	O
+conventional	O
+timber	B-Object
+.	O
+
+a	O
+twelve	O
+-	O
+story	O
+building	O
+in	O
+portland	O
+is	O
+being	O
+constructed	O
+with	O
+the	O
+product	O
+,	O
+cross	B-Aspect
+-	O
+laminated	I-Aspect
+timber	B-Object
+,	O
+or	O
+clt	B-Object
+,	O
+which	O
+is	O
+lighter	B-Predicate
+,	O
+so	O
+it	O
+goes	O
+up	O
+easier	B-Predicate
+and	O
+faster	B-Predicate
+than	O
+concrete	B-Object
+does	O
+...	O
+it	O
+'	O
+s	O
+also	O
+quieter	O
+in	O
+construction	O
+,	O
+sheine	O
+told	O
+the	O
+guardian	O
+.	O
+
+although	O
+timber	O
+sleepers	O
+have	O
+good	O
+elasticity	O
+and	O
+are	O
+lighter	B-Predicate
+and	O
+easier	B-Predicate
+to	O
+handle	B-Aspect
+than	O
+concrete	B-Object
+sleepers	O
+,	O
+their	O
+main	O
+drawback	O
+is	O
+short	O
+service	O
+life	O
+due	O
+to	O
+deterioration	O
+.	O
+
+the	O
+advantages	O
+this	O
+offers	O
+are	O
+quite	O
+exciting	O
+-	O
+timber	O
+panels	B-Aspect
+are	O
+much	O
+lighter	B-Predicate
+than	O
+concrete	B-Object
+,	O
+more	B-Predicate
+easily	O
+worked	B-Aspect
+and	O
+easier	B-Predicate
+and	O
+safer	B-Predicate
+to	O
+erect	B-Aspect
+[	B-Aspect
+42	O
+,	O
+43	O
+,	O
+44	O
+].	O
+
+the	O
+massive	O
+timber	B-Object
+is	O
+lighter	B-Predicate
+than	O
+concrete	B-Object
+,	O
+but	O
+manage	O
+wider	O
+spans	O
+than	O
+light	O
+timber	B-Object
+floors	O
+in	O
+general	O
+,	O
+which	O
+means	O
+easier	B-Predicate
+adaptation	O
+to	O
+existing	O
+support	B-Aspect
+spacing	I-Aspect
+.	O
+
+timber	B-Object
+is	O
+a	O
+lighter	B-Predicate
+and	O
+more	B-Predicate
+environmentally	I-Predicate
+-	I-Predicate
+friendly	I-Predicate
+building	O
+material	O
+that	O
+can	O
+be	O
+stronger	B-Predicate
+and	O
+safer	B-Predicate
+in	O
+earthquakes	O
+than	O
+traditional	O
+concrete	B-Object
+and	O
+steel	B-Object
+structures	O
+that	O
+currently	O
+dominate	O
+the	O
+building	O
+landscape	O
+.	O
+
+winistorfer	O
+said	O
+timber	O
+bridges	O
+are	O
+less	B-Predicate
+expensive	I-Predicate
+,	O
+can	O
+be	O
+built	O
+faster	B-Predicate
+than	O
+concrete	B-Object
+or	O
+steel	B-Object
+,	O
+and	O
+require	O
+less	B-Predicate
+specialized	O
+labor	O
+to	O
+build	O
+.	O
+
+new	O
+structural	O
+systems	O
+like	O
+cross	B-Aspect
+-	O
+laminated	O
+timber	B-Object
+panels	O
+can	O
+score	O
+multiple	O
+leed	O
+points	O
+,	O
+cost	B-Aspect
+less	B-Predicate
+,	O
+and	O
+are	O
+faster	B-Predicate
+to	O
+build	B-Aspect
+with	O
+than	O
+steel	B-Object
+or	O
+concrete	B-Object
+.	O
+
+once	O
+your	O
+concrete	B-Object
+foundation	O
+is	O
+down	O
+you	O
+will	O
+find	O
+that	O
+the	O
+erection	O
+of	O
+a	O
+timber	B-Object
+garage	B-Aspect
+is	O
+much	O
+faster	B-Predicate
+than	O
+any	O
+concrete	B-Object
+or	O
+brick	B-Object
+built	O
+garage	O
+.	O
+less	O
+waste	B-Object
+and	O
+less	B-Predicate
+mess	I-Predicate
+during	O
+constuction	O
+is	O
+also	O
+a	O
+major	O
+factor	O
+to	O
+consider	O
+.	O
+
+timber	B-Object
+is	O
+strong	B-Aspect
+,	O
+light	O
+and	O
+reliable	O
+making	O
+timber	O
+construction	B-Aspect
+simpler	B-Predicate
+and	O
+safer	B-Predicate
+than	O
+steel	B-Object
+or	O
+concrete	B-Object
+construction	O
+.	O
+
+well	O
+-	O
+designed	O
+,	O
+properly	O
+constructed	O
+timber	B-Object
+buildings	B-Aspect
+can	O
+be	O
+even	O
+safer	B-Predicate
+in	O
+earthquakes	O
+than	O
+ferro	O
+-	O
+concrete	B-Object
+ones	O
+.	O
+
+the	O
+replacement	B-Object
+of	O
+timber	B-Object
+track	O
+components	O
+is	O
+responsible	O
+for	O
+producing	O
+greenhouse	O
+gas	O
+emissions	O
+six	O
+times	O
+greater	B-Predicate
+than	O
+equivalent	O
+reinforced	O
+concrete	B-Object
+counterparts	O
+.	O
+
+reinforced	O
+concrete	B-Object
+decks	O
+can	O
+span	O
+greater	B-Predicate
+distances	B-Aspect
+than	O
+timber	B-Object
+decks	O
+.	O
+
+with	O
+respect	O
+to	O
+the	O
+absolute	O
+value	O
+of	O
+non	O
+-	O
+renewable	O
+ee	O
+,	O
+the	O
+amount	O
+associated	O
+with	O
+the	O
+concrete	B-Object
+design	O
+case	O
+was	O
+greater	B-Predicate
+than	O
+the	O
+timber	B-Object
+case	O
+by	O
+almost	O
+7	O
+terajoules	O
+.	O
+
+lutyens	O
+'	O
+s	O
+preference	O
+for	O
+bricks	B-Object
+and	O
+timber	B-Object
+,	O
+stone	O
+and	O
+slate	B-Object
+,	O
+rather	O
+than	O
+for	O
+steel	B-Object
+and	O
+concrete	B-Object
+,	O
+plate	O
+-	O
+glass	O
+and	O
+box	O
+girders	O
+,	O
+betokened	O
+a	O
+greater	B-Predicate
+affinity	O
+with	O
+the	O
+world	O
+and	O
+values	O
+of	O
+renaissance	O
+humanism	O
+than	O
+with	O
+the	O
+utilitarian	O
+impersonality	O
+of	O
+the	O
+welfare	O
+state	O
+.	O
+'	O
+
+houses	O
+with	O
+suspended	O
+timber	O
+floors	O
+are	O
+a	O
+good	O
+example	O
+of	O
+where	O
+this	O
+works	O
+-	O
+they	O
+can	O
+be	O
+ripped	O
+out	O
+,	O
+dropped	O
+by	O
+as	O
+much	O
+as	O
+a	O
+foot	O
+and	O
+replaced	O
+with	O
+a	O
+concrete	B-Object
+floor	O
+to	O
+make	O
+the	O
+whole	O
+space	O
+feel	O
+bigger	B-Predicate
+.	O
+
+massive	O
+timber	B-Object
+is	O
+heavier	B-Predicate
+than	O
+light	O
+timber	B-Object
+systems	O
+,	O
+which	O
+makes	O
+it	O
+difficult	O
+to	O
+compete	O
+with	O
+such	O
+,	O
+concerning	B-Object
+handling	O
+of	O
+volume	O
+elements	B-Aspect
+,	O
+whereas	O
+it	O
+is	O
+far	O
+lighter	B-Predicate
+than	O
+concrete	B-Object
+elements	O
+systems	O
+,	O
+which	O
+are	O
+mainly	O
+transported	B-Aspect
+to	O
+the	O
+site	O
+as	O
+surface	O
+elements	O
+.	O
+
+their	O
+light	O
+weight	O
+also	O
+gives	O
+savings	O
+to	O
+the	O
+timber	O
+supporting	I-Aspect
+trusses	O
+which	O
+will	O
+be	O
+less	B-Predicate
+than	O
+when	O
+supporting	B-Object
+heavier	O
+concrete	B-Object
+tiles	O
+.	O
+
+although	O
+a	O
+hollow	O
+-	O
+core	O
+slab	O
+weighs	O
+far	O
+less	B-Predicate
+than	O
+a	O
+solid	O
+concrete	O
+slab	O
+,	O
+it	O
+is	O
+still	O
+a	O
+considerably	O
+heavier	B-Predicate
+arrangement	O
+than	O
+the	O
+typical	O
+timber	B-Object
+and	O
+plasterboard	O
+installation	O
+.	O
+
+concrete	B-Object
+columns	O
+are	O
+stronger	B-Predicate
+than	O
+timber	B-Object
+post	O
+and	O
+steel	B-Object
+is	O
+superior	B-Predicate
+to	O
+concrete	B-Object
+.	O
+
+the	O
+timber	B-Object
+from	O
+douglas	O
+firs	O
+is	O
+said	O
+to	O
+be	O
+stronger	B-Predicate
+than	O
+concrete	B-Object
+.	O
+
+great	O
+strength	O
+,	O
+stiffness	O
+and	O
+moderate	O
+weight	B-Aspect
+make	O
+it	O
+an	O
+invaluable	O
+timber	O
+product	O
+said	O
+to	O
+be	O
+stronger	B-Predicate
+than	O
+concrete	B-Object
+.	O
+
+amazingly	O
+,	O
+the	O
+bus	B-Aspect
+travelled	O
+faster	B-Predicate
+and	O
+was	O
+far	O
+smoother	B-Predicate
+than	O
+the	O
+overland	O
+truck	O
+.	O
+
+off	O
+-	O
+peak	O
+depends	O
+more	O
+on	O
+frequency	O
+,	O
+but	O
+even	O
+if	O
+the	O
+bus	O
+only	O
+goes	O
+every	O
+half	O
+hour	O
+,	O
+it	O
+would	O
+still	O
+be	O
+slightly	O
+faster	B-Predicate
+than	O
+the	O
+train	O
+,	O
+unless	O
+some	O
+asphalt	O
+truck	O
+spills	O
+its	O
+contents	O
+across	O
+all	O
+lanes	O
+of	O
+traffic	O
+.	O
+
+using	O
+the	O
+truck	O
+or	O
+van	O
+would	O
+be	O
+alot	O
+faster	B-Predicate
+vs	O
+the	O
+long	O
+bus	O
+ride	O
+.	O
+
+maybe	O
+the	O
+fastest	O
+out	O
+food	O
+truck	O
+i	O
+'	O
+ve	O
+ever	O
+been	O
+to	O
+,	O
+so	O
+much	O
+faster	B-Predicate
+than	O
+burger	O
+bus	O
+.	O
+
+in	O
+my	O
+youth	O
+,	O
+i	O
+'	O
+ve	O
+always	O
+preferred	O
+hitching	O
+a	O
+ride	O
+with	O
+a	O
+truck	B-Predicate
+driver	O
+than	O
+ride	O
+the	O
+bus	B-Object
+,	O
+as	O
+i	O
+would	O
+invariably	O
+get	O
+there	O
+faster	B-Predicate
+,	O
+and	O
+i	O
+never	O
+really	O
+felt	O
+unsafe	B-Predicate
+.	O
+
+bus	B-Object
+is	O
+20	O
+times	O
+easier	B-Predicate
+to	O
+drive	B-Aspect
+than	O
+towing	B-Object
+our	O
+trailer	O
+behind	O
+our	O
+f450	O
+truck	O
+which	O
+is	O
+unexpected	B-Predicate
+.	O
+
+a	O
+school	O
+bus	O
+might	O
+be	O
+even	O
+easier	B-Predicate
+to	O
+move	O
+than	O
+a	O
+truck	B-Predicate
+due	O
+to	O
+its	O
+overall	O
+density	O
+,	O
+but	O
+it	O
+would	O
+also	O
+be	O
+heavier	B-Predicate
+.	O
+
+i	O
+would	O
+think	O
+a	O
+school	O
+bus	B-Aspect
+based	O
+platform	O
+would	O
+be	O
+easier	B-Predicate
+to	O
+drive	B-Aspect
+than	O
+a	O
+semi	O
+-	O
+trailer	O
+combination	O
+,	O
+and	O
+that	O
+repairs	B-Object
+would	O
+be	O
+cheaper	B-Predicate
+since	O
+the	O
+engine	O
+in	O
+school	O
+buses	O
+seem	O
+to	O
+be	O
+smaller	B-Predicate
+than	O
+found	O
+in	O
+a	O
+full	O
+fledged	O
+semi	O
+truck	O
+.	O
+
+it	O
+'	O
+s	O
+a	O
+heck	O
+of	O
+a	O
+lot	O
+easier	B-Predicate
+to	O
+do	O
+on	O
+a	O
+truck	O
+than	O
+a	O
+bus	O
+.	O
+
+i	O
+can	O
+tell	O
+you	O
+that	O
+converting	O
+a	O
+truck	B-Predicate
+is	O
+a	O
+whole	O
+bunch	O
+easier	B-Predicate
+then	O
+converting	O
+a	O
+bus	O
+.	O
+
+a	O
+car	O
+or	O
+truck	O
+is	O
+a	O
+whole	O
+lot	O
+easier	B-Predicate
+to	O
+drive	B-Aspect
+than	O
+a	O
+55	O
+-	O
+passenger	O
+school	O
+bus	O
+on	O
+an	O
+icy	O
+road	O
+.	O
+
+i	O
+used	O
+to	O
+say	O
+that	O
+the	O
+average	O
+italian	O
+bus	O
+driver	O
+eats	O
+better	B-Predicate
+on	O
+a	O
+day	O
+-	O
+to	O
+-	O
+day	O
+basis	O
+than	O
+the	O
+average	O
+american	O
+ceo	O
+,	O
+because	O
+of	O
+the	O
+easy	B-Object
+access	O
+to	O
+quality	O
+,	O
+fresh	O
+,	O
+well	O
+-	O
+prepared	O
+food	O
+at	O
+the	O
+local	O
+market	O
+,	O
+the	O
+local	O
+restaurant	O
+,	O
+the	O
+local	O
+food	O
+truck	O
+,	O
+etc	O
+.	O
+.	O
+
+in	O
+fact	O
+,	O
+the	O
+nhtsa	O
+says	O
+that	O
+traveling	O
+by	O
+school	O
+bus	O
+is	O
+seven	O
+times	O
+safer	B-Predicate
+than	O
+traveling	B-Object
+by	O
+car	O
+or	O
+truck	O
+.	O
+
+the	O
+shuttle	O
+is	O
+a	O
+decent	O
+space	O
+truck	O
+,	O
+but	O
+we	O
+need	O
+a	O
+cheaper	B-Predicate
+(	O
+and	O
+safer	B-Predicate
+)	O
+space	O
+"	O
+bus	B-Object
+."	O
+
+the	O
+truck	O
+/	O
+axle	O
+(	O
+passive	O
+unpowered	O
+unit	O
+)	O
+is	O
+probably	O
+havier	O
+heavier	O
+than	O
+for	O
+a	O
+1	O
+-	O
+ton	B-Object
+but	O
+then	O
+again	O
+the	O
+whole	O
+bus	B-Object
+is	O
+heavier	B-Predicate
+.	O
+
+the	O
+humpback	B-Aspect
+whale	B-Aspect
+is	O
+"	O
+longer	B-Predicate
+than	O
+a	O
+big	O
+bus	B-Aspect
+and	O
+heavier	B-Predicate
+than	O
+a	O
+trailer	O
+truck	O
+"	O
+for	O
+instance	O
+.	O
+
+that	O
+is	O
+one	O
+nice	O
+1960	O
+flxibile	O
+starliner	O
+i	O
+have	O
+saw	O
+it	O
+up	O
+close	B-Predicate
+being	O
+full	O
+of	O
+doughnuts	O
+even	O
+made	O
+it	O
+nicer	O
+matt	O
+would	O
+love	O
+that	O
+bus	O
+,	O
+that	O
+was	O
+a	O
+nice	O
+story	O
+the	O
+bus	B-Object
+ride	O
+had	O
+to	O
+be	O
+better	B-Predicate
+than	O
+him	O
+stealing	O
+a	O
+delivery	O
+truck	O
+.	O
+
+you	O
+wake	O
+up	O
+on	O
+the	O
+bus	B-Object
+--	O
+and	O
+it	O
+even	O
+happens	O
+now	O
+,	O
+where	O
+traveling	O
+is	O
+a	O
+lot	O
+nicer	B-Predicate
+than	O
+it	O
+was	O
+before	O
+--	O
+and	O
+we	O
+'	O
+ve	O
+pulled	O
+into	O
+some	O
+truck	O
+stop	O
+in	O
+god	O
+knows	O
+where	O
+.	O
+
+according	O
+to	O
+a	O
+1988	O
+study	O
+by	O
+dr	O
+.	O
+liu	O
+'	O
+s	O
+colleague	O
+at	O
+the	O
+university	O
+of	O
+missouri	O
+,	O
+j	O
+.	O
+p	O
+.	O
+wu	O
+,	O
+transporting	O
+grain	O
+by	O
+pipeline	O
+is	O
+cheaper	B-Predicate
+than	O
+by	O
+truck	O
+or	O
+train	B-Object
+as	O
+long	O
+as	O
+the	O
+throughput	O
+is	O
+greater	B-Predicate
+than	O
+approximately	O
+1	O
+million	O
+tons	O
+(	O
+32	O
+million	O
+bus	O
+).	O
+
+the	O
+truck	O
+driver	O
+is	O
+definitely	O
+more	B-Predicate
+at	O
+fault	B-Aspect
+than	O
+the	O
+bus	B-Object
+driver	O
+but	O
+i	O
+think	O
+bus	B-Aspect
+drivers	O
+should	O
+be	O
+held	O
+a	O
+greater	B-Predicate
+standard	O
+of	O
+safety	B-Aspect
+/	O
+caution	O
+.	O
+
+using	O
+this	O
+same	O
+logic	O
+,	O
+we	O
+could	O
+assume	O
+that	O
+a	O
+monster	O
+truck	O
+is	O
+faster	B-Predicate
+than	O
+a	O
+porsche	O
+,	O
+or	O
+a	O
+school	O
+bus	B-Object
+is	O
+capable	O
+of	O
+higher	B-Predicate
+speed	B-Aspect
+than	O
+a	O
+jaguar	B-Object
+e	O
+-	O
+type	O
+.	O
+
+with	O
+a	O
+more	B-Predicate
+relaxing	O
+and	O
+versatile	O
+interior	B-Aspect
+than	O
+the	O
+large	O
+truck	O
+-	O
+based	O
+suvs	O
+,	O
+the	O
+acadia	O
+also	O
+delivers	O
+higher	O
+fuel	B-Aspect
+economy	O
+and	O
+better	B-Predicate
+handling	B-Aspect
+-	O
+in	O
+this	O
+case	O
+,	O
+maneuverability	O
+more	B-Predicate
+like	B-Predicate
+a	O
+large	O
+car	O
+than	O
+a	O
+bus	B-Object
+.	O
+
+the	O
+lateral	O
+displacement	O
+criteria	O
+is	O
+less	B-Predicate
+for	O
+a	O
+bus	O
+because	O
+a	O
+large	O
+bus	O
+has	O
+a	O
+longer	B-Predicate
+wheelbase	B-Aspect
+than	O
+a	O
+truck	O
+tractor	O
+and	O
+higher	B-Predicate
+steering	B-Aspect
+ratio	B-Aspect
+,	O
+which	O
+makes	O
+it	O
+less	B-Predicate
+responsive	O
+than	O
+a	O
+truck	B-Predicate
+tractor	O
+.	O
+
+developed	B-Object
+for	O
+an	O
+international	O
+truck	O
+manufacturer	O
+,	O
+the	O
+oil	O
+pan	O
+is	O
+up	O
+to	O
+50	O
+percent	O
+lighter	B-Predicate
+than	O
+aluminium	B-Object
+,	O
+and	O
+can	O
+resist	O
+stone	B-Object
+and	O
+gravel	B-Aspect
+chip	O
+impact	O
+during	O
+the	O
+typical	O
+1	O
+.	O
+5	O
+million	O
+kilometre	O
+lifetime	O
+of	O
+a	O
+truck	O
+or	O
+bus	B-Aspect
+engine	O
+.	O
+
+the	O
+truck	O
+is	O
+37	B-Predicate
+feet	O
+,	O
+six	O
+inches	O
+long	O
+and	O
+has	O
+a	O
+wheel	O
+base	O
+shorter	O
+than	O
+a	O
+school	O
+bus	B-Object
+.	O
+
+the	O
+load	O
+of	O
+palms	B-Object
+on	O
+the	O
+truck	O
+is	O
+much	O
+taller	O
+than	O
+a	O
+bus	O
+and	O
+very	O
+top	O
+heavy	O
+.	O
+
+missed	O
+turns	O
+in	O
+a	O
+truck	O
+that	O
+'	O
+s	O
+as	O
+long	O
+and	O
+wide	O
+as	O
+a	O
+city	O
+bus	O
+--	O
+and	O
+a	O
+good	O
+deal	O
+taller	O
+--	O
+can	O
+be	O
+problematical	O
+,	O
+since	O
+u	O
+-	O
+turns	O
+and	O
+even	O
+right	O
+and	O
+left	O
+turns	O
+on	O
+narrow	O
+suburban	O
+streets	O
+are	O
+virtually	O
+out	O
+of	O
+the	O
+question	O
+.	O
+
+fact	O
+is	O
+,	O
+adidas	O
+provided	O
+a	O
+better	B-Predicate
+package	O
+and	O
+got	O
+the	O
+deal	B-Aspect
+by	O
+agreeing	O
+to	O
+outfit	O
+all	O
+ku	O
+sports	O
+teams	O
+,	O
+unlike	O
+nike	O
+.	O
+
+adidas	O
+is	O
+growing	B-Aspect
+faster	B-Predicate
+than	O
+nike	O
+in	O
+other	O
+asian	O
+markets	O
+,	O
+too	O
+,	O
+notably	O
+in	O
+china	O
+.	O
+
+adidas	O
+reported	O
+a	O
+15	O
+per	O
+cent	O
+sales	B-Aspect
+increase	O
+in	O
+china	O
+last	O
+year	O
+,	O
+growing	B-Aspect
+faster	B-Predicate
+than	O
+its	O
+rivals	O
+including	O
+nike	O
+of	O
+the	O
+united	O
+states	O
+and	O
+home	O
+-	O
+grown	O
+brand	O
+li	O
+ning	O
+amid	O
+intense	O
+competition	O
+.	O
+
+i	O
+also	O
+tried	O
+using	O
+a	O
+cheaper	B-Predicate
+adidas	O
+trail	O
+shoe	O
+and	O
+,	O
+although	O
+better	B-Predicate
+than	O
+the	O
+nike	O
+,	O
+was	O
+pretty	O
+bad	O
+.	O
+
+adidas	O
+apparel	O
+also	O
+goes	O
+on	O
+sale	O
+sooner	O
+and	O
+is	O
+cheaper	B-Predicate
+than	O
+nike	O
+sale	O
+apparel	O
+.	O
+
+i	O
+like	O
+adidas	O
+,	O
+personally	O
+-	O
+mostly	O
+because	O
+i	O
+can	O
+get	O
+it	O
+a	O
+bit	O
+cheaper	B-Predicate
+online	B-Aspect
+than	O
+nike	O
+.	O
+
+while	O
+adidas	O
+products	O
+are	O
+generally	O
+cheaper	B-Predicate
+than	O
+nike	O
+products	O
+,	O
+much	O
+of	O
+the	O
+pricing	O
+can	O
+be	O
+directly	O
+proportional	O
+to	O
+the	O
+type	O
+of	O
+technology	O
+incorporated	O
+into	O
+the	O
+shoe	O
+.	O
+
+i	O
+don	O
+'	O
+t	O
+have	O
+anything	O
+against	O
+adidas	O
+,	O
+but	O
+i	O
+do	O
+think	O
+that	O
+our	O
+uni	O
+'	O
+s	O
+materials	O
+look	O
+cheaper	B-Predicate
+than	O
+the	O
+nike	O
+ones	O
+(	O
+example	O
+:	O
+the	O
+up	O
+-	O
+and	O
+-	O
+down	O
+curves	O
+running	O
+across	O
+the	O
+numbers	O
+for	O
+the	O
+first	O
+2	O
+years	O
+with	O
+adidas	O
+).	O
+
+while	O
+the	O
+video	B-Object
+cuts	O
+off	O
+before	O
+a	O
+full	O
+explanation	O
+,	O
+it	O
+appears	O
+kanye	O
+intends	O
+for	O
+his	O
+adidas	O
+collaborations	O
+to	O
+be	O
+produced	O
+in	O
+greater	B-Predicate
+quantities	O
+than	O
+his	O
+nike	O
+venture	O
+,	O
+hopefully	O
+making	O
+it	O
+easier	B-Predicate
+for	O
+all	O
+his	O
+fans	I-Aspect
+to	O
+access	O
+a	O
+pair	O
+.	O
+
+adidas	O
+fan	O
+apparel	O
+is	O
+nothing	O
+compared	O
+to	O
+what	O
+nike	O
+has	O
+to	O
+offer	O
+.	O
+
+7	O
+reasons	O
+adidas	O
+is	O
+a	O
+better	B-Predicate
+fit	B-Aspect
+for	O
+kanye	O
+than	O
+nike	O
+.	O
+
+and	O
+to	O
+prove	O
+it	O
+,	O
+we	O
+came	O
+up	O
+with	O
+a	O
+list	O
+of	O
+the	O
+7	O
+reasons	O
+why	O
+adidas	O
+is	O
+going	O
+to	O
+be	O
+a	O
+better	B-Predicate
+fit	B-Aspect
+for	O
+kanye	O
+west	O
+than	O
+nike	O
+.	O
+
+after	O
+hearing	O
+kanye	O
+speak	O
+at	O
+the	O
+conference	O
+,	O
+we	O
+can	O
+'	O
+t	O
+help	O
+but	O
+think	O
+that	O
+the	O
+situation	O
+he	O
+has	O
+going	O
+with	O
+adidas	O
+right	O
+now	O
+will	O
+ultimately	O
+be	O
+better	B-Predicate
+for	O
+him	O
+in	O
+the	O
+long	O
+run	O
+than	O
+the	O
+relationship	O
+he	O
+had	O
+with	O
+nike	O
+.	O
+
+plus	O
+,	O
+adidas	B-Aspect
+is	O
+better	B-Predicate
+for	O
+people	O
+w	O
+/	O
+wide	O
+feet	O
+than	O
+nike	O
+,	O
+and	O
+they	O
+'	O
+re	O
+more	O
+flexible	O
+than	O
+some	O
+.	O
+
+the	O
+nike	O
+shoes	O
+are	O
+currently	O
+tied	B-Aspect
+with	O
+or	O
+slightly	O
+lighter	B-Predicate
+than	O
+the	O
+most	O
+recent	O
+adidas	O
+shoe	O
+,	O
+the	O
+d	O
+'	O
+artagnan	O
+iv	O
+.	O
+
+if	O
+the	O
+new	O
+nike	O
+football	B-Object
+cleat	O
+is	O
+1	O
+.	O
+1	O
+ounces	O
+lighter	B-Predicate
+than	O
+adidas	O
+'	O
+football	B-Object
+cleat	O
+,	O
+and	O
+the	O
+macbook	O
+air	O
+is	O
+1	B-Aspect
+.	O
+5	O
+pounds	O
+lighter	B-Predicate
+than	O
+the	O
+macbook	O
+pro	O
+,	O
+the	O
+race	O
+to	O
+the	O
+lightest	O
+is	O
+clearly	O
+underway	O
+.	O
+
+puma	O
+also	O
+do	O
+a	O
+good	O
+job	O
+of	O
+keeping	O
+the	O
+boot	O
+in	O
+good	O
+stead	O
+weight	O
+wise	O
+,	O
+at	O
+a	O
+very	O
+competitive	O
+9	O
+.	O
+2oz	O
+,	O
+leaving	O
+them	O
+very	O
+close	B-Predicate
+to	O
+the	O
+new	O
+nike	O
+ctr360	O
+maestri	O
+ii	O
+(	O
+8	O
+.	O
+8oz	O
+)	O
+and	O
+lighter	B-Predicate
+than	O
+the	O
+adidas	O
+adipure	O
+iv	O
+(	O
+9	O
+.	O
+8oz	O
+).	O
+
+the	O
+adidas	O
+tj	O
+2	O
+will	O
+be	O
+a	O
+bit	O
+lighter	B-Predicate
+(	O
+7	O
+.	O
+8oz	O
+),	O
+than	O
+the	O
+nike	O
+tj	O
+3	O
+(	O
+10	O
+.	O
+0oz	O
+).	O
+
+foolish	O
+bottom	B-Predicate
+line	O
+in	O
+the	O
+sports	O
+apparel	O
+arena	O
+,	O
+nike	O
+and	O
+under	O
+armour	O
+are	O
+playing	B-Predicate
+smarter	B-Predicate
+than	O
+adidas	O
+and	O
+lululemon	O
+.	O
+
+although	O
+nike	O
+scored	O
+higher	B-Predicate
+than	O
+rival	O
+adidas	O
+overall	O
+,	O
+adidas	O
+was	O
+more	O
+popular	O
+than	O
+nike	O
+among	O
+teenagers	O
+.	O
+
+in	O
+the	O
+soccer	B-Object
+market	B-Aspect
+,	O
+adidas	O
+actually	O
+has	O
+higher	B-Predicate
+sales	B-Aspect
+than	O
+nike	O
+,	O
+with	O
+$	O
+2	O
+.	O
+4	O
+billion	O
+vs	O
+.	O
+$	O
+1	O
+.	O
+9	O
+billion	O
+.	O
+
+and	O
+nike	O
+placed	O
+higher	B-Predicate
+than	O
+rival	O
+adidas	O
+,	O
+despite	O
+the	O
+latter	O
+spending	O
+more	O
+than	O
+three	O
+times	O
+as	O
+much	O
+on	O
+advertising	O
+,	O
+at	O
+$	O
+177m	O
+.	O
+
+song	B-Object
+jordans	O
+was	O
+reintroduced	O
+in	O
+activity	O
+nevertheless	O
+he	O
+was	O
+proximate	O
+innumerable	O
+with	O
+the	O
+adidas	O
+yeezy	O
+boost	O
+750	O
+pass	O
+higher	B-Predicate
+than	O
+nike	O
+adidas	O
+yeezy	O
+boost	O
+750	O
+for	O
+sale	O
+sensibility	O
+adidas	O
+yeezy	O
+boost	O
+750	O
+jordan	O
+adidas	O
+yeezy	O
+boost	O
+750	O
+versions	O
+but	O
+also	O
+termed	O
+premature	O
+ejaculation	O
+.	O
+
+well	O
+apparently	O
+from	O
+media	O
+reports	O
+its	O
+something	O
+to	O
+do	O
+with	O
+adidas	O
+being	O
+more	B-Predicate
+willing	O
+at	O
+the	O
+moment	O
+to	O
+pledge	O
+higher	B-Predicate
+amounts	B-Aspect
+of	O
+money	I-Aspect
+into	O
+their	O
+teams	O
+than	O
+nike	O
+are	O
+,	O
+so	O
+maybe	O
+it	O
+could	O
+see	O
+a	O
+few	O
+teams	O
+switch	O
+from	O
+nike	O
+to	O
+adidas	O
+.	O
+
+if	O
+adidas	O
+is	O
+so	O
+much	O
+worse	B-Predicate
+than	O
+nike	O
+than	O
+somebody	B-Object
+better	B-Predicate
+tell	O
+the	O
+nfl	O
+.	O
+
+a	O
+big	O
+reason	O
+why	O
+nike	O
+got	O
+the	O
+nfl	O
+contract	O
+is	O
+they	O
+are	O
+much	O
+better	B-Predicate
+at	O
+marketing	O
+sports	O
+gear	O
+than	O
+reebok	O
+/	O
+adidas	O
+.	O
+
+notre	B-Object
+dame	O
+has	O
+contracts	O
+with	O
+adidas	O
+and	O
+champion	O
+,	O
+which	O
+are	O
+no	B-Predicate
+better	I-Predicate
+than	O
+nike	O
+,	O
+he	O
+said	O
+.	O
+
+the	O
+two	O
+designs	O
+nike	O
+has	O
+come	O
+up	O
+with	O
+for	O
+the	O
+team	O
+so	O
+far	O
+have	O
+both	O
+been	O
+winners	O
+-	O
+much	O
+better	B-Predicate
+than	O
+the	O
+atrocities	O
+adidas	B-Aspect
+forked	O
+out	O
+by	O
+the	O
+end	O
+of	O
+their	O
+contract	O
+.	O
+
+signed	O
+new	O
+contract	O
+with	O
+adidas	O
+...	O
+making	O
+$	O
+3	O
+.	O
+5	O
+million	O
+more	B-Predicate
+annually	O
+than	O
+nike	O
+contract	O
+.	O
+
+nike	O
+now	O
+spends	O
+more	B-Predicate
+on	O
+non	O
+-	O
+traditional	O
+brand	O
+marketing	O
+than	O
+any	O
+of	O
+the	O
+other	O
+top	O
+100	O
+us	O
+advertisers	B-Aspect
+,	O
+while	O
+its	O
+revenues	O
+and	O
+income	B-Aspect
+continue	O
+to	O
+grow	O
+at	O
+a	O
+faster	B-Predicate
+pace	O
+than	O
+those	O
+of	O
+its	O
+closest	O
+rivals	O
+,	O
+such	O
+as	O
+adidas	O
+.	O
+
+adidas	O
+can	O
+do	O
+it	O
+in	O
+the	O
+design	O
+,	O
+but	O
+nike	O
+has	O
+significantly	O
+better	B-Predicate
+marketing	B-Aspect
+.	O
+
+i	O
+have	O
+ocd	O
+about	O
+matching	O
+stuff	O
+when	O
+i	O
+'	O
+m	O
+playing	O
+sports	O
+,	O
+so	O
+i	O
+wear	O
+all	O
+nike	O
+stuff	O
+because	O
+nike	O
+shoes	O
+fit	O
+my	O
+feet	O
+better	B-Predicate
+than	O
+adidas	O
+/	O
+puma	B-Object
+/	O
+etc	O
+(	O
+and	O
+i	O
+'	O
+ve	O
+worn	O
+nike	O
+since	O
+long	O
+before	O
+i	O
+even	O
+played	O
+tennis	B-Object
+).	O
+
+the	O
+nike	O
+deal	O
+would	O
+be	O
+worth	O
+less	B-Predicate
+but	O
+they	O
+would	O
+probably	O
+make	O
+more	B-Predicate
+because	O
+lots	O
+more	B-Predicate
+people	O
+would	O
+buy	O
+it	O
+and	O
+the	O
+fit	O
+and	O
+quality	B-Aspect
+are	O
+far	O
+superior	B-Predicate
+to	O
+both	O
+adidas	O
+and	O
+ua	O
+.	O
+
+i	O
+'	O
+ve	O
+always	O
+personally	O
+liked	O
+nike	O
+much	O
+better	B-Predicate
+than	O
+adidas	O
+--	O
+better	B-Predicate
+quality	O
+,	O
+better	B-Predicate
+design	O
+...	O
+practically	O
+all	O
+of	O
+my	O
+sporting	O
+outfits	O
+are	O
+from	O
+nike	O
+,	O
+and	O
+i	O
+rarely	O
+gave	O
+adidas	O
+a	O
+thought	O
+.	O
+
+but	O
+i	O
+never	O
+had	O
+a	O
+single	B-Aspect
+complaint	B-Aspect
+about	O
+the	O
+nike	B-Aspect
+product	O
+...	O
+i	O
+also	O
+find	O
+that	O
+the	O
+quality	B-Aspect
+of	O
+nike	O
+'	O
+s	O
+compression	O
+gear	O
+is	O
+far	O
+superior	B-Predicate
+to	O
+under	O
+armour	O
+or	O
+adidas	O
+.	O
+
+nike	O
+might	O
+have	O
+a	O
+better	B-Predicate
+look	B-Predicate
+to	O
+their	O
+shoes	O
+,	O
+i	O
+'	O
+ll	O
+give	O
+them	O
+that	O
+,	O
+but	O
+adidas	O
+is	O
+superior	B-Predicate
+in	O
+comfort	O
+and	O
+especially	O
+in	O
+quality	O
+of	O
+shoe	O
+.	O
+
+mobile	O
+coupons	O
+are	O
+easier	B-Predicate
+and	O
+faster	B-Predicate
+to	O
+use	O
+for	O
+people	O
+than	O
+cutting	O
+out	O
+paper	O
+coupons	B-Object
+and	O
+storing	O
+them	O
+in	O
+a	O
+wallet	O
+,	O
+he	O
+said	O
+.	O
+
+but	O
+proponents	O
+of	O
+nfc	O
+on	O
+mobile	O
+argue	O
+that	O
+it	O
+'	O
+s	O
+even	O
+faster	B-Predicate
+and	O
+easier	B-Predicate
+to	O
+use	O
+the	O
+device	O
+that	O
+'	O
+s	O
+likely	O
+already	O
+in	O
+your	O
+hand	O
+-	O
+your	O
+smartphone	O
+-	O
+rather	O
+than	O
+digging	O
+around	O
+for	O
+the	O
+wallet	O
+that	O
+holds	O
+that	O
+credit	O
+card	O
+.	O
+
+except	O
+for	O
+the	O
+novelty	O
+factor	O
+,	O
+mobile	O
+payments	B-Aspect
+aren	B-Predicate
+'	O
+t	I-Predicate
+much	O
+easier	B-Predicate
+than	O
+fetching	O
+a	O
+card	O
+out	O
+of	O
+a	O
+wallet	O
+or	O
+cash	O
+out	O
+of	O
+a	O
+pocket	O
+.	O
+
+in	O
+theory	O
+,	O
+mobile	O
+payments	B-Aspect
+should	O
+be	O
+faster	B-Predicate
+than	O
+rooting	B-Object
+through	O
+your	O
+wallet	O
+or	O
+purse	O
+for	O
+spare	O
+change	O
+.	O
+
+and	O
+because	O
+mobile	O
+phones	O
+are	O
+widely	O
+and	O
+often	O
+used	O
+,	O
+customers	O
+usually	O
+notice	O
+when	O
+they	O
+'	O
+re	O
+missing	O
+their	O
+phone	O
+faster	B-Predicate
+than	O
+they	O
+would	O
+a	O
+wallet	O
+or	O
+check	O
+book	O
+.	O
+
+consumers	O
+may	O
+be	O
+concerned	O
+about	O
+having	O
+their	O
+cards	B-Aspect
+in	O
+their	O
+mobile	O
+phone	O
+,	O
+but	O
+actually	O
+the	O
+mobile	B-Aspect
+phone	O
+is	O
+going	O
+to	O
+be	O
+a	O
+safer	B-Predicate
+place	O
+to	O
+have	O
+your	O
+cards	O
+than	O
+your	O
+existing	O
+physical	O
+wallet	O
+,	O
+he	O
+added	O
+.	O
+
+because	O
+information	O
+is	O
+highly	O
+encrypted	O
+,	O
+mobile	O
+commerce	B-Aspect
+may	O
+be	O
+safer	B-Predicate
+than	O
+credit	O
+cards	O
+stored	O
+in	O
+your	O
+wallet	O
+.	O
+
+and	O
+for	O
+consumers	O
+worried	O
+about	O
+mobile	O
+payment	O
+security	O
+,	O
+isis	O
+touts	O
+their	O
+system	O
+as	O
+safer	B-Predicate
+than	O
+your	O
+existing	O
+wallet	O
+.	O
+
+donahoe	O
+'	O
+s	O
+argument	O
+was	O
+that	O
+there	O
+isn	O
+'	O
+t	O
+a	O
+shred	O
+of	O
+financial	O
+information	O
+stored	O
+on	O
+the	O
+mobile	O
+phone	O
+,	O
+which	O
+makes	O
+it	O
+a	O
+much	O
+safer	B-Predicate
+entity	O
+to	O
+lose	B-Aspect
+than	O
+the	O
+wallet	O
+by	O
+comparison	O
+.	O
+
+,	O
+but	O
+people	O
+will	O
+typically	O
+realize	O
+that	O
+they	O
+are	O
+without	O
+their	O
+mobile	O
+phone	O
+quicker	B-Predicate
+than	O
+noticing	O
+the	O
+loss	O
+of	O
+a	O
+card	O
+or	O
+their	O
+physical	O
+wallet	O
+which	O
+is	O
+an	O
+additional	O
+security	O
+measure	O
+in	O
+itself	O
+.	O
+
+google	B-Object
+inc	O
+.	O
+is	O
+betting	O
+its	O
+latest	O
+mobile	O
+payments	O
+incarnation	O
+-	O
+android	O
+pay	O
+-	O
+will	O
+work	O
+better	B-Predicate
+than	O
+google	B-Object
+wallet	O
+did	O
+.	O
+
+we	O
+'	O
+re	O
+waiting	O
+to	O
+see	O
+if	O
+apple	B-Object
+can	O
+pull	O
+off	O
+mobile	O
+payments	O
+,	O
+and	O
+if	O
+it	O
+can	O
+create	O
+a	O
+better	B-Predicate
+system	B-Aspect
+than	O
+google	B-Object
+wallet	B-Aspect
+.	O
+
+the	O
+demographics	O
+of	O
+mobile	O
+device	O
+users	O
+who	O
+prefer	O
+qr	O
+codes	O
+also	O
+show	O
+the	O
+acceptance	O
+of	O
+qr	O
+codes	O
+as	O
+the	O
+go	O
+-	O
+to	O
+mobile	O
+payment	O
+system	O
+,	O
+even	O
+greater	B-Predicate
+than	O
+nfc	O
+,	O
+as	O
+with	O
+google	B-Object
+wallet	O
+or	O
+isis	O
+.	O
+
+it	O
+turns	O
+out	O
+that	O
+searching	O
+through	O
+the	O
+digital	O
+contents	O
+of	O
+a	O
+person	O
+'	O
+s	O
+mobile	O
+phone	O
+is	O
+more	O
+intrusive	O
+than	O
+rifling	O
+through	O
+an	O
+address	O
+book	O
+,	O
+wallet	O
+,	O
+or	O
+purse	O
+.	O
 
